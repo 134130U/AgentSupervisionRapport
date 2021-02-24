@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="24px" viewBox="0 0 26 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>icon/action/account_circle_24px copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.5,8.125 L17.5,5.625 L12.5,5.625 L12.5,8.125 L17.5,8.125 Z M5,10.625 L5,24.375 L25,24.375 L25,10.625 L5,10.625 Z M25,8.125 C26.3875,8.125 27.5,9.2375 27.5,10.625 L27.5,24.375 C27.5,25.7625 26.3875,26.875 25,26.875 L5,26.875 C3.6125,26.875 2.5,25.7625 2.5,24.375 L2.5125,10.625 C2.5125,9.2375 3.6125,8.125 5,8.125 L10,8.125 L10,5.625 C10,4.2375 11.1125,3.125 12.5,3.125 L17.5,3.125 C18.8875,3.125 20,4.2375 20,5.625 L20,8.125 L25,8.125 Z" id="path-1"></path>
+    </defs>
+    <g id="Admin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-875.000000, -59.000000)">
+            <g id="icon/action/work_outline_24px" transform="translate(873.000000, 56.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g fill-rule="nonzero"></g>
+                <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54" fill-rule="evenodd">
+                    <rect id="Rectangle" x="0" y="0" width="30" height="30"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

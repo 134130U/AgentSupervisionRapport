@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>icon/action/account_circle_24px copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15,2.5 C8.1,2.5 2.5,8.1 2.5,15 C2.5,21.9 8.1,27.5 15,27.5 C21.9,27.5 27.5,21.9 27.5,15 C27.5,8.1 21.9,2.5 15,2.5 Z M8.8375,22.85 C9.375,21.725 12.65,20.625 15,20.625 C17.35,20.625 20.6375,21.725 21.1625,22.85 C19.4625,24.2 17.325,25 15,25 C12.675,25 10.5375,24.2 8.8375,22.85 Z M22.95,21.0375 C21.1625,18.8625 16.825,18.125 15,18.125 C13.175,18.125 8.8375,18.8625 7.05,21.0375 C5.775,19.3625 5,17.275 5,15 C5,9.4875 9.4875,5 15,5 C20.5125,5 25,9.4875 25,15 C25,17.275 24.225,19.3625 22.95,21.0375 L22.95,21.0375 Z M15,7.5 C12.575,7.5 10.625,9.45 10.625,11.875 C10.625,14.3 12.575,16.25 15,16.25 C17.425,16.25 19.375,14.3 19.375,11.875 C19.375,9.45 17.425,7.5 15,7.5 Z M15,13.75 C13.9625,13.75 13.125,12.9125 13.125,11.875 C13.125,10.8375 13.9625,10 15,10 C16.0375,10 16.875,10.8375 16.875,11.875 C16.875,12.9125 16.0375,13.75 15,13.75 Z" id="path-1"></path>
+    </defs>
+    <g id="Admin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1165.000000, -58.000000)">
+            <g id="icon/action/account_circle_24px" transform="translate(1163.000000, 56.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g fill-rule="nonzero"></g>
+                <g id="✱-/-Color-/-Icons-/-Black-/-Inactive" mask="url(#mask-2)" fill="#000000" fill-opacity="0.54" fill-rule="evenodd">
+                    <rect id="Rectangle" x="0" y="0" width="30" height="30"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

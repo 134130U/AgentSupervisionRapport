@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 60.1 (101010) - https://sketch.com -->
+    <title>DA1FD9A8-B8C2-4B7D-BE76-F20F08637E22_outlined</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M22.5,2.5 L7.5,2.5 C6.125,2.5 5,3.625 5,5 L5,25 C5,26.375 6.125,27.5 7.5,27.5 L22.5,27.5 C23.875,27.5 25,26.375 25,25 L25,5 C25,3.625 23.875,2.5 22.5,2.5 Z M11.25,5 L13.75,5 L13.75,11.25 L12.5,10.3125 L11.25,11.25 L11.25,5 Z M22.5,25 L7.5,25 L7.5,5 L8.75,5 L8.75,16.25 L12.5,13.4375 L16.25,16.25 L16.25,5 L22.5,5 L22.5,25 Z" id="path-1"></path>
+    </defs>
+    <g id="Asset-Artboard-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/action/account_circle_24px-icon/action/book_24px">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="icon/action/book_24px" fill-rule="nonzero"></g>
+            <g id="↳-Color-✱-/-Color-/-Icons-/-Primary-or-Secondary" mask="url(#mask-2)" fill="#66C08E">
+                <g id="↳-Tonal-Palette-✱-/-Color-/-Primary-/-Main">
+                    <g id="↳-Tonal-Palette-✱-/-Color-/-Primary-/-300">
+                        <rect id="Rectangle-13" x="0" y="0" width="30" height="30"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
