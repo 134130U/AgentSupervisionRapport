@@ -11,7 +11,5 @@ select agent_id,closed_date,agent,type_ticket, to_char(closed_date,'yyyy')::int 
     where t.solved_at is not null and assigned_at is not null
     and t.type_ticket in ('Ticket technique', 'Reposséder')
     and t.assigned_to is not null and u.role_id in (11,18,5,14)
-	and status in ('à faire','cloturer','customer_paid') and deleted is False
+	and status in ('cloturer','customer_paid') and deleted is False
 		 group by 1,2,3,4,5)tab
-
--- limit 100
