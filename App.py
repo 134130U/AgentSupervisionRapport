@@ -1,12 +1,10 @@
 import calendar
 import pandas as pd
-import matplotlib.pyplot as plt
 import numpy as np
 import dash
 import dash_bootstrap_components as dbc
 import dash_html_components as html
 import dash_core_components as dcc
-import plotly.express as px
 from dash.dependencies import Input, Output
 import dash_table as dt
 import  psycopg2
@@ -15,8 +13,16 @@ from sqlalchemy import text
 from datetime import date
 from datetime import timedelta
 import collect
+import atexit
+
+from apscheduler.schedulers.background import BackgroundScheduler
 
 collect.get_data()
+
+scheduler = BackgroundScheduler(daemon=True)
+scheduler.add_job(func=collect.get_data, trigger="interval", minutes=60)
+scheduler.start()
+
 
 df_ag_sup= pd.read_csv('Data/ag_sup.csv')
 df_stock= pd.read_csv('Data/stock.csv')
@@ -171,6 +177,7 @@ week_ticket_col.remove('agent_id')
 week_ticket_col.remove('annee')
 week_ticket_col.remove('mois')
 
+
 week_ticket_col = get_col(week_ticket_col)
 #=============================================== Backlog =====================================================================
 backlog_col = list(df_backlog.columns)
@@ -178,7 +185,8 @@ backlog_col.remove('agent')
 backlog_col.remove('agent_id')
 
 
-
+sale_col1 = sale_col + ['Total du mois']
+week_ticket_col1 = week_ticket_col + ['Total du mois']
 
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
@@ -186,7 +194,7 @@ app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.layout = html.Div([
                         dcc.Interval(
                                 id='interval-component',
-                                interval=300*1000, # in milliseconds
+                                interval=120*1000, # in milliseconds
                                 n_intervals=0
                             ),
                         dcc.Location(id='url', refresh=False),
@@ -202,7 +210,7 @@ app.layout = html.Div([
                                          )],className="one-third column",
                                     ),width={'size': 1}),
                                 dbc.Col([
-                                    html.H1('Rapport Agents',
+                                    html.H1('Rapport Agent',
                                             style={
                                                 'font-size': '450%',
                                                 'textAlign': 'center',
@@ -262,7 +270,7 @@ app.layout = html.Div([
                                     dt.DataTable(
                                         id = 'week_sales',
                                         style_header=table_header_style,
-                                        columns= [{'name':i, 'id': i} for i in sale_col],
+                                        columns= [{'name':i, 'id': i} for i in sale_col1],
                                         # data=df1.to_dict('records'),
                                         style_table={'height': '280px', 'overflowY': 'auto',"font-family":"Montserrat"},
                                         style_cell={'minWidth': '0px', 'maxWidth': '100px','width':'40px','fontSize':11,  'textAlign': 'center',"font-family":"Montserrat"},
@@ -308,7 +316,7 @@ app.layout = html.Div([
                                     dt.DataTable(
                                         id = 'week_rep',
                                         style_header=table_header_style,
-                                        columns= [{'name':i, 'id': i} for i in week_ticket_col],
+                                        columns= [{'name':i, 'id': i} for i in week_ticket_col1],
                                         # data=df1.to_dict('records'),
                                         style_table={'height': '150px', 'overflowY': 'auto',"font-family":"Montserrat"},
                                         style_cell={'minWidth': '0px', 'maxWidth': '100px','width':'40px','fontSize':11,"font-family":"Montserrat", 'textAlign': 'center'},
@@ -324,7 +332,8 @@ app.layout = html.Div([
                         ]),
                     html.Div(
                                 id='update-connection'
-                            )
+                            ),
+                    html.Div(html.A(html.Button('Retour',className='one columns'),href='http://212.47.246.218:8030/'))
 
 ])
 
@@ -355,9 +364,11 @@ def update_table(pathname):
     data_table3.loc[:,'group_prix'] = 'Revenues Totale en CFA'
     data_table3 = data_table3[sale_col]
     table_sales = pd.concat([data_table1, total,data_table3],sort=False)
+    table_sales.loc[:, 'Total du mois'] = table_sales.sum(numeric_only=True, axis=1)
 
     data_table5 = df_ticket[df_ticket['agent_id'] == agent]
     table_sav = data_table5[week_ticket_col]
+    table_sav.loc[:, 'Total du mois'] = table_sav.sum(numeric_only=True, axis=1)
 
     table_stock = dfstocks[dfstocks['agent_id'] == agent]
     backlog_table = df_backlog[df_backlog['agent_id'] == agent]
@@ -371,10 +382,12 @@ def update_table(pathname):
 
 
 def update_connection(n):
+    global sale_col
     if n > 0:
         collect.get_data()
+        sale_col = get_col(sale_col)
         print('data have been updated')
         return ''
 
 if __name__ == '__main__':
-    app.run_server(debug=True, host='0.0.0.0', port=8083)
+    app.run_server(debug=True,dev_tools_ui=False, host='0.0.0.0', port=8083)
