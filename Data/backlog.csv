@@ -1,10 +1,7 @@
 agent_id,agent,type_ticket,backlog
-2862,KADIALY MORO DANGNOKHO,Reposséder,1
-501,dorcas adeoti,Reposséder,13
 1498,Arsene koulade,Ticket technique,1
 215,PAPE IBRAHIMA  FAYE,Ticket technique,1
-314,Olalekan Aluko,Ticket technique,10
-3323,Helen Onofuevure ,Reposséder,1
+1158,Senou Fofana,Ticket technique,1
 1693,Joshua Nalumeba,Reposséder,12
 2311,Amadou Tidiane Diagne,Reposséder,7
 1907,VICTOR EJIMADU,Ticket technique,1
@@ -12,21 +9,22 @@ agent_id,agent,type_ticket,backlog
 2448,Abdoulaye Ballo,Reposséder,2
 422,Jean Paul Kanté,Ticket technique,9
 114,NIOKHOR TINE,Reposséder,14
-188,Samuel Coulibaly,Ticket technique,3
+188,Samuel Coulibaly,Ticket technique,2
 1786,usman musa ogba,Ticket technique,5
-1367,Wagnatou Diallo,Ticket technique,7
+1367,Wagnatou Diallo,Ticket technique,5
 2962,ALPHA OUMAR  DIALLO,Ticket technique,1
-2885,MARITEW CHIMER GUEYE,Reposséder,2
+2885,MARITEW CHIMER GUEYE,Reposséder,3
 2485,EL HADJI ABDOULAYE DIOUF,Ticket technique,2
+3599,BAMBA NDJIBOU FAYE,Ticket technique,1
 175,Moussa Souleymane  Keita,Ticket technique,1
 2490,Souleymane Yattara,Reposséder,6
-193,Dougoutigui Konate,Ticket technique,1
+193,Dougoutigui Konate,Ticket technique,2
 2479,Olusegun Stephen Adetoro,Ticket technique,5
 3192,THIERNO AMED TIDIANE TOURE,Reposséder,1
 3365,Badian Diarra,Ticket technique,2
+229,MATHIEU PREIRA  RODRIGUEZ,Reposséder,3
 3375,SEYNI NDIAYE,Reposséder,1
 2734,Ousmane Sangaré,Ticket technique,1
-2474,Nasert Magnan TIAHO,Ticket technique,1
 190,Abba Goita,Reposséder,1
 688,ABDOULAYE NIANG,Reposséder,2
 283,Fasirima Sissoko ,Ticket technique,1
@@ -34,38 +32,42 @@ agent_id,agent,type_ticket,backlog
 3249,Makan Sissoko,Reposséder,4
 3560,BOUBACAR DEMBA,Reposséder,1
 484,Siliman Bathily,Ticket technique,1
-240,MAMADOU DIALLO agentcom122,Reposséder,11
-200,Mamadou Keita,Ticket technique,10
-569,Seydou D Koné,Ticket technique,2
+200,Mamadou Keita,Ticket technique,11
+569,Seydou D Koné,Ticket technique,1
 3425,Bright  Inivie,Ticket technique,1
 3288,Lucky Victor Tombara,Ticket technique,1
 2536,alti abdou,Reposséder,1
 1690,Wilson Ledum,Reposséder,13
 286,MANDIAYE  DIENG,Reposséder,16
-2125,DJIBRIL   FAYE,Reposséder,22
+2125,DJIBRIL   FAYE,Reposséder,23
 2315,Abdou Habibou,Reposséder,3
 3240,Muyideen Aremu Alabi,Ticket technique,1
 2218,CHEIKH  DIOP,Reposséder,1
-2312,Hinsa Idrissa,Reposséder,1
+2312,Hinsa Idrissa,Reposséder,2
 3293,Sonuga Omotayo Saheed,Ticket technique,2
 472,Appolinaire DAKYO,Reposséder,1
-221,OUMAR  BADJI,Ticket technique,2
+221,OUMAR  BADJI,Ticket technique,3
 300,Lacine Diakite,Reposséder,3
 3185,APIOU NEBIE,Reposséder,1
+1725,Aboudou Fomba,Ticket technique,2
+1705,PETER AJOMA,Reposséder,3
+2739,Dramane Coulibaly,Ticket technique,6
 2031,Marabata Siby,Reposséder,1
+3749,Kassoum OUEDRAOGO,Reposséder,1
+2139,Mahamadou Chaibou,Reposséder,6
+3107,MAMADOU  DIALLO tambapoly24,Reposséder,4
+1301,Yacouba Dao,Reposséder,1
 535,MAMADOU  DEME,Reposséder,3
-2321,JACQUES  SARR,Reposséder,42
-2000,EL HADJ AROUNA  SY,Ticket technique,1
+2321,JACQUES  SARR,Reposséder,38
 3670,Emmanuel Dabou,Reposséder,1
 82,Abdoulaye Bamako Coulibaly,Ticket technique,4
 1537,Koné Aboubacar,Reposséder,2
-2535,adamou (Youri) boubacar,Reposséder,1
-2582,Chiaka Coumaré,Reposséder,7
+2582,Chiaka Coumaré,Reposséder,6
 584,oluwatobi jimoh,Ticket technique,2
 3565,LAMINE SADIO,Reposséder,1
-403,Issa Sanogo,Reposséder,3
+403,Issa Sanogo,Reposséder,4
 3720,Hamadou TRAORE,Reposséder,1
-3542,FALLOU FAYE,Ticket technique,1
+2384,Issa BORRO,Reposséder,1
 313,Dramane Traoré,Reposséder,1
 1322,Akhuetie victor,Ticket technique,1
 2541,gatti abdourahamani,Reposséder,1
@@ -76,6 +78,7 @@ agent_id,agent,type_ticket,backlog
 376,Bakary Doumbia,Ticket technique,1
 2840,Odioko Harrison ,Ticket technique,5
 2544,Samuel Ayodele Adeshina,Ticket technique,1
+286,MANDIAYE  DIENG,Ticket technique,2
 2765,YERO BARRY,Reposséder,30
 2584,Modibo Sinayoko,Ticket technique,1
 2125,DJIBRIL   FAYE,Ticket technique,1
@@ -87,22 +90,22 @@ agent_id,agent,type_ticket,backlog
 2868,Alered DA,Reposséder,2
 382,Issoumaila Sanogo,Reposséder,2
 1368,Djatourou Abdoulaye,Reposséder,2
-3245,AMADOU SOMBIE,Ticket technique,2
 1270,SELLE MBAYE,Reposséder,5
-291,Bagadian Keita,Reposséder,9
 1438,Mama Sow,Reposséder,2
+291,Bagadian Keita,Reposséder,6
 2034,Godspower Eneziakpo,Reposséder,2
 1767,CHIDIEBERE NELSON,Reposséder,14
 221,OUMAR  BADJI,Reposséder,3
 300,Lacine Diakite,Ticket technique,16
-3716,ADAMA DIALLO,Reposséder,4
-2002,AMADOU DIOULDE BARRY,Reposséder,8
+3716,ADAMA DIALLO,Reposséder,3
+2002,AMADOU DIOULDE BARRY,Reposséder,5
 3534,DEMBA GUEYE,Reposséder,2
+2447,Koulzé Roger SESSOUMA,Ticket technique,1
 1641,Debo Allison,Ticket technique,1
 2739,Dramane Coulibaly,Reposséder,2
 1705,PETER AJOMA,Ticket technique,1
-1301,Yacouba Dao,Ticket technique,1
-2000,EL HADJ AROUNA  SY,Reposséder,2
+2000,EL HADJ AROUNA  SY,Reposséder,3
+2321,JACQUES  SARR,Ticket technique,2
 3725,FODE DIALLO,Reposséder,2
 2341,aliyu isah,Ticket technique,2
 82,Abdoulaye Bamako Coulibaly,Reposséder,2
@@ -110,103 +113,106 @@ agent_id,agent,type_ticket,backlog
 1537,Koné Aboubacar,Ticket technique,2
 3794,MALICK SARR,Reposséder,20
 2318,BOURAMA  MANE,Reposséder,2
-2552,AMATH  DIAGNE,Reposséder,2
+2552,AMATH  DIAGNE,Reposséder,1
 2678,Hari Odiokoh,Ticket technique,2
-313,Dramane Traoré,Ticket technique,5
-2608,Abdoul Azizé GUIGMA,Reposséder,1
-3698,Zinta Boris TIRA,Reposséder,2
-3211,ADAMA PONI OUATTARA,Ticket technique,1
+313,Dramane Traoré,Ticket technique,6
+3698,Zinta Boris TIRA,Reposséder,1
 381,Kassim Tounkara,Ticket technique,1
 544,ISMAILA  KA,Reposséder,1
 2582,Chiaka Coumaré,Ticket technique,7
 403,Issa Sanogo,Ticket technique,1
 3720,Hamadou TRAORE,Ticket technique,3
 198,Seydou Coulibaly,Ticket technique,6
-316,Adewole Adegoke,Reposséder,13
+2140,abdoulaye karimou,Ticket technique,1
+3178,GATIEN NAWALIBOU,Ticket technique,1
 1450,THIERNO SALIOU  DOUMBOUYA,Ticket technique,2
-199,Chaka Togola,Ticket technique,6
-1212,Cheick Tidiane  N'diaye ,Ticket technique,8
+199,Chaka Togola,Ticket technique,7
+1212,Cheick Tidiane  N'diaye ,Ticket technique,7
 2636,opeyemi otegbola,Ticket technique,4
-841,Yacouba Fomba,Reposséder,2
+841,Yacouba Fomba,Reposséder,1
 1987,Boubacar Keita,Ticket technique,2
 2446,Toutou Diabaté,Reposséder,7
 361,Modibo Dembele,Reposséder,2
 2744,Sansan SIB,Reposséder,1
-2157,MODOU  LAM,Reposséder,1
+2157,MODOU  LAM,Reposséder,2
 1721,Tiemoko Coulibaly,Ticket technique,3
 433,Yaya Salif Ouattara,Reposséder,1
-261,HAMARO CISSE,Reposséder,28
+261,HAMARO CISSE,Reposséder,23
 3213,Mamadou Diarra,Ticket technique,3
 528,gboyega oluyi,Ticket technique,1
 377,Oumar Doumbia,Reposséder,9
 378,Mahamadou S Coulibaly,Ticket technique,1
 410,Abou Samaké,Reposséder,3
-214,PATHE  WATHIE,Ticket technique,3
 3064,Justine Ike,Reposséder,1
 2742,Ousmane Traoré,Ticket technique,1
-3040,Oludare Babatunde Olumide,Ticket technique,5
-1390,Taiwo Olufemi,Reposséder,6
-3130,SECOU SANE,Reposséder,2
+2323,BABACAR  FAYE,Ticket technique,1
+3040,Oludare Babatunde Olumide,Ticket technique,4
+1390,Taiwo Olufemi,Reposséder,17
+3130,SECOU SANE,Reposséder,1
 1638,Barima Traoré,Reposséder,11
 3804,BALLA BA,Reposséder,4
 2171,Sié SAKO,Reposséder,1
 1399,Soumaila Dao,Reposséder,1
-3592,ABDOULAYE MBACKE DIAW,Reposséder,6
-45,ALPHA BABOU,Ticket technique,1
-3416,FIDÈLE KIENOU,Reposséder,1
+3592,ABDOULAYE MBACKE DIAW,Reposséder,9
+45,ALPHA BABOU,Ticket technique,2
 3141,ABBEY BLESSED,Ticket technique,1
 224,IBRAHIMA NDIAYE,Reposséder,14
-2138,Alassane Mamoudou,Reposséder,10
-3189,YERO KEBE,Ticket technique,1
+2138,Alassane Mamoudou,Reposséder,9
 1364,OUSMANE THIAM,Reposséder,1
 198,Seydou Coulibaly,Reposséder,8
-2140,abdoulaye karimou,Reposséder,8
+2140,abdoulaye karimou,Reposséder,6
+1645,Moussa Coulibaly,Ticket technique,1
 1382,ayodele olusola,Ticket technique,5
-316,Adewole Adegoke,Ticket technique,15
 3685,MAHAMADOU GAYE,Reposséder,5
 1336,Olusola Babalola,Ticket technique,3
+1271,ALMAMY SAMORY  SAGNA,Ticket technique,1
 2446,Toutou Diabaté,Ticket technique,9
 1987,Boubacar Keita,Reposséder,3
 361,Modibo Dembele,Ticket technique,6
-1450,THIERNO SALIOU  DOUMBOUYA,Reposséder,24
-199,Chaka Togola,Reposséder,7
+1450,THIERNO SALIOU  DOUMBOUYA,Reposséder,21
+199,Chaka Togola,Reposséder,8
+2611,seun lamuye,Reposséder,13
 1212,Cheick Tidiane  N'diaye ,Reposséder,7
-2636,opeyemi otegbola,Reposséder,5
-2611,seun lamuye,Reposséder,6
+2636,opeyemi otegbola,Reposséder,9
 841,Yacouba Fomba,Ticket technique,3
-3727,SHIYNYUY FON ASANHUSIEN,Reposséder,1
+3727,SHIYNYUY FON ASANHUSIEN,Reposséder,2
 1643,Abdourahim Rouamba,Reposséder,1
 3213,Mamadou Diarra,Reposséder,1
-261,HAMARO CISSE,Ticket technique,1
+261,HAMARO CISSE,Ticket technique,4
 1724,Tamba Diarra,Ticket technique,1
 3508,Mahamadou Konaté,Ticket technique,2
-2957,ISMAILA SAGNA,Reposséder,5
+2744,Sansan SIB,Ticket technique,1
+1721,Tiemoko Coulibaly,Reposséder,1
+2957,ISMAILA SAGNA,Reposséder,3
 1615,Ismael Sanogo,Reposséder,1
 377,Oumar Doumbia,Ticket technique,10
-1930,IBRAHIMA  DIEME,Reposséder,6
+1930,IBRAHIMA  DIEME,Reposséder,5
 214,PATHE  WATHIE,Reposséder,14
-410,Abou Samaké,Ticket technique,4
 378,Mahamadou S Coulibaly,Reposséder,1
+410,Abou Samaké,Ticket technique,3
 1390,Taiwo Olufemi,Ticket technique,7
-1638,Barima Traoré,Ticket technique,7
-2323,BABACAR  FAYE,Reposséder,21
+1638,Barima Traoré,Ticket technique,6
+2323,BABACAR  FAYE,Reposséder,17
 309,Enock Diarra,Reposséder,2
 45,ALPHA BABOU,Reposséder,17
 1944,abdoulaye Moussa,Reposséder,3
 3016,Matthew Bibowei,Reposséder,1
+2066,Jean SAWADOGO,Ticket technique,1
 3029,Adamou Hamadou,Reposséder,1
 2070,Godwin Bello,Ticket technique,2
 586,adeyinka oluwaseun Obasanjo,Ticket technique,1
 1939,Sani Ali,Reposséder,3
-3141,ABBEY BLESSED,Reposséder,9
-2528,alzouma sadou,Reposséder,2
+3141,ABBEY BLESSED,Reposséder,8
+2528,alzouma sadou,Reposséder,1
+3850,Daouda HEMA,Ticket technique,2
 2314,Halilou Younoussa,Reposséder,1
 220,EL HADJ CHEIKHOU NDOYE,Reposséder,4
 1881,Moïse Lassine Sidibé,Reposséder,1
 268,DJILENE SENE,Reposséder,6
-256,TALLA  FAYE,Ticket technique,2
-2525,moussa soumana,Reposséder,5
-2815,Karim Fabé,Reposséder,1
+256,TALLA  FAYE,Ticket technique,1
+2525,moussa soumana,Reposséder,4
+2815,Karim Fabé,Reposséder,2
+240,MAMOUDOU DIALLO,Reposséder,11
 3622,Florantin KAMGANG FOKOU,Reposséder,1
 2240,Adeyinka Solaja,Ticket technique,3
 1917,Chukwuemeka Afokwalam,Reposséder,10
@@ -223,90 +229,80 @@ agent_id,agent,type_ticket,backlog
 2801,Solomon Aremu,Ticket technique,1
 2431,WOBEH OBUNEZI,Reposséder,25
 3243,Diango Keita,Ticket technique,6
-2170,Djakaridja OUEDRAOGO,Reposséder,1
 2958,SILIMA DEMBELE,Reposséder,1
-3703,Basiriki TRAORE,Ticket technique,1
-3370,Ibrahima Samassekou,Reposséder,7
+3370,Ibrahima Samassekou,Reposséder,6
+1941,Moussa Issoufou,Reposséder,8
 1685,Abidemi Victoria Ojo,Ticket technique,3
-1941,Moussa Issoufou,Reposséder,9
 2620,BAH KEITA,Reposséder,3
 281,Kaly Diallo,Reposséder,5
 2572,Kassoum ZIDA,Reposséder,1
 3170,OUMAR OGO SOW,Reposséder,5
 495,Karamoko Doumbia,Ticket technique,5
 3535,MOUSSA SOUMARE,Reposséder,1
-2936,DÉSIRÉ BAKOUAN,Ticket technique,1
 2317,Boubacar Bachirou,Reposséder,10
 294,Seydou Traoré,Reposséder,1
 1945,Hamza Chaibou,Reposséder,1
 1579,Diaguin Yabre,Reposséder,1
-1376,TAKHA  MBAYE,Ticket technique,3
-399,Dominique Ilboudo,Ticket technique,1
+1376,TAKHA  MBAYE,Ticket technique,4
 2146,seyni boureima,Reposséder,1
 3095,Aldiouma Simguepiré,Reposséder,2
 483,Ismaël Sissoko,Ticket technique,1
-230,ABDOU RAZACK  BALDE,Ticket technique,1
-225,VITAL  SAGNA,Reposséder,19
+225,VITAL  SAGNA,Reposséder,16
 256,TALLA  FAYE,Reposséder,3
-3812,NGONECOR DIOP,Reposséder,5
+268,DJILENE SENE,Ticket technique,3
+3812,NGONECOR DIOP,Reposséder,3
 538,Mahamoudou Berré,Reposséder,1
-220,EL HADJ CHEIKHOU NDOYE,Ticket technique,2
+220,EL HADJ CHEIKHOU NDOYE,Ticket technique,3
 3831,MAMADOU TAMBA,Reposséder,2
 3469,Abdoulaye Maiga,Reposséder,1
 2710,EMMANUEL JOSEPH,Reposséder,1
 2778,ALY BA,Ticket technique,1
+3619,Daouda Keita,Reposséder,2
 360,Abdoulaye Keita,Reposséder,2
 1917,Chukwuemeka Afokwalam,Ticket technique,6
 303,Mamadou Diarra,Reposséder,1
-3370,Ibrahima Samassekou,Ticket technique,1
+3370,Ibrahima Samassekou,Ticket technique,2
+1941,Moussa Issoufou,Ticket technique,2
 1685,Abidemi Victoria Ojo,Reposséder,1
-281,Kaly Diallo,Ticket technique,24
-1754,Gaoussou Amadou MAHAMADOU,Reposséder,6
-2620,BAH KEITA,Ticket technique,1
+281,Kaly Diallo,Ticket technique,23
+1754,Gaoussou Amadou MAHAMADOU,Reposséder,7
 3243,Diango Keita,Reposséder,6
 2431,WOBEH OBUNEZI,Ticket technique,3
-495,Karamoko Doumbia,Reposséder,4
+495,Karamoko Doumbia,Reposséder,3
 3193,MOUSSA TOUNKARA,Reposséder,9
 2167,OUMAR  DIENG,Reposséder,3
 2635,solomon okoromodeke,Ticket technique,1
-53,AMADOU BOCAR SAGNA,Reposséder,5
+53,AMADOU BOCAR SAGNA,Reposséder,4
 3566,ALIOU CISSE,Reposséder,1
-460,Israël Koumaré,Reposséder,1
 3659,MOR NDIAYE,Reposséder,1
-1376,TAKHA  MBAYE,Reposséder,7
+2317,Boubacar Bachirou,Ticket technique,1
+1376,TAKHA  MBAYE,Reposséder,6
 2540,halidou abdou,Reposséder,5
 1885,Ilesanmi David Kupolusi,Ticket technique,3
-2596,B. Claude DA,Reposséder,3
-230,ABDOU RAZACK  BALDE,Reposséder,12
-2527,moumouni hama,Reposséder,1
+2596,B. Claude DA,Reposséder,2
+230,ABDOU RAZACK  BALDE,Reposséder,13
+2527,moumouni hama,Reposséder,2
 3095,Aldiouma Simguepiré,Ticket technique,2
 3365,Badian Diarra,Reposséder,2
 3033,Garba Soukkredjou,Reposséder,1
 2287,Allassane SAWADOGO,Reposséder,2
 190,Abba Goita,Ticket technique,5
-1529,Salif Soulama,Ticket technique,1
-2184,THIERNO  DIA,Reposséder,3
+2184,THIERNO  DIA,Reposséder,5
 1972,Patience Ihiator,Ticket technique,1
-2309,MAMADOU  SEYDI,Reposséder,6
+2309,MAMADOU  SEYDI,Reposséder,5
 3249,Makan Sissoko,Ticket technique,10
-3736,Djakaridja SAWADOGO,Reposséder,1
 2018,solomon hembaor,Reposséder,2
 1563,onifade peter,Ticket technique,1
 2534,idrissa boubacar,Reposséder,2
 3401,YORO NDIAYE,Reposséder,5
-3560,BOUBACAR DEMBA,Ticket technique,1
 2397,Moussa OUATTARA,Reposséder,1
 2260,Taiwo Osodi,Ticket technique,1
-569,Seydou D Koné,Reposséder,3
-200,Mamadou Keita,Reposséder,20
+569,Seydou D Koné,Reposséder,2
+200,Mamadou Keita,Reposséder,19
 3658,SERIGNE BASSIROU NGOM,Reposséder,1
 372,N'Die Diabaté,Reposséder,1
 1690,Wilson Ledum,Ticket technique,1
-314,Olalekan Aluko,Reposséder,30
-1158,Senou Fofana,Reposséder,1
 215,PAPE IBRAHIMA  FAYE,Reposséder,15
-1498,Arsene koulade,Reposséder,1
-501,dorcas adeoti,Ticket technique,1
 3637,OMAR NDIAYE,Reposséder,2
 2311,Amadou Tidiane Diagne,Ticket technique,8
 3799,KHADIM NIANG,Ticket technique,1
@@ -314,7 +310,7 @@ agent_id,agent,type_ticket,backlog
 2448,Abdoulaye Ballo,Ticket technique,2
 3427,Justice nwankwo,Reposséder,1
 1907,VICTOR EJIMADU,Reposséder,4
-3555,DAOUDA DIONE,Reposséder,10
+3555,DAOUDA DIONE,Reposséder,7
 422,Jean Paul Kanté,Reposséder,1
 2211,azeez adegoke,Ticket technique,3
 114,NIOKHOR TINE,Ticket technique,3
@@ -325,20 +321,15 @@ agent_id,agent,type_ticket,backlog
 3599,BAMBA NDJIBOU FAYE,Reposséder,4
 2490,Souleymane Yattara,Ticket technique,2
 415,Hamadi Diallo,Reposséder,1
+2765,YERO BARRY,Ticket technique,2
 2840,Odioko Harrison ,Reposséder,1
 3140,BARIBEE BEST SAARO,Reposséder,1
-291,Bagadian Keita,Ticket technique,4
+291,Bagadian Keita,Ticket technique,3
 1438,Mama Sow,Ticket technique,1
 382,Issoumaila Sanogo,Ticket technique,2
 1368,Djatourou Abdoulaye,Ticket technique,1
+2002,AMADOU DIOULDE BARRY,Ticket technique,1
 1767,CHIDIEBERE NELSON,Ticket technique,3
 2034,Godspower Eneziakpo,Ticket technique,2
 3631,Hamidou Seydou,Reposséder,1
 2024,Iduh Ezekiel,Reposséder,3
-1725,Aboudou Fomba,Ticket technique,2
-1705,PETER AJOMA,Reposséder,3
-2739,Dramane Coulibaly,Ticket technique,6
-1752,Soumana Djibo MAHAMADOU,Reposséder,1
-2139,Mahamadou Chaibou,Reposséder,6
-3107,MAMADOU  DIALLO tambapoly24,Reposséder,4
-1301,Yacouba Dao,Reposséder,1

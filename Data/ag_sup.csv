@@ -7,7 +7,6 @@ agent_id,date_debut,username,agent,agent_role,role_id,zone_id,zone,id_tenant,sup
 1303,2018-11-27,agentcom82,Mbaye Dia,Agent Commercial,14,30,LOUGA,1,THIERNO  FAYE,thierno.faye@oolusolar.com,1561
 1180,2018-02-01,niono02,Adama Diabate,Agent Commercial,14,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
 2619,2019-10-21,kedougoupoly11,Daouda Balde,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
-3370,2020-06-22,bamako10,Ibrahima Samassekou,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 241,2018-08-13,kedougou08,Mamadou Keita,Agent Commercial,14,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
 3761,2021-02-01,badini.issiaka,Issiaka Badini,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 252,2018-08-13,agentcom81,Saidou  Ka,Agent Commercial,14,30,LOUGA,1,THIERNO  FAYE,thierno.faye@oolusolar.com,1561
@@ -21,8 +20,8 @@ agent_id,date_debut,username,agent,agent_role,role_id,zone_id,zone,id_tenant,sup
 131,2018-05-03,pabre02,Yameogo Igor Adrien Wendkouni,Agent Commercial,14,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 3138,2020-03-10,silas,SILAS ILBOUDO,Agent Commercial,14,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 3137,2020-03-10,relwende,RELWENDE ZOUNGRANA,Agent Commercial,14,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
-3494,2020-08-19,kedougoupoly19,IBRAHIMA SORY BALDE,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
 455,2018-10-12,tourakolomba01,Lassine Bagayogo,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
+3494,2020-08-19,kedougoupoly19,IBRAHIMA SORY BALDE,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
 3306,2020-05-29,gnanou.moussa,MOUSSA GNANOU,Agent Polivalent,5,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 418,2018-10-02,tiahoune.dobadon,Dobadon Tihahoun,Agent Commercial,14,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
 3307,2020-05-29,ouattara.seydou,SEYDOU OUATTARA,Agent Polivalent,5,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
@@ -37,19 +36,22 @@ agent_id,date_debut,username,agent,agent_role,role_id,zone_id,zone,id_tenant,sup
 3309,2020-05-29,siaka,SIAKA DEMBELE,Agent Polivalent,5,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 463,2018-10-16,wacoro01,Ichaka Coulibaly,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 426,2018-10-04,dah01,Issiaka Traoré,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
-3565,2020-10-01,sedhioupoly10,LAMINE SADIO,Agent Polivalent,5,34,SEDHIOU,1,SADIA TAMBA,sadia.tamba,2917
 1503,2019-01-25,barrou.abou,Abou Barrou,Agent Commercial,14,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
+3565,2020-10-01,sedhioupoly10,LAMINE SADIO,Agent Polivalent,5,34,SEDHIOU,1,SADIA TAMBA,sadia.tamba,2917
 2168,2019-07-30,matampoly07,ABDOURAHMANE  FALL,Agent Polivalent,5,31,MATAM,1,AMADOU ABOU  SALL,abou.sall@oolusolar.com,2102
 3312,2020-05-29,sanou.adama,ADAMA SANOU,Agent Polivalent,5,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 2310,2019-08-26,koldapoly12,CHERIF  BALDE,Agent Polivalent,5,29,KOLDA,1,IBRAHIMA THIONGANE,ibrahima.thiongane@oolusolar.com,1843
 486,2018-10-19,misseni01,Adama Daniogo,Agent Commercial,14,10,SIKASSO,2,Hamaye Makanguile,hamaye.makanguile@oolusolar.com,2848
 3415,2020-07-13,wourokole,WOUROKOLE COULIBALY,Agent Polivalent,5,15,Zone dedougou,4,Lacina Oura,lacina.oura,431
+214,2018-08-09,kaolack04,PATHE  WATHIE,Agent Polivalent,5,28,KAOLACK,1,SOULEYMANE  MANE,kaolackpoly01,47
 1512,2019-01-29,baro.luc,Sie Luc Baro,Agent Commercial,14,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 1285,2018-06-08,bamako05,Abasse Ongoiba,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 2106,2019-07-09,thiespoly05,DJIBRIL  DIOUF,Agent Polivalent,5,54,Thies,1,KHADIM SECK,khadim.seck,3512
 1513,2019-01-29,zongo.ibrahim,Ibrahim Zongo,Agent Commercial,14,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 281,2018-09-10,kaly.diallo,Kaly Diallo,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 2600,2019-10-16,hien.esaie,Esaïe HIEN ,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
+2002,2019-06-13,koldapoly07,AMADOU DIOULDE BARRY,Agent Polivalent,5,29,KOLDA,1,IBRAHIMA THIONGANE,ibrahima.thiongane@oolusolar.com,1843
+3370,2020-06-22,bamako10,Ibrahima Samassekou,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 2098,2019-07-08,kedougou_poly02,DEMBO  DANFAKHA,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
 347,2018-09-17,yé.lawa,Lawa  Yé,Agent Commercial,14,19,Zone Balé,4,N. Jean Paul BAYALA,bayala.jp,3732
 3751,2021-01-27,zongo.aziz,Abdoul Aziz ZONGO,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
@@ -96,6 +98,7 @@ agent_id,date_debut,username,agent,agent_role,role_id,zone_id,zone,id_tenant,sup
 1552,2019-02-11,tani.yassir,Yassir Tani,Agent Commercial,14,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 376,2018-09-19,masigui01,Bakary Doumbia,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 2110,2019-07-11,koldapoly09,AMADOU SADIO  DIALLO,Agent Polivalent,5,29,KOLDA,1,IBRAHIMA THIONGANE,ibrahima.thiongane@oolusolar.com,1843
+1629,2019-03-21,moustapha.djidji,Dan-Falké Moustapha Djidji,Agent Commercial,14,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 1397,2018-12-14,adama.sow,Adama Ladji Sow,Agent Commercial,14,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
 3186,2020-03-18,atanoubou,JEAN BAPTISTE ATANOUBOU,Agent Polivalent,5,49,Zone Nahouri,4,Y. Clément YONLI,yonli,3729
 3535,2020-09-14,kedougoupoly20,MOUSSA SOUMARE,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
@@ -107,8 +110,9 @@ agent_id,date_debut,username,agent,agent_role,role_id,zone_id,zone,id_tenant,sup
 1636,2019-03-22,agentcom138,AMADOU KANE,Agent Commercial,14,32,SAINT LOUIS,1,KHASSIM  DIOP,khassim.diop@oolusolar.com,60
 1213,2018-04-04,bougaribaya01,Lassana Keïta,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 324,2018-09-14,sy001,Daouda Sy Traoré,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
-3538,2020-09-14,kedougoupoly23,OUSMANE  BARRY,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
 311,2018-09-11,yeredonSaniona01,Modibo Cissouma,Agent Commercial,14,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
+3861,2021-03-29,agent.ccial10,Ebolowa Ebolowa,Agent Commercial,14,50,Zone Littotal & Ouest,6,Leonel Igor NDITI,Leonel.nditi,3463
+3864,2021-03-31,agent.ccial11,Alassa Mongbet ,Agent Commercial,14,50,Zone Littotal & Ouest,6,Leonel Igor NDITI,Leonel.nditi,3463
 3537,2020-09-14,kedougoupoly22,SEKOU JACOB SEYDI,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
 454,2018-10-12,souli.romain,Romain Souli,Agent Commercial,14,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 420,2018-10-02,bancoumana01,Mohamed Lamine Kondo,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
@@ -118,17 +122,20 @@ agent_id,date_debut,username,agent,agent_role,role_id,zone_id,zone,id_tenant,sup
 2297,2019-08-20,dao.seydou,Seydou DAO,Agent Commercial,14,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
 176,2018-06-25,diarra.operateur,Dramane Diarra,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 368,2018-09-19,giesunuyaye,Yaye Sunu,Agent Commercial,14,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
+2312,2019-08-26,idrissa.hinsa,Hinsa Idrissa,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 1980,2019-06-06,bemba.keita,Bemba Keita,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 1856,2019-05-02,traore.salif,Salif Traore,Agent Commercial,14,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
 1900,2019-05-17,siaka.gnoumou,Siaka Elvis GNOUMOU,Agent Commercial,14,19,Zone Balé,4,N. Jean Paul BAYALA,bayala.jp,3732
 221,2018-08-13,kaolackpoly02,OUMAR  BADJI,Agent Polivalent,5,32,SAINT LOUIS,1,KHASSIM  DIOP,khassim.diop@oolusolar.com,60
 3541,2020-09-15,yacouba.yahaya,Yahaya Yacouba,Agent Polivalent,5,41,DOSSO,5,SOCIETE TABBAT,societe.tabbat,3817
 3541,2020-09-15,yacouba.yahaya,Yahaya Yacouba,Agent Polivalent,5,41,DOSSO,5,Ayouba Nadaré,ayouba.nadare,3700
+2125,2019-07-22,fatickpoly04,DJIBRIL   FAYE,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
 2160,2019-07-30,diourbelpoly07,DIAM  DIOUF,Agent Polivalent,5,25,DIOURBEL,1,ALIOU  YADE,aliou.yade,2111
 1639,2019-03-24,agentcom140,HYACINTHE  SAMB,Agent Polivalent,5,32,SAINT LOUIS,1,KHASSIM  DIOP,khassim.diop@oolusolar.com,60
 1848,2019-04-30,Lamien.Padoube,Padoube Lamien,Agent Commercial,14,19,Zone Balé,4,N. Jean Paul BAYALA,bayala.jp,3732
 193,2018-07-05,dkonate.operateur,Dougoutigui Konate,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 1167,2017-12-26,gadougou01,Adama Kamissoko,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
+2314,2019-08-26,younoussa.halilou,Halilou Younoussa,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 1826,2019-04-26,Lire.Mardochee,Kiswendsida Mardochée LIRE,Agent Commercial,14,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 3525,2020-09-09,tominian002, Jathet Mounkoro,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
 2171,2019-07-30,sako.sie,Sié SAKO,Agent Commercial,14,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
@@ -224,12 +231,13 @@ agent_id,date_debut,username,agent,agent_role,role_id,zone_id,zone,id_tenant,sup
 2575,2019-10-12,kedougoupoly06,ITHIARE  BIES,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
 163,2018-06-13,jean.toeguen,Lougraogo Jean SAWADOGO,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 2574,2019-10-12,kedougoupoly05,MICHEL  BIES,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
-374,2018-09-19,n'golobougou01,Bourama Magassa,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 2734,2019-11-12,kolondieba03,Ousmane Sangaré,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 2758,2019-11-19,sare.hamidou,Hamidou SARE,Agent Commercial,14,23,Zone Tenkodogo,4,D. Abdias TARNAGDA,tarnagda,3731
 3843,2021-03-18,lassina.serre,Lassina SERRE,Agent Commercial,14,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
 2584,2019-10-14,mountougoula03,Modibo Sinayoko,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 2593,2019-10-16,kambou.michel,Michel KAMBOU,Agent Polivalent,5,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
+2528,2019-10-06,alzouma.sadou,alzouma sadou,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
+403,2018-09-28,issa.sanogo,Issa Sanogo,Agent Polyvalent ML,18,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 2599,2019-10-16,hien.kipouté,Kipouté HIEN ,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
 2699,2019-11-06,winddaba,Wind Daba KARAMBIRI,Agent Commercial,14,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 2701,2019-11-06,salouka.souley,Souley SALOUKA,Agent Commercial,14,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
@@ -244,17 +252,19 @@ agent_id,date_debut,username,agent,agent_role,role_id,zone_id,zone,id_tenant,sup
 3173,2020-03-18,lantry,LOUGOUYERI LOUIS LANTRY,Agent Polivalent,5,49,Zone Nahouri,4,Y. Clément YONLI,yonli,3729
 2398,2019-09-06,sanou.idrissa,Idrissa SANOU ,Agent Commercial,14,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 2447,2019-09-17,sessouma.roger,Koulzé Roger SESSOUMA,Agent Commercial,14,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
+374,2018-09-19,n'golobougou01,Bourama Magassa,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 2624,2019-10-22,ibrahim.kone,Ibrahim KONE,Agent Polivalent,5,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
 2088,2019-07-04,kedougou_poly01,FAMARA  DIAKITE,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
 2451,2019-09-18,djibo.ali,Ali DJIBO ,Agent Commercial,14,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
+2532,2019-10-06,seidou.issoufou,seidou issoufou,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 3417,2020-07-13,agent.testcamr,Test Agent,Agent Commercial,14,50,Zone Littotal & Ouest,6,Leonel Igor NDITI,Leonel.nditi,3463
 2759,2019-11-19,ki.pierre,Pierre KI,Agent Commercial,14,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
 2733,2019-11-12,kedougoupoly13,YOUSSOUPH DIALLO,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
 2737,2019-11-14,brehima.goita,Bréhima Goita,Agent AV,11,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
-3811,2021-03-02,simbi01,Guimba Cissé,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 2606,2019-10-16,some.naba,Naba Eliazar SOME,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
 465,2018-10-17,farakala01,Salif Sanogo,Agent Commercial,14,10,SIKASSO,2,Hamaye Makanguile,hamaye.makanguile@oolusolar.com,2848
 2609,2019-10-16,some.marcel,Marcel SOME,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
+3866,2021-03-31,agent.ccial13,Ibrahim MOUNCHIKPOU,Agent Commercial,14,50,Zone Littotal & Ouest,6,Leonel Igor NDITI,Leonel.nditi,3463
 2810,2019-12-04,matampoly10,OUMAR TALL,Agent Polivalent,5,31,MATAM,1,AMADOU ABOU  SALL,abou.sall@oolusolar.com,2102
 3708,2020-12-28,sedhioupoly15,IBRAHIMA CORREA,Agent Polivalent,5,34,SEDHIOU,1,SADIA TAMBA,sadia.tamba,2917
 2585,2019-10-14,fanto.traore,Fanto Traoré,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
@@ -264,15 +274,14 @@ agent_id,date_debut,username,agent,agent_role,role_id,zone_id,zone,id_tenant,sup
 2820,2019-12-06,kanko,Thérèse KANKO,Agent Commercial,14,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 2808,2019-12-03,bayire,Karim BAYIRE,Agent Commercial,14,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 2874,2019-12-20,bama.boubie,Boubié BAMA,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
+3865,2021-03-31,agent.ccial12,Cherif Nasser,Agent Commercial,14,50,Zone Littotal & Ouest,6,Leonel Igor NDITI,Leonel.nditi,3463
 2735,2019-11-13,zongo.issoufou,Issoufou ZONGO,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 2605,2019-10-16,da.todante,Todanté DA,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
-179,2018-06-25,diaby.giz,Diaby Zoumana,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 2875,2019-12-20,yago.boureima,Boureima YAGO,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 2829,2019-12-09,ozias,Wen Puire Ozias KOURAOGO,Agent Commercial,14,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 2551,2019-10-08,lougapoly05,MBAYE DIACK,Agent Polivalent,5,30,LOUGA,1,THIERNO  FAYE,thierno.faye@oolusolar.com,1561
 1427,2018-12-19,moussiane.alain,Alain Moussiane,Agent Commercial,14,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
 2486,2019-09-27,kaolackpoly11,LAMINE DIOP,Agent Polivalent,5,28,KAOLACK,1,SOULEYMANE  MANE,kaolackpoly01,47
-403,2018-09-28,issa.sanogo,Issa Sanogo,Agent Polyvalent ML,18,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 2827,2019-12-09,sere.pascal,Pascal SERE,Agent Commercial,14,15,Zone dedougou,4,Lacina Oura,lacina.oura,431
 2270,2019-08-17,somda.dian,Dian-Nataa SOMDA,Agent Commercial,14,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
 2877,2019-12-20,nebie.moumouni,Moumouni NEBIÉ,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
@@ -282,10 +291,10 @@ agent_id,date_debut,username,agent,agent_role,role_id,zone_id,zone,id_tenant,sup
 2890,2019-12-27,ousseni.ouedraogo,Ousséni OUEDRAOGO,Agent Commercial,14,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 2891,2019-12-27,barry.idrissa,Idrissa BARRY,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 553,2018-11-09,fiah01,Yacouba Fiah Diarra,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
+3811,2021-03-02,simbi01,Guimba Cissé,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 2880,2019-12-20,nadia.luc,Luc NADIA,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 2878,2019-12-20,zio.gaston,Gaston ZIO,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 3830,2021-03-12,Agent_Oolu_Test,Test Agent,Agent Polivalent,5,55,Dakar,1,KHADY DIATTA,khady.diatta@oolusolar.com,3653
-186,2018-06-28,habib.keita,Habib Keita,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 1206,2018-03-20,sacoro01,Ousmane Doumbia,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 3833,2021-03-15,fatogoma,Fatogoma ZONOU,Agent Polivalent,5,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
 3216,2020-04-01,vien.adama,VIEN ADAMA COULIBALY,Agent Commercial,14,19,Zone Balé,4,N. Jean Paul BAYALA,bayala.jp,3732
@@ -294,34 +303,40 @@ agent_id,date_debut,username,agent,agent_role,role_id,zone_id,zone,id_tenant,sup
 2170,2019-07-30,ouedraogo.djakaridja,Djakaridja OUEDRAOGO,Agent Polivalent,5,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
 3839,2021-03-17,agent.ccia8,Sekamu Agent Ccial,Agent Commercial,14,50,Zone Littotal & Ouest,6,Leonel Igor NDITI,Leonel.nditi,3463
 2650,2019-10-25,zerbo.marius,Marius ZERBO,Agent Commercial,14,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
+2139,2019-07-28,mahamadou.chaibou,Mahamadou Chaibou,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
+2536,2019-10-06,alti.abdou,alti abdou,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 3499,2020-08-24,bamako11,Kadidia Maiga,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 2571,2019-10-11,soulama.siaka,Siaka SOULAMA,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
-1271,2018-10-30,fatick_sav01,ALMAMY SAMORY  SAGNA,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
 2740,2019-11-14,adama.mariko,Adama Mariko,Agent Polyvalent ML,18,9,KAYES,2,David Timbine,David.Timbine,81
 3218,2020-04-01,karim.kone,KARIM KONE,Agent Commercial,14,19,Zone Balé,4,N. Jean Paul BAYALA,bayala.jp,3732
 284,2018-09-10,kenieba02,Boubacar Kante,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 1468,2019-01-08,badoum.salifb,Salif Badoum,Agent Commercial,14,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
 2928,2020-01-14,badoum.seydou,Seydou BADOUM,Agent Commercial,14,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
 484,2018-10-19,samediongouma02,Siliman Bathily,Agent AV,11,9,KAYES,2,David Timbine,David.Timbine,81
+3860,2021-03-29,agent.ccial9,Mohamed Mohamed,Agent Commercial,14,50,Zone Littotal & Ouest,6,Leonel Igor NDITI,Leonel.nditi,3463
 1548,2019-02-06,segda.paul,Paul Sedga,Agent Commercial,14,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 2158,2019-07-30,diourbelpoly05,EL HADJ  FAYE,Agent Polivalent,5,25,DIOURBEL,1,ALIOU  YADE,aliou.yade,2111
+2527,2019-10-06,moumouni.hama,moumouni hama,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 2876,2019-12-20,nacro.adama,Adama NACRO,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 3739,2021-01-22,ganame.daouda,Daouda Ganame,Agent Polivalent,5,48,Zone Gourcy,4,Kassoum ILBOUDO,kassoum.ilboudo,3730
 3741,2021-01-22,porcoma,Gnamné Porcoma,Agent Polivalent,5,48,Zone Gourcy,4,Kassoum ILBOUDO,kassoum.ilboudo,3730
 2613,2019-10-18,kazagabou.prosper,Dubidjie Proper KAZAGABOU,Agent Commercial,14,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 2777,2019-11-26,traore.drissa,Drissa TRAORE,Agent Commercial,14,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
 3353,2020-06-16,bawa,BAWA AUGUSTIN NAPON,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
+2534,2019-10-06,idrissa.boubacar,idrissa boubacar,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 2384,2019-09-04,borro.issa,Issa BORRO,Agent Polivalent,5,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
 2960,2020-01-22,tambapoly18,MAMADOU BA,Agent Polivalent,5,38,TAMBACOUNDA2,1,SADIO  CISSOKHO,sadio.cissokho,2340
 1631,2019-03-21,TUINA.Zounoubiè,Zounoubiè Tuina,Agent Commercial,14,19,Zone Balé,4,N. Jean Paul BAYALA,bayala.jp,3732
 2695,2019-11-04,lougapoly06,ALIOU KA,Agent Polivalent,5,30,LOUGA,1,THIERNO  FAYE,thierno.faye@oolusolar.com,1561
+2142,2019-07-28,ibrahim.magagi,ibrahim magagi,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 3179,2020-03-18,sia,CHEIK AWAL FAISHALL SIA,Agent Polivalent,5,49,Zone Nahouri,4,Y. Clément YONLI,yonli,3729
 3356,2020-06-16,nacro.soul,SOULEYMANE NACRO,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
+2138,2019-07-28,mamoudou.alassane,Alassane Mamoudou,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 3355,2020-06-16,soumanin,SOUMANIN NADIE,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
+1438,2018-12-28,dianguirde02,Mama Sow,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 3165,2020-03-17,desaye.coiffeur,Sidiki Dembele,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 2594,2019-10-16,ousse.lionnel,Lionnel OUSSE,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
 3014,2020-02-05,sedhioupoly06,THIERNO SAGNA,Agent Polivalent,5,34,SEDHIOU,1,SADIA TAMBA,sadia.tamba,2917
-1438,2018-12-28,dianguirde02,Mama Sow,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 3709,2020-12-28,thiespoly27,GUEYE KHADY,Agent Polivalent,5,54,Thies,1,KHADIM SECK,khadim.seck,3512
 292,2018-09-11,kassama01,Facourou Sissoko,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 3438,2020-07-23,yorosso02,Salif Goita,Agent Commercial,14,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
@@ -330,13 +345,13 @@ agent_id,date_debut,username,agent,agent_role,role_id,zone_id,zone,id_tenant,sup
 3025,2020-02-06,ouattara.drissa,Drissa OUATTARA,Agent Commercial,14,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 3024,2020-02-06,ouattara.brahima,BRAHIMA OUATTARA,Agent Polivalent,5,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 3357,2020-06-16,nacro.ibrahim,IBRAHIM NACRO,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
+1363,2018-12-07,talouta.cisse,Talouta Cisse,Agent Polivalent,5,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
 3030,2020-02-07,sofiane.ide,Idé Sofiane,Agent Commercial,14,41,DOSSO,5,SOCIETE TABBAT,societe.tabbat,3817
 3030,2020-02-07,sofiane.ide,Idé Sofiane,Agent Commercial,14,41,DOSSO,5,Ayouba Nadaré,ayouba.nadare,3700
 3031,2020-02-07,habiboulaye.moussa,Moussa Habiboulaye,Agent Commercial,14,41,DOSSO,5,SOCIETE TABBAT,societe.tabbat,3817
 3031,2020-02-07,habiboulaye.moussa,Moussa Habiboulaye,Agent Commercial,14,41,DOSSO,5,Ayouba Nadaré,ayouba.nadare,3700
 3032,2020-02-07,diayaoulhak.abdoulaye,Abdoulaye Diayaoulhak,Agent Commercial,14,41,DOSSO,5,SOCIETE TABBAT,societe.tabbat,3817
 3032,2020-02-07,diayaoulhak.abdoulaye,Abdoulaye Diayaoulhak,Agent Commercial,14,41,DOSSO,5,Ayouba Nadaré,ayouba.nadare,3700
-1363,2018-12-07,talouta.cisse,Talouta Cisse,Agent Polivalent,5,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
 3033,2020-02-07,soukkredjou.garba,Garba Soukkredjou,Agent Commercial,14,41,DOSSO,5,SOCIETE TABBAT,societe.tabbat,3817
 3033,2020-02-07,soukkredjou.garba,Garba Soukkredjou,Agent Commercial,14,41,DOSSO,5,Ayouba Nadaré,ayouba.nadare,3700
 3097,2020-02-26,straore.operateur,Sekou Traore,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
@@ -350,44 +365,52 @@ agent_id,date_debut,username,agent,agent_role,role_id,zone_id,zone,id_tenant,sup
 3738,2021-01-22,ouedraogo.assabiroulaye,Assabiroulaye OUEDRAOGO,Agent Polivalent,5,48,Zone Gourcy,4,Kassoum ILBOUDO,kassoum.ilboudo,3730
 189,2018-06-28,boubacar.doumbia,Boubacar Doumbia,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 3740,2021-01-22,ouedraogo.abdoulaye,Abdoulaye OUEDRAOGO,Agent Polivalent,5,48,Zone Gourcy,4,Kassoum ILBOUDO,kassoum.ilboudo,3730
+3538,2020-09-14,kedougoupoly23,OUSMANE  BARRY,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
 3796,2021-02-17,madiama01,Adama Koita,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
+841,2017-08-11,tenindougou01,Yacouba Fomba,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 3061,2020-02-13,bougouni004,Youssouf Sounkara,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 3797,2021-02-17,dandougou01,Sabou Maiga,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
 48,2018-01-18,kaolack08,Cheikh Moussa Ka,Agent Polivalent,5,28,KAOLACK,1,SOULEYMANE  MANE,kaolackpoly01,47
+361,2018-09-18,modibo.dembele,Modibo Dembele,Agent Polyvalent ML,18,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
 3798,2021-02-17,dandougou02,Siaka Konaté,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
 155,2018-06-10,boni01,Paul Miki Gn Gnoumou,Agent Commercial,14,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
-395,2018-09-27,benena01,Jean Kone,Agent Polyvalent ML,18,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
 1360,2018-12-06,kabore.marcel,Marcel Kabore,Agent Commercial,14,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
 568,2018-11-14,ouattara.nicolas,Nicolas Ouattara,Agent Commercial,14,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 2119,2019-07-19,guire.salifou,Salifou GUIRE,Agent Polivalent,5,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
 3212,2020-03-30,da.gael,GAEL DA,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
-291,2018-09-11,kenieba04,Bagadian Keita,Agent Polyvalent ML,18,9,KAYES,2,David Timbine,David.Timbine,81
-841,2017-08-11,tenindougou01,Yacouba Fomba,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
+2287,2019-08-20,sawadogo.allassane,Allassane SAWADOGO,Agent Polivalent,5,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
 3451,2020-07-28,fatickpoly10,NDEB MARONE,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
 2055,2019-06-26,dabire.kounfaon,Kounfaon DABIRE,Agent Commercial,14,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
+291,2018-09-11,kenieba04,Bagadian Keita,Agent Polyvalent ML,18,9,KAYES,2,David Timbine,David.Timbine,81
 415,2018-10-02,siadougou01,Hamadi Diallo,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
+2144,2019-07-28,oumarou.mamane,oumarou mamane,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 747,2017-06-09,kaolack17,MOUHAMED DIOP,Agent Polivalent,5,28,KAOLACK,1,SOULEYMANE  MANE,kaolackpoly01,47
 3808,2021-03-02,dily01,Sidy Doukoura,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 3809,2021-03-02,niorosahel01,Brehima Hacoulé,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 3810,2021-03-02,sandare01,Tiekoura Coulibaly,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
-3235,2020-04-07,ido.richard,RICHARD IDO,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
+2315,2019-08-26,habibou.abdou,Abdou Habibou,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 1987,2019-06-06,boubacar.keita,Boubacar Keita,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
+3867,2021-03-31,agent.ccial14,Ibraham DJOULDE,Agent Commercial,14,50,Zone Littotal & Ouest,6,Leonel Igor NDITI,Leonel.nditi,3463
+2140,2019-07-28,abdoulaye.karimou,abdoulaye karimou,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
+3235,2020-04-07,ido.richard,RICHARD IDO,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
+2313,2019-08-26,souleymane.younoussa,Younoussa Souleymane,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 3244,2020-04-14,bazie.fulgence,FULGENCE BAZIE,Agent Polivalent,5,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
 283,2018-09-10,kenieba01,Fasirima Sissoko ,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 3248,2020-04-15,bougouni06,Cheick AG Maiga,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
-3246,2020-04-14,bamouni.ange,ANGE JONATHAN BAMOUNI,Agent Polivalent,5,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
 2318,2019-08-26,sedhioupoly02,BOURAMA  MANE,Agent Polivalent,5,34,SEDHIOU,1,SADIA TAMBA,sadia.tamba,2917
+3246,2020-04-14,bamouni.ange,ANGE JONATHAN BAMOUNI,Agent Polivalent,5,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
 3555,2020-09-23,fatickpoly21,DAOUDA DIONE,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
 2552,2019-10-08,ziguinchorpoly08,AMATH  DIAGNE,Agent Polivalent,5,33,ZIGUINCHOR,1,OUSMANE  NIANG,ousmane.niang,386
+1942,2019-05-30,ibrahim.saydou,Saydou Ibrahim,Agent Commercial,14,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 1270,2018-10-30,dakar_sav01,SELLE MBAYE,Agent Commercial,14,54,Thies,1,KHADIM SECK,khadim.seck,3512
 3413,2020-07-10,zak,ZAK NEERE FINANCE,Agent Commercial,14,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 1721,2019-04-09,kati04,Tiemoko Coulibaly,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
+1271,2018-10-30,fatick_sav01,ALMAMY SAMORY  SAGNA,Agent Polivalent,5,55,Dakar,1,KHADY DIATTA,khady.diatta@oolusolar.com,3653
 3771,2021-02-08,milo,Seydou MILO,Agent Polivalent,5,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
 188,2018-06-28,samuel.coulibaly,Samuel Coulibaly,Agent AV,11,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
 382,2018-09-24,kignan01,Issoumaila Sanogo,Agent Polyvalent ML,18,10,SIKASSO,2,Hamaye Makanguile,hamaye.makanguile@oolusolar.com,2848
 3308,2020-05-29,drabo.aziz,ABDOUL AZIZ DRABO,Agent Polivalent,5,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 3682,2020-12-10,koutialakoko01,Adama Toure,Agent Commercial,14,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
-1367,2018-12-07,diema01,Wagnatou Diallo,Agent Polyvalent ML,18,9,KAYES,2,David Timbine,David.Timbine,81
 1550,2019-02-08,bureau.personnel,Personnel Bureau,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 3532,2020-09-11,wahabo.zoun,Abdoul Wahabo ZOUNGRANA,Agent Polivalent,5,23,Zone Tenkodogo,4,D. Abdias TARNAGDA,tarnagda,3731
 3501,2020-08-24,zalle.harouna,HAROUNA ZALLE,Agent Commercial,14,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
@@ -402,36 +425,41 @@ agent_id,date_debut,username,agent,agent_role,role_id,zone_id,zone,id_tenant,sup
 3473,2020-08-07,sakoiba03,Diakalia Sogodogo ,Agent Commercial,14,10,SIKASSO,2,Hamaye Makanguile,hamaye.makanguile@oolusolar.com,2848
 3243,2020-04-14,kita02,Diango Keita,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 2031,2019-06-24,diewoura01,Marabata Siby,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
+3516,2020-09-04,djibrila.soumana,Soumana Djibrila,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
+1930,2019-05-28,ziguinchorpoly06,IBRAHIMA  DIEME,Agent Polivalent,5,33,ZIGUINCHOR,1,OUSMANE  NIANG,ousmane.niang,386
+381,2018-09-22,kassim.tounkara,Kassim Tounkara,Agent Polyvalent ML,18,10,SIKASSO,2,Hamaye Makanguile,hamaye.makanguile@oolusolar.com,2848
 3515,2020-09-04,chaibou.magawata,Magawata Chaibou,Agent Polivalent,5,41,DOSSO,5,SOCIETE TABBAT,societe.tabbat,3817
 3515,2020-09-04,chaibou.magawata,Magawata Chaibou,Agent Polivalent,5,41,DOSSO,5,Ayouba Nadaré,ayouba.nadare,3700
 3677,2020-12-04,niagane01,Mady Yafa,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 323,2018-09-14,lassine.kansaye,Lassine Kansaye,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
+2533,2019-10-06,bouana.issaka,bouana issaka,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 3513,2020-08-28,fatickpoly20,MOUSSA DIAME,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
 3518,2020-09-07,issa.boubacar,Boubacar Issa,Agent Polivalent,5,41,DOSSO,5,SOCIETE TABBAT,societe.tabbat,3817
 3518,2020-09-07,issa.boubacar,Boubacar Issa,Agent Polivalent,5,41,DOSSO,5,Ayouba Nadaré,ayouba.nadare,3700
-3454,2020-07-29,binagabou,TIOGUINADJE ALIDOU BINAGABOU,Agent Polivalent,5,49,Zone Nahouri,4,Y. Clément YONLI,yonli,3729
 3519,2020-09-07,mounkaila.djibo,Djibo Mounkaila,Agent Polivalent,5,41,DOSSO,5,SOCIETE TABBAT,societe.tabbat,3817
 3519,2020-09-07,mounkaila.djibo,Djibo Mounkaila,Agent Polivalent,5,41,DOSSO,5,Ayouba Nadaré,ayouba.nadare,3700
+3454,2020-07-29,binagabou,TIOGUINADJE ALIDOU BINAGABOU,Agent Polivalent,5,49,Zone Nahouri,4,Y. Clément YONLI,yonli,3729
+1944,2019-05-30,moussa.abdoulaye,abdoulaye Moussa,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 3479,2020-08-10,frederic.sah,FREDERIC SAH,Agent Polivalent,5,50,Zone Littotal & Ouest,6,Leonel Igor NDITI,Leonel.nditi,3463
 3313,2020-05-29,bado.bapio,BAPIO DIEUDONNE BADO,Agent Polivalent,5,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
+3716,2021-01-07,tambapoly35,ADAMA DIALLO,Agent Polivalent,5,38,TAMBACOUNDA2,1,SADIO  CISSOKHO,sadio.cissokho,2340
 3102,2020-02-26,moussa.dayouma,Moussa Dayouma,Agent Commercial,14,41,DOSSO,5,SOCIETE TABBAT,societe.tabbat,3817
 3102,2020-02-26,moussa.dayouma,Moussa Dayouma,Agent Commercial,14,41,DOSSO,5,Ayouba Nadaré,ayouba.nadare,3700
 3484,2020-08-11,mahamadi,MAHAMADI ZONGO,Agent Polivalent,5,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
+3868,2021-03-31,ouedraogo.aziz,Abdoul Aziz OUEDRAOGO,Agent Commercial,14,48,Zone Gourcy,4,Kassoum ILBOUDO,kassoum.ilboudo,3730
 3180,2020-03-18,zio.abdourahmani,ABDOURAHMANI ZIO,Agent Polivalent,5,49,Zone Nahouri,4,Y. Clément YONLI,yonli,3729
 357,2018-09-18,banco01,Daouda Coulibaly,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
-277,2018-08-13,fatick19,IBOU CISSE,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
-3703,2020-12-23,basiriki,Basiriki TRAORE,Agent Polivalent,5,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
+3869,2021-03-31,some.laurent,Laurent SOME,Agent Commercial,14,48,Zone Gourcy,4,Kassoum ILBOUDO,kassoum.ilboudo,3730
 3675,2020-12-03,cisse.mamadou,Mamadou CISSE,Agent Polivalent,5,15,Zone dedougou,4,Lacina Oura,lacina.oura,431
-377,2018-09-19,oumar.doumbia,Oumar Doumbia,Agent Polyvalent ML,18,10,SIKASSO,2,Hamaye Makanguile,hamaye.makanguile@oolusolar.com,2848
 3773,2021-02-08,rouamba.beranger,Beranger ROUAMBA,Agent Commercial,14,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
 2790,2019-11-29,diourbelpoly11,THIERNO SENE,Agent Polivalent,5,25,DIOURBEL,1,ALIOU  YADE,aliou.yade,2111
+377,2018-09-19,oumar.doumbia,Oumar Doumbia,Agent Polyvalent ML,18,10,SIKASSO,2,Hamaye Makanguile,hamaye.makanguile@oolusolar.com,2848
+225,2018-08-13,ziguinchorpoly02,VITAL  SAGNA,Agent Polivalent,5,33,ZIGUINCHOR,1,OUSMANE  NIANG,ousmane.niang,386
 3026,2020-02-06,batienon.jean,JEAN BATIENON,Agent Polivalent,5,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
 451,2018-10-11,fangasso01,Afo Kamaté,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
 2136,2019-07-26,yacoro.joseph,Joseph YACORO,Agent Polivalent,5,15,Zone dedougou,4,Lacina Oura,lacina.oura,431
-472,2018-10-18,dakuo.appolinaire,Appolinaire DAKYO,Agent Polivalent,5,15,Zone dedougou,4,Lacina Oura,lacina.oura,431
+313,2018-09-11,dogofri01,Dramane Traoré,Agent Polyvalent ML,18,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
 3697,2020-12-22,sidibe.amarba,Amarba SIDIBE,Agent Polivalent,5,15,Zone dedougou,4,Lacina Oura,lacina.oura,431
-3546,2020-09-22,souleymane.mamoudou,Mamoudou Souleymane,Agent Polivalent,5,41,DOSSO,5,SOCIETE TABBAT,societe.tabbat,3817
-3546,2020-09-22,souleymane.mamoudou,Mamoudou Souleymane,Agent Polivalent,5,41,DOSSO,5,Ayouba Nadaré,ayouba.nadare,3700
 3774,2021-02-08,kabore.hermane,Hermane KABORE,Agent Commercial,14,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
 1199,2018-02-21,lobougoula01,Moumine Coulibaly,Agent Commercial,14,10,SIKASSO,2,Hamaye Makanguile,hamaye.makanguile@oolusolar.com,2848
 1670,2019-04-01,kienou.yaouba,Yacouba Kienou,Agent Polivalent,5,19,Zone Balé,4,N. Jean Paul BAYALA,bayala.jp,3732
@@ -444,197 +472,203 @@ agent_id,date_debut,username,agent,agent_role,role_id,zone_id,zone,id_tenant,sup
 3547,2020-09-22,hassane.kimba,Kimba Hassane,Agent Polivalent,5,41,DOSSO,5,SOCIETE TABBAT,societe.tabbat,3817
 3547,2020-09-22,hassane.kimba,Kimba Hassane,Agent Polivalent,5,41,DOSSO,5,Ayouba Nadaré,ayouba.nadare,3700
 3764,2021-02-04,kere.josue,Josue KERE,Agent Polivalent,5,23,Zone Tenkodogo,4,D. Abdias TARNAGDA,tarnagda,3731
+3546,2020-09-22,souleymane.mamoudou,Mamoudou Souleymane,Agent Polivalent,5,41,DOSSO,5,SOCIETE TABBAT,societe.tabbat,3817
+3546,2020-09-22,souleymane.mamoudou,Mamoudou Souleymane,Agent Polivalent,5,41,DOSSO,5,Ayouba Nadaré,ayouba.nadare,3700
+2317,2019-08-26,bachirou.boubacar,Boubacar Bachirou,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 2324,2019-08-28,tambapoly11,SEYDOU  SAO,Agent Polivalent,5,38,TAMBACOUNDA2,1,SADIO  CISSOKHO,sadio.cissokho,2340
 3766,2021-02-04,do.aziz,D0 Aziz MILLOGO,Agent Polivalent,5,23,Zone Tenkodogo,4,D. Abdias TARNAGDA,tarnagda,3731
+3832,2021-03-12,ouan01,Pierre Diarra,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
 1181,2018-02-02,banco03,Moussa Kone,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 303,2018-09-11,guihoyo01,Mamadou Diarra,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 3735,2021-01-22,soro.mamoudou,Mamoudou Soro,Agent Polivalent,5,48,Zone Gourcy,4,Kassoum ILBOUDO,kassoum.ilboudo,3730
-2125,2019-07-22,fatickpoly04,DJIBRIL   FAYE,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
 3765,2021-02-04,yamyogo.aziz,Aziz YAMYAOGO,Agent Polivalent,5,23,Zone Tenkodogo,4,D. Abdias TARNAGDA,tarnagda,3731
 3767,2021-02-04,balima.souleymane,Souleymane BALIMA,Agent Polivalent,5,23,Zone Tenkodogo,4,D. Abdias TARNAGDA,tarnagda,3731
 3747,2021-01-26,fatickpoly23,CHEIKH MBOW,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
-3832,2021-03-12,ouan01,Pierre Diarra,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
 2497,2019-10-01,lohara.jean,Jean Baptiste LOHARO,Agent Commercial,14,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
 1210,2018-03-28,segou08,Boboucar Traore,Agent Commercial,14,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
 3190,2020-03-18,koldapoly19,ABDOULAYE KANTE,Agent Polivalent,5,29,KOLDA,1,IBRAHIMA THIONGANE,ibrahima.thiongane@oolusolar.com,1843
-381,2018-09-22,kassim.tounkara,Kassim Tounkara,Agent Polyvalent ML,18,10,SIKASSO,2,Hamaye Makanguile,hamaye.makanguile@oolusolar.com,2848
-495,2018-10-23,bougoula03,Karamoko Doumbia,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 3568,2020-10-06,cinzana03,Tahirou Diarra,Agent Commercial,14,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
+495,2018-10-23,bougoula03,Karamoko Doumbia,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 2595,2019-10-16,sinare.hyppolite,Hyppolite Wendemi SINARE,Agent Polivalent,5,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
 3639,2020-11-20,bossofala01,Bernard Tienou,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 3640,2020-11-20,daban01,Adama Traoré,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 3641,2020-11-20,diedougou02,Tahirou Konaré,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 326,2018-09-14,pimperena01,Brehima Diamoutènè,Agent Commercial,14,10,SIKASSO,2,Hamaye Makanguile,hamaye.makanguile@oolusolar.com,2848
-214,2018-08-09,kaolack04,PATHE  WATHIE,Agent Polivalent,5,28,KAOLACK,1,SOULEYMANE  MANE,kaolackpoly01,47
 3642,2020-11-20,kalifabougou02,Yaya Konaré,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 3643,2020-11-20,kalifabougou03,Daouda Konaré,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 3612,2020-11-10,minidian03,Mohamed Diabaté,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 3648,2020-11-20,safo02,Mohamed Kamissoko,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
-159,2018-06-12,boyavi.nkambi,Boyavi Nkambi,Agent Commercial,14,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
 3769,2021-02-08,samine02,Hamza Traoré,Agent Commercial,14,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
+159,2018-06-12,boyavi.nkambi,Boyavi Nkambi,Agent Commercial,14,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
 3644,2020-11-20,dombila02,Adama Konaré,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 3571,2020-10-08,sedhioupoly12,SADOU SABALY,Agent Polivalent,5,34,SEDHIOU,1,SADIA TAMBA,sadia.tamba,2917
 3645,2020-11-20,komi-komo01,Matthieu Diarra,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
-535,2018-11-02,agentcom96,MAMADOU  DEME,Agent Polivalent,5,31,MATAM,1,AMADOU ABOU  SALL,abou.sall@oolusolar.com,2102
 2762,2019-11-20,ema.thera,Ema Thera,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
 3572,2020-10-08,sedhioupoly13,ISMAILA SADIO,Agent Polivalent,5,34,SEDHIOU,1,SADIA TAMBA,sadia.tamba,2917
-2597,2019-10-16,ouattara.abdallah,Abdallah OUATTARA,Agent Polivalent,5,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
 3646,2020-11-20,maguetan01,Seybou Fofana,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 3649,2020-11-20,kaniogo01,Saramani Traoré,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
+2146,2019-07-28,seyni.boureima,seyni boureima,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 3647,2020-11-20,meguetan02,Bourama Camara,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
-240,2018-08-13,agentcom122,MAMADOU DIALLO agentcom122,Agent Polivalent,5,38,TAMBACOUNDA2,1,SADIO  CISSOKHO,sadio.cissokho,2340
+2535,2019-10-06,adamou.boubacar,adamou (Youri) boubacar,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 3650,2020-11-20,kaniogo02,Hamidou Traoré,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
-2448,2019-09-17,abdoulaye.ballo,Abdoulaye Ballo,Agent Polyvalent ML,18,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
 3762,2021-02-04,kabore.adjaratou,Adjaratou KABORE,Agent Polivalent,5,23,Zone Tenkodogo,4,D. Abdias TARNAGDA,tarnagda,3731
+2540,2019-10-06,halidou.abdou,halidou abdou,Agent Commercial,14,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
+2448,2019-09-17,abdoulaye.ballo,Abdoulaye Ballo,Agent Polyvalent ML,18,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
 3651,2020-11-20,sacoro02,Salim Mallé,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 2608,2019-10-16,guigma.azize,Abdoul Azizé GUIGMA,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
 3775,2021-02-08,bonkoungou.ismael,Ismael Bonkoungou,Agent Commercial,14,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
 3561,2020-09-28,koldapoly20,BOUBACAR DIALLO,Agent Polivalent,5,29,KOLDA,1,IBRAHIMA THIONGANE,ibrahima.thiongane@oolusolar.com,1843
-3726,2021-01-14,soulama.soungalo,Soungalo SOULAMA,Agent Commercial,14,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 3559,2020-09-28,ziguinchorpoly19,LANDING NDIAYE,Agent Polivalent,5,33,ZIGUINCHOR,1,OUSMANE  NIANG,ousmane.niang,386
 385,2018-09-25,didieni01,Madani Fomba,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
+3726,2021-01-14,soulama.soungalo,Soungalo SOULAMA,Agent Commercial,14,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 3584,2020-10-15,abdoulaziz.hamma,Abdoulaziz Hamma,Agent Polivalent,5,41,DOSSO,5,SOCIETE TABBAT,societe.tabbat,3817
 3584,2020-10-15,abdoulaziz.hamma,Abdoulaziz Hamma,Agent Polivalent,5,41,DOSSO,5,Ayouba Nadaré,ayouba.nadare,3700
 3652,2020-11-20,n'gouraba01,Soungalo Diarra,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
-2739,2019-11-14,dramane.coulibaly,Dramane Coulibaly,Agent Commercial,14,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
+395,2018-09-27,benena01,Jean Kone,Agent Polyvalent ML,18,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
 3742,2021-01-25,niena002,Yacouba Togola,Agent Commercial,14,10,SIKASSO,2,Hamaye Makanguile,hamaye.makanguile@oolusolar.com,2848
 3443,2020-07-24,didieni02,Seydou Traoré,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
+3720,2021-01-11,traore.hamadou,Hamadou TRAORE,Agent Polivalent,5,23,Zone Tenkodogo,4,D. Abdias TARNAGDA,tarnagda,3731
+309,2018-09-11,fakolo01,Enock Diarra,Agent Polyvalent ML,18,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
 2815,2019-12-04,karim.fabe,Karim Fabé,Agent Polyvalent ML,18,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
+1367,2018-12-07,diema01,Wagnatou Diallo,Agent Polyvalent ML,18,9,KAYES,2,David Timbine,David.Timbine,81
 3369,2020-06-22,tambapoly29,DEMBA COULIBALY,Agent Polivalent,5,38,TAMBACOUNDA2,1,SADIO  CISSOKHO,sadio.cissokho,2340
-3455,2020-07-29,ollo,OLLO KAMBOU,Agent Polivalent,5,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
+3613,2020-11-12,wassolo.01,Ousmane Sidibé,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
+2541,2019-10-07,gatti.abdourahamani,gatti abdourahamani,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 1643,2019-03-27,Rouamba.Abdourahim,Abdourahim Rouamba,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
-2167,2019-07-30,matampoly06,OUMAR  DIENG,Agent Polivalent,5,31,MATAM,1,AMADOU ABOU  SALL,abou.sall@oolusolar.com,2102
 3743,2021-01-25,linguekoto01,Kebafing Keita,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
+2167,2019-07-30,matampoly06,OUMAR  DIENG,Agent Polivalent,5,31,MATAM,1,AMADOU ABOU  SALL,abou.sall@oolusolar.com,2102
 3617,2020-11-12,sere.moussa01,Adama Sidibé,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 3615,2020-11-12,gouandiaka04,Lassina Diarra,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 3749,2021-01-26,ouedraogo.kassoum,Kassoum OUEDRAOGO,Agent Commercial,14,48,Zone Gourcy,4,Kassoum ILBOUDO,kassoum.ilboudo,3730
-3613,2020-11-12,wassolo.01,Ousmane Sidibé,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 3618,2020-11-12,wassolouballe01,Paphan Doumbia,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 3620,2020-11-12,niasso01,Sidiki Coulibaly,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
-3614,2020-11-12,gouandiaka03,Adama Sanogo,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 3619,2020-11-12,gouandiaka05,Daouda Keita,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
+3614,2020-11-12,gouandiaka03,Adama Sanogo,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 3654,2020-11-23,matampoly14,BAYAL SAMBA THIMBO,Agent Polivalent,5,31,MATAM,1,AMADOU ABOU  SALL,abou.sall@oolusolar.com,2102
 3655,2020-11-23,matampoly15,ABOU SARR,Agent Polivalent,5,31,MATAM,1,AMADOU ABOU  SALL,abou.sall@oolusolar.com,2102
 3616,2020-11-12,koussan01,Abdramane Dembelé,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 3622,2020-11-12,florantin.kamgang,Florantin KAMGANG FOKOU,Agent Commercial,14,50,Zone Littotal & Ouest,6,Leonel Igor NDITI,Leonel.nditi,3463
 3660,2020-11-23,ziguinchorpoly21,ROGER GOMIS,Agent Polivalent,5,33,ZIGUINCHOR,1,OUSMANE  NIANG,ousmane.niang,386
-236,2018-08-13,agentcom110,CHEIKH DJIBRIL  DIOUF,Agent Polivalent,5,32,SAINT LOUIS,1,KHASSIM  DIOP,khassim.diop@oolusolar.com,60
 3658,2020-11-23,diourbelpoly20,SERIGNE BASSIROU NGOM,Agent Polivalent,5,25,DIOURBEL,1,ALIOU  YADE,aliou.yade,2111
 3659,2020-11-23,diourbelpoly19,MOR NDIAYE,Agent Polivalent,5,25,DIOURBEL,1,ALIOU  YADE,aliou.yade,2111
 3827,2021-03-11,birba.olivier,Olivier BIRBA,Agent Commercial,14,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
+236,2018-08-13,agentcom110,CHEIKH DJIBRIL  DIOUF,Agent Polivalent,5,32,SAINT LOUIS,1,KHASSIM  DIOP,khassim.diop@oolusolar.com,60
 3826,2021-03-11,bazi,Edgard BAZI,Agent Commercial,14,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
 3305,2020-05-29,tech.bourama,Bourama Niambele,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
-3825,2021-03-10,kita04,Bakary Kamissoko,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
-1158,2017-12-13,djelibougou01,Senou Fofana,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
+3621,2020-11-12,harouna.larabou,Harouna Larabou,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 3013,2020-02-05,sedhioupoly05,SALIF SANE,Agent Polivalent,5,34,SEDHIOU,1,SADIA TAMBA,sadia.tamba,2917
+1158,2017-12-13,djelibougou01,Senou Fofana,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 3170,2020-03-17,diourbelpoly16,OUMAR OGO SOW,Agent Polivalent,5,25,DIOURBEL,1,ALIOU  YADE,aliou.yade,2111
 530,2018-10-31,guegneka01,Abdoulaye Diarra,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 2446,2019-09-17,toutou.diabate,Toutou Diabaté,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 3776,2021-02-08,souli.ahmed,Ahmed Souli,Agent Commercial,14,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
 3710,2021-01-05,lougapoly10,DIARRA NDIAYE,Agent Polivalent,5,30,LOUGA,1,THIERNO  FAYE,thierno.faye@oolusolar.com,1561
 200,2018-07-06,mamadou.keita,Mamadou Keita,Agent Polyvalent ML,18,9,KAYES,2,David Timbine,David.Timbine,81
-3599,2020-11-01,diourbelpoly18,BAMBA NDJIBOU FAYE,Agent Polivalent,5,25,DIOURBEL,1,ALIOU  YADE,aliou.yade,2111
 3789,2021-02-12,christelle.makong,Annie Christelle MAKONG MEZA,Agent Commercial,14,50,Zone Littotal & Ouest,6,Leonel Igor NDITI,Leonel.nditi,3463
+3599,2020-11-01,diourbelpoly18,BAMBA NDJIBOU FAYE,Agent Polivalent,5,25,DIOURBEL,1,ALIOU  YADE,aliou.yade,2111
 2194,2019-08-02,ouattara.angeles,Angeles OUATTARA,Agent Commercial,14,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
-114,2018-03-21,thiespoly02,NIOKHOR TINE,Agent Polivalent,5,54,Thies,1,KHADIM SECK,khadim.seck,3512
 3029,2020-02-07,hamadou.adamou,Adamou Hamadou,Agent Commercial,14,41,DOSSO,5,SOCIETE TABBAT,societe.tabbat,3817
 3029,2020-02-07,hamadou.adamou,Adamou Hamadou,Agent Commercial,14,41,DOSSO,5,Ayouba Nadaré,ayouba.nadare,3700
 3763,2021-02-04,sorgho.idrissa,Idrissa SORGHO,Agent Polivalent,5,23,Zone Tenkodogo,4,D. Abdias TARNAGDA,tarnagda,3731
-2000,2019-06-13,koldapoly05,EL HADJ AROUNA  SY,Agent Polivalent,5,29,KOLDA,1,IBRAHIMA THIONGANE,ibrahima.thiongane@oolusolar.com,1843
-225,2018-08-13,ziguinchorpoly02,VITAL  SAGNA,Agent Polivalent,5,33,ZIGUINCHOR,1,OUSMANE  NIANG,ousmane.niang,386
+114,2018-03-21,thiespoly02,NIOKHOR TINE,Agent Polivalent,5,54,Thies,1,KHADIM SECK,khadim.seck,3512
+535,2018-11-02,agentcom96,MAMADOU  DEME,Agent Polivalent,5,31,MATAM,1,AMADOU ABOU  SALL,abou.sall@oolusolar.com,2102
+3688,2020-12-14,yorosso001,Martin Dao,Agent Commercial,14,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
+3631,2020-11-16,hamidou.seydou,Hamidou Seydou,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 2868,2019-12-19,alered,Alered DA,Agent Polivalent,5,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
 3685,2020-12-14,kaolackpoly20,MAHAMADOU GAYE,Agent Polivalent,5,28,KAOLACK,1,SOULEYMANE  MANE,kaolackpoly01,47
 3707,2020-12-28,sedhioupoly14,MAMADOU SIDY SEYDI,Agent Polivalent,5,34,SEDHIOU,1,SADIA TAMBA,sadia.tamba,2917
 2496,2019-10-01,ouari.siaka,Siaka OUARI,Agent Polivalent,5,19,Zone Balé,4,N. Jean Paul BAYALA,bayala.jp,3732
-2002,2019-06-13,koldapoly07,AMADOU DIOULDE BARRY,Agent Polivalent,5,29,KOLDA,1,IBRAHIMA THIONGANE,ibrahima.thiongane@oolusolar.com,1843
-3694,2020-12-15,lougapoly09,MAIMOUNA FALL,Agent Polivalent,5,30,LOUGA,1,THIERNO  FAYE,thierno.faye@oolusolar.com,1561
 3189,2020-03-18,koldapoly18,YERO KEBE,Agent Polivalent,5,29,KOLDA,1,IBRAHIMA THIONGANE,ibrahima.thiongane@oolusolar.com,1843
+370,2018-09-19,sincina01,Kalifa  Coulibaly,Agent Commercial,14,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
+3694,2020-12-15,lougapoly09,MAIMOUNA FALL,Agent Polivalent,5,30,LOUGA,1,THIERNO  FAYE,thierno.faye@oolusolar.com,1561
+1376,2018-12-11,agentcom130,TAKHA  MBAYE,Agent Polivalent,5,54,Thies,1,KHADIM SECK,khadim.seck,3512
 3736,2021-01-22,djakaridja,Djakaridja SAWADOGO,Agent Polivalent,5,48,Zone Gourcy,4,Kassoum ILBOUDO,kassoum.ilboudo,3730
 3778,2021-02-08,konkobo.bernard,Bernard KONKOBO,Agent Commercial,14,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
-1376,2018-12-11,agentcom130,TAKHA  MBAYE,Agent Polivalent,5,54,Thies,1,KHADIM SECK,khadim.seck,3512
-3028,2020-02-06,tuina.jean,Jean TUINA,Agent Commercial,14,19,Zone Balé,4,N. Jean Paul BAYALA,bayala.jp,3732
 3211,2020-03-30,adama.poni,ADAMA PONI OUATTARA,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
-1157,2017-12-13,massantola01,Jeremie Traore,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
+3028,2020-02-06,tuina.jean,Jean TUINA,Agent Commercial,14,19,Zone Balé,4,N. Jean Paul BAYALA,bayala.jp,3732
 3508,2020-08-27,kita03,Mahamadou Konaté,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
+1157,2017-12-13,massantola01,Jeremie Traore,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
+3825,2021-03-10,kita04,Bakary Kamissoko,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 3441,2020-07-24,sory.tiemoko,TIEMOKO SORY,Agent Polivalent,5,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
+1939,2019-05-30,ali.sani,Sani Ali,Agent Commercial,14,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
+3689,2020-12-14,yorosso002,Aboubacar Sidiki Kone,Agent Commercial,14,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
 2582,2019-10-14,souba01,Chiaka Coumaré,Agent Polyvalent ML,18,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
-3689,2020-12-14,yorosso002,Aboubacar Kone,Agent Commercial,14,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
 3466,2020-08-04,vanelle.ngouzon,VANELLE NGOUZON,Agent Polivalent,5,50,Zone Littotal & Ouest,6,Leonel Igor NDITI,Leonel.nditi,3463
 294,2018-09-11,bla01,Seydou Traoré,Agent Commercial,14,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
-3589,2020-10-26,pogo01,Dolo Ambire,Agent Commercial,14,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
-3688,2020-12-14,yorosso001,Martin Dao,Agent Commercial,14,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
 3590,2020-10-26,dougoufie01,Dramane Doumbia,Agent Commercial,14,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
 3469,2020-08-04,sevare01,Abdoulaye Maiga,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
 3777,2021-02-08,zoungrana.antoine,Antoine ZOUNGRANA,Agent Commercial,14,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
-3812,2021-03-02,fatickpoly26,NGONECOR DIOP,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
 140,2018-05-18,baga.daniel,Daniel Baga,Agent Commercial,14,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 3690,2020-12-14,mao01,Paul Diarra,Agent Commercial,14,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
 3691,2020-12-14,mao02,Luke Dao,Agent Commercial,14,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
+3812,2021-03-02,fatickpoly26,NGONECOR DIOP,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
 2664,2019-10-29,some.arsene,Arsène SOME,Agent Polivalent,5,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
+2597,2019-10-16,ouattara.abdallah,Abdallah OUATTARA,Agent Polivalent,5,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
 3781,2021-02-08,konate.issouf,Issouf KONATE,Agent Commercial,14,19,Zone Balé,4,N. Jean Paul BAYALA,bayala.jp,3732
 3692,2020-12-14,menamba01,Seydou Sanou,Agent Commercial,14,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
 3130,2020-03-09,ziguinchorpoly18,SECOU SANE,Agent AV,11,33,ZIGUINCHOR,1,OUSMANE  NIANG,ousmane.niang,386
+3703,2020-12-23,basiriki,Basiriki TRAORE,Agent Polivalent,5,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 3693,2020-12-14,koumbia02,Gnoyegue Goita,Agent Commercial,14,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
+3701,2020-12-22,bada03,Mallé  Cisse ,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
 53,2018-01-31,fatick06,AMADOU BOCAR SAGNA,Agent Polivalent,5,34,SEDHIOU,1,SADIA TAMBA,sadia.tamba,2917
 3610,2020-11-09,minidian01,Cheick Oumar keita,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
-2596,2019-10-16,da.claude,B. Claude DA,Agent Polivalent,5,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
 2742,2019-11-14,ousmane.traore,Ousmane Traoré,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
-229,2018-08-13,koldapoly02,MATHIEU PREIRA  RODRIGUEZ,Agent Polivalent,5,29,KOLDA,1,IBRAHIMA THIONGANE,ibrahima.thiongane@oolusolar.com,1843
+2865,2019-12-19,kambire.adama,Adama KAMBIRE,Agent Polivalent,5,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
 3464,2020-08-04,vital.ondoa,VITAL ONDOA,Agent Polivalent,5,50,Zone Littotal & Ouest,6,Leonel Igor NDITI,Leonel.nditi,3463
 1596,2019-03-06,traore.prospere,Prospere Traore,Agent Polivalent,5,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
-2847,2019-12-13,koldapoly16,ISSA DIAMANKA,Agent Polivalent,5,29,KOLDA,1,IBRAHIMA THIONGANE,ibrahima.thiongane@oolusolar.com,1843
 3666,2020-11-27,banamba03,Badara Ali  Dramé,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
-3828,2021-03-11,brahima,Brahima TRAORE,Agent Commercial,14,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
 2311,2019-08-26,amadou.diagne,Amadou Tidiane Diagne,Agent Polyvalent ML,18,9,KAYES,2,David Timbine,David.Timbine,81
+3828,2021-03-11,brahima,Brahima TRAORE,Agent Commercial,14,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
+179,2018-06-25,diaby.giz,Diaby Zoumana,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 220,2018-08-13,diourbelpoly02,EL HADJ CHEIKHOU NDOYE,Agent Polivalent,5,54,Thies,1,KHADIM SECK,khadim.seck,3512
 3174,2020-03-18,zolo,OUETJOUGA ZOLO,Agent Polivalent,5,49,Zone Nahouri,4,Y. Clément YONLI,yonli,3729
 3779,2021-02-08,pare.evariste,Evariste PARE,Agent Commercial,14,19,Zone Balé,4,N. Jean Paul BAYALA,bayala.jp,3732
-1931,2019-05-28,ziguinchorpoly07,YVES PATRICE DJILAMBA  BASSENE,Agent Polivalent,5,33,ZIGUINCHOR,1,OUSMANE  NIANG,ousmane.niang,386
-370,2018-09-19,sincina01,Kalifa  Coulibaly,Agent Commercial,14,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
+3523,2020-09-09,mafoune01,Samuel Dembele,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
 2620,2019-10-21,kedougoupoly12,BAH KEITA,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
 2806,2019-12-03,bado.stanislas,Wilfried stanislas BADO,Agent Polivalent,5,15,Zone dedougou,4,Lacina Oura,lacina.oura,431
-3523,2020-09-09,mafoune01,Samuel Dembele,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
-2309,2019-08-26,koldapoly11,MAMADOU  SEYDI,Agent Polivalent,5,29,KOLDA,1,IBRAHIMA THIONGANE,ibrahima.thiongane@oolusolar.com,1843
-3245,2020-04-14,sombie.amadou,AMADOU SOMBIE,Agent Polivalent,5,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
+3088,2020-02-24,hamadou.yaye,Hamadou Yaye,Agent Commercial,14,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
+286,2018-09-10,diourbel24,MANDIAYE  DIENG,Agent Polivalent,5,25,DIOURBEL,1,ALIOU  YADE,aliou.yade,2111
 3782,2021-02-08,palenfo.eric,Eric PALENFO,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
-2741,2019-11-14,baissa.sanogo,Baissa Sanogo,Agent Commercial,14,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
 2936,2020-01-15,bakouan.desire,DÉSIRÉ BAKOUAN,Agent Polivalent,5,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
-1668,2019-03-29,agentcom144,ISSA  DIOP,Agent Polivalent,5,32,SAINT LOUIS,1,KHASSIM  DIOP,khassim.diop@oolusolar.com,60
+2741,2019-11-14,baissa.sanogo,Baissa Sanogo,Agent Commercial,14,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
+198,2018-07-06,seydou.coulibaly,Seydou Coulibaly,Agent Polyvalent ML,18,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
 3593,2020-10-27,kadiolo003,Aboubacar Sidiki Bagayoko,Agent Commercial,14,10,SIKASSO,2,Hamaye Makanguile,hamaye.makanguile@oolusolar.com,2848
-2865,2019-12-19,kambire.adama,Adama KAMBIRE,Agent Polivalent,5,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
 2778,2019-11-26,kedougoupoly14,ALY BA,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
 2958,2020-01-22,tambapoly16,SILIMA DEMBELE,Agent Polivalent,5,38,TAMBACOUNDA2,1,SADIO  CISSOKHO,sadio.cissokho,2340
 3213,2020-04-01,kolondieba04,Mamadou Diarra,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 3820,2021-03-08,lougapoly11,THIERNO GUEYE,Agent Polivalent,5,30,LOUGA,1,THIERNO  FAYE,thierno.faye@oolusolar.com,1561
-3560,2020-09-28,ziguinchorpoly20,BOUBACAR DEMBA,Agent Polivalent,5,33,ZIGUINCHOR,1,OUSMANE  NIANG,ousmane.niang,386
+1435,2018-12-27,gerard.lamien,Gerard Lamien,Agent Polivalent,5,19,Zone Balé,4,N. Jean Paul BAYALA,bayala.jp,3732
 2603,2019-10-16,seb.florent,Binhouré Florent SEB,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
 2118,2019-07-19,gouba.totao,Totao GOUBA,Agent Commercial,14,23,Zone Tenkodogo,4,D. Abdias TARNAGDA,tarnagda,3731
+3560,2020-09-28,ziguinchorpoly20,BOUBACAR DEMBA,Agent Polivalent,5,33,ZIGUINCHOR,1,OUSMANE  NIANG,ousmane.niang,386
 190,2018-06-28,abba.goita,Abba Goita,Agent Polyvalent ML,18,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
 2817,2019-12-04,habibatou.dembele,Habibatou Dembele,Agent Polyvalent ML,18,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
 2738,2019-11-14,modibo.sidibe,Modibo Adama Sidibé,Agent Polyvalent ML,18,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
 2041,2019-06-25,bassole.abdoulaye,Abdoulaye Bassolé,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
-1435,2018-12-27,gerard.lamien,Gerard Lamien,Agent Polivalent,5,19,Zone Balé,4,N. Jean Paul BAYALA,bayala.jp,3732
+3245,2020-04-14,sombie.amadou,AMADOU SOMBIE,Agent Polivalent,5,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
+3455,2020-07-29,ollo,OLLO KAMBOU,Agent Polivalent,5,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
 3850,2021-03-24,hema.daouda,Daouda HEMA,Agent Commercial,14,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
+240,2018-08-13,agentcom122,MAMOUDOU DIALLO,Agent Polivalent,5,38,TAMBACOUNDA2,1,SADIO  CISSOKHO,sadio.cissokho,2340
+82,2018-02-26,abdoulaye.coulibaly.kadiolo,Abdoulaye Bamako Coulibaly,Agent AV,11,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 3712,2021-01-06,dogo01,Drissa Traoré,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 1628,2019-03-20,agentcom137,PAPE  FALL,Agent Polivalent,5,32,SAINT LOUIS,1,KHASSIM  DIOP,khassim.diop@oolusolar.com,60
 3759,2021-02-01,benena04,Mamadou Kamaté,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
 3758,2021-02-01,baramabougou01,Lassina Mounkoro,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
 3721,2021-01-11,oboulbiga,Y. Donald OBOULBIGA,Agent Polivalent,5,23,Zone Tenkodogo,4,D. Abdias TARNAGDA,tarnagda,3731
 3851,2021-03-24,kagone.salifou,Salifou KAGONE,Agent Commercial,14,48,Zone Gourcy,4,Kassoum ILBOUDO,kassoum.ilboudo,3730
-82,2018-02-26,abdoulaye.coulibaly.kadiolo,Abdoulaye Bamako Coulibaly,Agent AV,11,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 3713,2021-01-06,bougouni002,Bourama Coulibaly,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
-3177,2020-03-18,averipoabou,JEROME AVERIPOABOU,Agent Polivalent,5,49,Zone Nahouri,4,Y. Clément YONLI,yonli,3729
+472,2018-10-18,dakuo.appolinaire,Appolinaire DAKYO,Agent Polivalent,5,15,Zone dedougou,4,Lacina Oura,lacina.oura,431
 3465,2020-08-04,raoul.ndoumin,JEAN RAOUL NDOUMIN,Agent Polivalent,5,50,Zone Littotal & Ouest,6,Leonel Igor NDITI,Leonel.nditi,3463
-3533,2020-09-11,tiendo01,Moussa Coulibaly,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
+3589,2020-10-26,pogo01,Dolo Ambire,Agent Commercial,14,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
 469,2018-10-17,bougouni01,Mamadou Fomba,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 256,2018-08-13,agentcom34,TALLA  FAYE,Agent Polivalent,5,30,LOUGA,1,THIERNO  FAYE,thierno.faye@oolusolar.com,1561
-286,2018-09-10,diourbel24,MANDIAYE  DIENG,Agent Polivalent,5,25,DIOURBEL,1,ALIOU  YADE,aliou.yade,2111
 3783,2021-02-08,palm.be,Be PALM,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
-1930,2019-05-28,ziguinchorpoly06,IBRAHIMA  DIEME,Agent Polivalent,5,33,ZIGUINCHOR,1,OUSMANE  NIANG,ousmane.niang,386
-313,2018-09-11,dogofri01,Dramane Traoré,Agent Polyvalent ML,18,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
 3835,2021-03-16,ouedraogo.amade,Amade OUEDRAOGO,Agent Commercial,14,48,Zone Gourcy,4,Kassoum ILBOUDO,kassoum.ilboudo,3730
 2862,2019-12-17,kedougoupoly15,KADIALY MORO DANGNOKHO,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
-3701,2020-12-22,bada03,Mallé  Cisse ,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
+1668,2019-03-29,agentcom144,ISSA  DIOP,Agent Polivalent,5,32,SAINT LOUIS,1,KHASSIM  DIOP,khassim.diop@oolusolar.com,60
+229,2018-08-13,koldapoly02,MATHIEU PREIRA  RODRIGUEZ,Agent Polivalent,5,29,KOLDA,1,IBRAHIMA THIONGANE,ibrahima.thiongane@oolusolar.com,1843
+2309,2019-08-26,koldapoly11,MAMADOU  SEYDI,Agent Polivalent,5,29,KOLDA,1,IBRAHIMA THIONGANE,ibrahima.thiongane@oolusolar.com,1843
+3533,2020-09-11,tiendo01,Moussa Coulibaly,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 835,2017-07-27,binko02,Moussa Keita,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 2598,2019-10-16,momo.gerard,Gérard MOMO,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
 460,2018-10-13,n'torosso01,Israël Koumaré,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
@@ -645,78 +679,85 @@ agent_id,date_debut,username,agent,agent_role,role_id,zone_id,zone,id_tenant,sup
 1399,2018-12-17,dao.soumaila,Soumaila Dao,Agent Polivalent,5,19,Zone Balé,4,N. Jean Paul BAYALA,bayala.jp,3732
 3595,2020-10-30,yacoubou,Yacoubou NEBIE,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 289,2018-09-11,tomora01,Moussa Kouyaté,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
+1752,2019-04-12,mahamadou.soumana,Soumana Djibo MAHAMADOU,Agent Commercial,14,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
+1754,2019-04-12,mahamadou.gaoussou,Gaoussou Amadou MAHAMADOU,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 199,2018-07-06,chaka.togola,Chaka Togola,Agent Polyvalent ML,18,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
+2000,2019-06-13,koldapoly05,EL HADJ AROUNA  SY,Agent Polivalent,5,29,KOLDA,1,IBRAHIMA THIONGANE,ibrahima.thiongane@oolusolar.com,1843
 3283,2020-05-13,n'garandougou001,Boubacar Coulibaly,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 3854,2021-03-25,sanou.mamadou,Mamadou SANOU,Agent Commercial,14,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
+2525,2019-10-06,moussa.soumana,moussa soumana,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 3717,2021-01-07,tambapoly36,LASSANA SABALY,Agent Polivalent,5,38,TAMBACOUNDA2,1,SADIO  CISSOKHO,sadio.cissokho,2340
 3564,2020-10-01,kaolackpoly19,SOULEYMANE DIOUF,Agent Polivalent,5,28,KAOLACK,1,SOULEYMANE  MANE,kaolackpoly01,47
 3416,2020-07-13,fidele.kienou,FIDÈLE KIENOU,Agent Polivalent,5,15,Zone dedougou,4,Lacina Oura,lacina.oura,431
 3596,2020-10-30,k.sylvain,K. Sylvain OUEDRAOGO,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
-3788,2021-02-09,tambapoly37,MOUSSA DIALLO,Agent Polivalent,5,38,TAMBACOUNDA2,1,SADIO  CISSOKHO,sadio.cissokho,2340
+1931,2019-05-28,ziguinchorpoly07,YVES PATRICE DJILAMBA  BASSENE,Agent Polivalent,5,33,ZIGUINCHOR,1,OUSMANE  NIANG,ousmane.niang,386
 3784,2021-02-08,zaaba,Nonga Benjamin ZAABA,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
+1945,2019-05-30,chaibou.hamza,Hamza Chaibou,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 3705,2020-12-23,hema.mamadou,Mamadou HEMA,Agent Commercial,14,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 3722,2021-01-11,dianda.emmanuel,Emmanuel DIANDA,Agent Polivalent,5,15,Zone dedougou,4,Lacina Oura,lacina.oura,431
-3704,2020-12-23,sanou.noel,Noel SANOU,Agent Polivalent,5,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 493,2018-10-23,domba01,Mamadou Togola,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 3112,2020-03-02,kedougoupoly18,ALY KANTE,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
 3670,2020-12-03,diora02,Emmanuel Dabou,Agent Commercial,14,46,SAN,2,Koita Daouda,daouda.koita@oolusolar.com,3490
 3687,2020-12-14,bougouni001,Oumar M Sangare,Agent Commercial,14,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
+3704,2020-12-23,sanou.noel,Noel SANOU,Agent Polivalent,5,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
+3788,2021-02-09,tambapoly37,MOUSSA DIALLO,Agent Polivalent,5,38,TAMBACOUNDA2,1,SADIO  CISSOKHO,sadio.cissokho,2340
 3723,2021-01-11,zerbo.sita,Sita ZERBO,Agent Polivalent,5,15,Zone dedougou,4,Lacina Oura,lacina.oura,431
 3698,2020-12-22,tira,Zinta Boris TIRA,Agent Polivalent,5,15,Zone dedougou,4,Lacina Oura,lacina.oura,431
 3566,2020-10-01,sedhioupoly11,ALIOU CISSE,Agent Polivalent,5,34,SEDHIOU,1,SADIA TAMBA,sadia.tamba,2917
-2287,2019-08-20,sawadogo.allassane,Allassane SAWADOGO,Agent Polivalent,5,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
-300,2018-09-11,lacine.diakite,Lacine Diakite,Agent Polyvalent ML,18,9,KAYES,2,David Timbine,David.Timbine,81
+3178,2020-03-18,gatien,GATIEN NAWALIBOU,Agent Polivalent,5,49,Zone Nahouri,4,Y. Clément YONLI,yonli,3729
+3177,2020-03-18,averipoabou,JEROME AVERIPOABOU,Agent Polivalent,5,49,Zone Nahouri,4,Y. Clément YONLI,yonli,3729
 1638,2019-03-22,sefeto02,Barima Traoré,Agent Polyvalent ML,18,9,KAYES,2,David Timbine,David.Timbine,81
+300,2018-09-11,lacine.diakite,Lacine Diakite,Agent Polyvalent ML,18,9,KAYES,2,David Timbine,David.Timbine,81
 2116,2019-07-19,kone.siaka,Siaka KONE,Agent Commercial,14,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 569,2018-11-15,zantiebougou01,Seydou D Koné,Agent Polyvalent ML,18,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 1615,2019-03-14,sanogo.ismael,Ismael Sanogo,Agent Polivalent,5,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
 2066,2019-06-28,sawadogo.jean,Jean SAWADOGO,Agent Polivalent,5,48,Zone Gourcy,4,Kassoum ILBOUDO,kassoum.ilboudo,3730
 1212,2018-03-29,segou09,Cheick Tidiane  N'diaye ,Agent Polyvalent ML,18,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
-2962,2020-01-22,kedougoupoly16,ALPHA OUMAR  DIALLO,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
 2957,2020-01-22,ziguinchorpoly17,ISMAILA SAGNA,Agent Polivalent,5,33,ZIGUINCHOR,1,OUSMANE  NIANG,ousmane.niang,386
-1498,2019-01-22,garalo02,Arsene koulade,Agent Polyvalent ML,18,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
+2962,2020-01-22,kedougoupoly16,ALPHA OUMAR  DIALLO,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
 2602,2019-10-16,hien.blandine,Blandine HIEN ,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
 3746,2021-01-26,diafounou01,Djibril Doucouré,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
+1498,2019-01-22,garalo02,Arsene koulade,Agent Polyvalent ML,18,13,BOUGOUNI,2,Sidiki Konaté,sidiki.konate@oolusolar.com,2887
 2323,2019-08-28,fatickpoly06,BABACAR  FAYE,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
+2321,2019-08-27,fatickpoly05,JACQUES  SARR,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
 3592,2020-10-26,diourbelpoly17,ABDOULAYE MBACKE DIAW,Agent Polivalent,5,25,DIOURBEL,1,ALIOU  YADE,aliou.yade,2111
 3744,2021-01-25,sanando01,Cheick Oumar Sissoko,Agent Commercial,14,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
 3855,2021-03-25,fatickpoly27,PAPE DIENE LO,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
 230,2018-08-13,agentcom22,ABDOU RAZACK  BALDE,Agent Polivalent,5,29,KOLDA,1,IBRAHIMA THIONGANE,ibrahima.thiongane@oolusolar.com,1843
 2885,2019-12-23,ziguinchorpoly15,MARITEW CHIMER GUEYE,Agent Polivalent,5,33,ZIGUINCHOR,1,OUSMANE  NIANG,ousmane.niang,386
 3804,2021-02-19,fatickpoly25,BALLA BA,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
-2744,2019-11-14,sib.sansan,Sansan SIB,Agent Polivalent,5,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
 412,2018-10-01,binko01,Bamoussa Kané,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
 3113,2020-03-02,armand,W. ARMAND SOME,Agent Commercial,14,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508
 3794,2021-02-15,fatickpoly24,MALICK SARR,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
-2157,2019-07-30,diourbelpoly04,MODOU  LAM,Agent Polivalent,5,25,DIOURBEL,1,ALIOU  YADE,aliou.yade,2111
-3716,2021-01-07,tambapoly35,ADAMA DIALLO,Agent Polivalent,5,38,TAMBACOUNDA2,1,SADIO  CISSOKHO,sadio.cissokho,2340
-2321,2019-08-27,fatickpoly05,JACQUES  SARR,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
-2765,2019-11-22,kaolackpoly12,YERO BARRY,Agent Polivalent,5,28,KAOLACK,1,SOULEYMANE  MANE,kaolackpoly01,47
+2744,2019-11-14,sib.sansan,Sansan SIB,Agent Polivalent,5,16,Zone houndé,4,Emmanuel KABRE,emmanuel.kabre,153
 45,2018-01-09,fatick02,ALPHA BABOU,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
-2485,2019-09-26,kaolackpoly09,EL HADJI ABDOULAYE DIOUF,Agent AV,11,28,KAOLACK,1,SOULEYMANE  MANE,kaolackpoly01,47
+2157,2019-07-30,diourbelpoly04,MODOU  LAM,Agent Polivalent,5,25,DIOURBEL,1,ALIOU  YADE,aliou.yade,2111
+2739,2019-11-14,dramane.coulibaly,Dramane Coulibaly,Agent Commercial,14,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
 1519,2019-01-29,hema.badai,Badai Hema,Agent Commercial,14,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
 1537,2019-02-04,niena001,Koné Aboubacar,Agent Polyvalent ML,18,10,SIKASSO,2,Hamaye Makanguile,hamaye.makanguile@oolusolar.com,2848
 3772,2021-02-08,coulibaly.lambert,Lambert Coulibaly,Agent Commercial,14,24,Zone Kenedougou,4,Bakary OUATTARA,ouattara.bakary,2076
 1543,2019-02-06,kedougou_sav6,Abdou Aziz Toure,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
-309,2018-09-11,fakolo01,Enock Diarra,Agent Polyvalent ML,18,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
+2765,2019-11-22,kaolackpoly12,YERO BARRY,Agent Polivalent,5,28,KAOLACK,1,SOULEYMANE  MANE,kaolackpoly01,47
 3805,2021-02-19,kedougoupoly25,MAKHAN CISSOKHO,Agent Polivalent,5,35,KEDOUGOU,1,DEMBA GUEYE,demba.gueye,2440
-3178,2020-03-18,gatien,GATIEN NAWALIBOU,Agent Polivalent,5,49,Zone Nahouri,4,Y. Clément YONLI,yonli,3729
-198,2018-07-06,seydou.coulibaly,Seydou Coulibaly,Agent Polyvalent ML,18,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
-2828,2019-12-09,kohoun,Lazare KOHOUN,Agent Commercial,14,15,Zone dedougou,4,Lacina Oura,lacina.oura,431
 399,2018-09-28,ilboudo.dominique,Dominique Ilboudo,Agent Polivalent,5,22,Zone Centre,4,Bépian GUEL,guel.bepian,2558
 2474,2019-09-25,tiaho.nasert,Nasert Magnan TIAHO,Agent Polivalent,5,15,Zone dedougou,4,Lacina Oura,lacina.oura,431
-361,2018-09-18,modibo.dembele,Modibo Dembele,Agent Polyvalent ML,18,12,KOUTIALA,2,Karimou Traoré,traore.karimou,2757
+2828,2019-12-09,kohoun,Lazare KOHOUN,Agent Commercial,14,15,Zone dedougou,4,Lacina Oura,lacina.oura,431
 360,2018-09-18,abdoulaye.keita,Abdoulaye Keita,Agent Polyvalent ML,18,9,KAYES,2,David Timbine,David.Timbine,81
-410,2018-10-01,abou.samaké,Abou Samaké,Agent Polyvalent ML,18,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
-2184,2019-08-02,diourbelpoly08,THIERNO  DIA,Agent Polivalent,5,25,DIOURBEL,1,ALIOU  YADE,aliou.yade,2111
+1941,2019-05-30,issoufou.moussa,Moussa Issoufou,Agent Polivalent,5,52,Niamey &Tillaberi,5,Alhassane Maikibi,alhassane.maikibi,2641
 3719,2021-01-11,ouandaogo,Wiliyam OUANDAOGO,Agent Polivalent,5,23,Zone Tenkodogo,4,D. Abdias TARNAGDA,tarnagda,3731
+3857,2021-03-26,gnoumou.olivier,Olivier GNOUMOU,Agent Commercial,14,19,Zone Balé,4,N. Jean Paul BAYALA,bayala.jp,3732
 2922,2020-01-09,belo.laurent,Laurent BELO,Agent Polivalent,5,15,Zone dedougou,4,Lacina Oura,lacina.oura,431
+2184,2019-08-02,diourbelpoly08,THIERNO  DIA,Agent Polivalent,5,25,DIOURBEL,1,ALIOU  YADE,aliou.yade,2111
 290,2018-09-11,kenieba03,Brehima Keïta,Agent Commercial,14,9,KAYES,2,David Timbine,David.Timbine,81
+277,2018-08-13,fatick19,IBOU CISSE,Agent Polivalent,5,26,FATICK,1,Ndeye Saly Faye,ndeye.saly@oolusolar.com,1494
 2490,2019-09-27,segou010,Souleymane Yattara,Agent Polyvalent ML,18,11,SEGOU,2,Dougoutigui Diarra,dougoutigui@oolusolar.com,3488
 1529,2019-02-01,soulama.salif,Salif Soulama,Agent Polivalent,5,21,Zone Cascades,4,Arouna BADO,bado.arouna,2075
-422,2018-10-03,jeanpaul.kanté,Jean Paul Kanté,Agent Polyvalent ML,18,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
+2485,2019-09-26,kaolackpoly09,EL HADJI ABDOULAYE DIOUF,Agent AV,11,28,KAOLACK,1,SOULEYMANE  MANE,kaolackpoly01,47
 3193,2020-03-19,tambapoly27,MOUSSA TOUNKARA,Agent Polivalent,5,38,TAMBACOUNDA2,1,SADIO  CISSOKHO,sadio.cissokho,2340
+410,2018-10-01,abou.samaké,Abou Samaké,Agent Polyvalent ML,18,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
+422,2018-10-03,jeanpaul.kanté,Jean Paul Kanté,Agent Polyvalent ML,18,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
+2847,2019-12-13,koldapoly16,ISSA DIAMANKA,Agent Polivalent,5,29,KOLDA,1,IBRAHIMA THIONGANE,ibrahima.thiongane@oolusolar.com,1843
 3815,2021-03-03,zida.jonas,Jonas ZIDA,Agent Polivalent,5,18,Zone Nayala,4,Sahiba DIAO,diao.sahiba,2114
 3795,2021-02-17,diedougou03,Chiaka Konaré,Agent Commercial,14,8,KOULIKORO,2,Samba Coulibaly,coulibaly.samba,144
-3720,2021-01-11,traore.hamadou,Hamadou TRAORE,Agent Polivalent,5,23,Zone Tenkodogo,4,D. Abdias TARNAGDA,tarnagda,3731
 378,2018-09-20,klela01,Mahamadou S Coulibaly,Agent Polyvalent ML,18,10,SIKASSO,2,Hamaye Makanguile,hamaye.makanguile@oolusolar.com,2848
+2596,2019-10-16,da.claude,B. Claude DA,Agent Polivalent,5,17,Zone GAOUA,4,Sié Tanguy Kader KAM,kam.kader,2508

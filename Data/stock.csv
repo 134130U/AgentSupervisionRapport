@@ -1,14 +1,13 @@
 stock_name,stock_type,agent_id,product_type,category,stock
 Abba Goita - abba.goita,personal,190,Fan component,,1
 Abba Goita - abba.goita,personal,190,SKH Controller,pico,4
-Abba Goita - abba.goita,personal,190,WowSolar Controller,pico,15
-ABBEY BLESSED - EKPARAKWA01,personal,3141,Burn stove component,accessories,1
-ABBEY BLESSED - EKPARAKWA01,personal,3141,Fan component,,8
+Abba Goita - abba.goita,personal,190,WowSolar Controller,pico,13
+ABBEY BLESSED - EKPARAKWA01,personal,3141,Fan component,,7
 ABBEY BLESSED - EKPARAKWA01,personal,3141,Oolu TV Screen 24,SHS+TV,5
-ABBEY BLESSED - EKPARAKWA01,personal,3141,Oolu TV Screen 32,SHS+TV,5
+ABBEY BLESSED - EKPARAKWA01,personal,3141,Oolu TV Screen 32,SHS+TV,3
 ABBEY BLESSED - EKPARAKWA01,personal,3141,Portable light component,,6
 ABBEY BLESSED - EKPARAKWA01,personal,3141,WowSolar Controller,pico,1
-Abdallah OUATTARA - ouattara.abdallah,personal,2597,WowSolar Controller,pico,1
+Abdallah OUATTARA - ouattara.abdallah,personal,2597,WowSolar Controller,pico,2
 Abdallah OUATTARA - ouattara.abdallah,personal,2597,WowSolar Extension cable,pico,1
 Abdallah OUATTARA - ouattara.abdallah,personal,2597,WowSolar Lamp 140lm,pico,4
 Abdallah OUATTARA - ouattara.abdallah,personal,2597,WowSolar Panel 6W,pico,1
@@ -25,10 +24,9 @@ Abdoulaye Ballo - abdoulaye.ballo,personal,2448,WowSolar Lamp 140lm,pico,4
 Abdoulaye Ballo - abdoulaye.ballo,personal,2448,WowSolar Panel 6W,pico,1
 Abdoulaye Ballo - abdoulaye.ballo,personal,2448,WowSolar USB charger,pico,1
 Abdoulaye Ballo - abdoulaye.ballo,personal,2448,WowSolar Wall mount,pico,1
-Abdoulaye Bamako Coulibaly - abdoulaye.coulibaly.kadiolo,personal,82,WowSolar Controller,pico,2
-Abdoulaye Bassolé - bassole.abdoulaye,personal,2041,WowSolar Controller,pico,2
+Abdoulaye Bassolé - bassole.abdoulaye,personal,2041,WowSolar Controller,pico,1
+ABDOULAYE KANTE - koldapoly19,personal,3190,WowSolar Controller,pico,1
 ABDOULAYE KANTE - koldapoly19,personal,3190,WowSolar Lamp 140lm,pico,1
-abdoulaye karimou - abdoulaye.karimou,personal,2140,Fan component,,1
 abdoulaye karimou - abdoulaye.karimou,personal,2140,WowSolar Controller,pico,5
 abdoulaye karimou - abdoulaye.karimou,personal,2140,WowSolar Extension cable,pico,1
 abdoulaye karimou - abdoulaye.karimou,personal,2140,WowSolar Lamp 140lm,pico,4
@@ -74,7 +72,7 @@ Abdoul Karim Goita - gouadjikao01,personal,3681,WowSolar USB charger,pico,1
 Abdoul Karim Goita - gouadjikao01,personal,3681,WowSolar Wall mount,pico,1
 Abdourahim Rouamba - Rouamba.Abdourahim,personal,1643,Hairclipper component,accessories,2
 Abdourahim Rouamba - Rouamba.Abdourahim,personal,1643,Radio component,pico,1
-Abdourahim Rouamba - Rouamba.Abdourahim,personal,1643,WowSolar Controller,pico,7
+Abdourahim Rouamba - Rouamba.Abdourahim,personal,1643,WowSolar Controller,pico,6
 Abdourahim Rouamba - Rouamba.Abdourahim,personal,1643,WowSolar Extension cable,pico,1
 Abdourahim Rouamba - Rouamba.Abdourahim,personal,1643,WowSolar Lamp 140lm,pico,4
 Abdourahim Rouamba - Rouamba.Abdourahim,personal,1643,WowSolar Panel 6W,pico,1
@@ -83,24 +81,26 @@ Abdourahim Rouamba - Rouamba.Abdourahim,personal,1643,WowSolar Wall mount,pico,1
 ABDOURAHMANI ZIO - zio.abdourahmani,personal,3180,Fan component,,1
 ABDOURAHMANI ZIO - zio.abdourahmani,personal,3180,Panel Fan ,,1
 ABDOURAHMANI ZIO - zio.abdourahmani,personal,3180,WowSolar Controller,pico,1
-ABDOU RAZACK  BALDE - agentcom22,personal,230,SKH Controller,pico,1
-ABDOU RAZACK  BALDE - agentcom22,personal,230,SKH Lamp,pico,3
 ABDOU RAZACK  BALDE - agentcom22,personal,230,SKH Wall mount,pico,1
-ABDOU RAZACK  BALDE - agentcom22,personal,230,WowSolar Batterie GM 80W,SHS+TV,1
-ABDOU RAZACK  BALDE - agentcom22,personal,230,WowSolar Controller,pico,1
-ABDOU RAZACK  BALDE - agentcom22,personal,230,WowSolar Lamp 140lm,pico,1
-ABDOU RAZACK  BALDE - agentcom22,personal,230,WowSolar TV Screen 19 ,SHS+TV,1
+ABDOU RAZACK  BALDE - agentcom22,personal,230,WowSolar Controller,pico,3
+ABDOU RAZACK  BALDE - agentcom22,personal,230,WowSolar Extension cable,pico,3
+ABDOU RAZACK  BALDE - agentcom22,personal,230,WowSolar Lamp 140lm,pico,14
+ABDOU RAZACK  BALDE - agentcom22,personal,230,WowSolar Panel 6W,pico,3
 ABDOU RAZACK  BALDE - agentcom22,personal,230,WowSolar TV Screen 22,SHS+TV,2
+ABDOU RAZACK  BALDE - agentcom22,personal,230,WowSolar USB charger,pico,3
+ABDOU RAZACK  BALDE - agentcom22,personal,230,WowSolar Wall mount,pico,3
 ABIBOU GUEYE - kaolackpoly16,personal,3543,SKH Controller,pico,2
 ABIB SARR - kaffrinepoly13,personal,3002,SKH Controller,pico,3
 Abidemi Victoria Ojo - abidemi.ojo,personal,1685,Fan component,,1
 abigail negbenose - irrua04,personal,2718,WowSolar Controller,pico,2
+Abimbola Omeni - Rivers01,personal,1676,Burn stove component,accessories,2
 Abimbola Omeni - Rivers01,personal,1676,Fan component,,5
 Abimbola Omeni - Rivers01,personal,1676,Oolu TV Screen 24,SHS+TV,5
 Abimbola Omeni - Rivers01,personal,1676,Powerhub 1280 component,big SHS,2
 Abimbola Omeni - Rivers01,personal,1676,WowSolar Controller,pico,3
-Aboubacar Kone - yorosso002,personal,3689,WowSolar Controller,pico,1
 Aboubacar Sidiki Bagayoko - kadiolo003,personal,3593,WowSolar Controller,pico,2
+Aboubacar Sidiki Kone - yorosso002,personal,3689,WowSolar Controller,pico,1
+Aboubacar Sidiki Kone - yorosso002,personal,3689,WowSolar TV Screen 19 ,SHS+TV,1
 Aboudou Fomba - beleko01,personal,1725,WowSolar Controller,pico,5
 Aboudou Fomba - beleko01,personal,1725,WowSolar Lamp 140lm,pico,2
 Abou Samaké - abou.samaké,personal,410,Fan component,,2
@@ -124,13 +124,26 @@ Adama Barry - barry.adama,personal,1416,WowSolar Remote control,,1
 Adama Barry - barry.adama,personal,1416,WowSolar TV Screen 19 ,SHS+TV,1
 Adama Barry - barry.adama,personal,1416,WowSolar USB charger,pico,2
 Adama Barry - barry.adama,personal,1416,WowSolar Wall mount,pico,2
-ADAMA DIALLO - tambapoly35,personal,3716,SKH Controller,pico,3
-ADAMA DIALLO - tambapoly35,personal,3716,WowSolar Controller,pico,1
-ADAMA DIALLO - tambapoly35,personal,3716,WowSolar Extension cable,pico,1
-ADAMA DIALLO - tambapoly35,personal,3716,WowSolar Lamp 140lm,pico,4
+ADAMA DIALLO - tambapoly35,personal,3716,LNB Head incl. support,SHS+TV,1
+ADAMA DIALLO - tambapoly35,personal,3716,Satellite Cable 12m incl. connectors,SHS+TV,1
+ADAMA DIALLO - tambapoly35,personal,3716,Satellite Dish incl. support,SHS+TV,1
+ADAMA DIALLO - tambapoly35,personal,3716,SKH Controller,pico,5
+ADAMA DIALLO - tambapoly35,personal,3716,SKH Extension cable,pico,2
+ADAMA DIALLO - tambapoly35,personal,3716,SKH Lamp,pico,6
+ADAMA DIALLO - tambapoly35,personal,3716,SKH PV Panel,pico,2
+ADAMA DIALLO - tambapoly35,personal,3716,SKH USB cable,pico,2
+ADAMA DIALLO - tambapoly35,personal,3716,SKH Wall mount,pico,2
+ADAMA DIALLO - tambapoly35,personal,3716,WowSolar Batterie GM 80W,SHS+TV,1
+ADAMA DIALLO - tambapoly35,personal,3716,WowSolar Controller,pico,2
+ADAMA DIALLO - tambapoly35,personal,3716,WowSolar Extension cable,pico,2
+ADAMA DIALLO - tambapoly35,personal,3716,WowSolar Lamp 140lm,pico,8
+ADAMA DIALLO - tambapoly35,personal,3716,WowSolar Lamp 400lm,pico,2
+ADAMA DIALLO - tambapoly35,personal,3716,WowSolar Panel 40W,SHS+TV,1
 ADAMA DIALLO - tambapoly35,personal,3716,WowSolar Panel 6W,pico,1
-ADAMA DIALLO - tambapoly35,personal,3716,WowSolar USB charger,pico,1
-ADAMA DIALLO - tambapoly35,personal,3716,WowSolar Wall mount,pico,1
+ADAMA DIALLO - tambapoly35,personal,3716,WowSolar Remote control,,1
+ADAMA DIALLO - tambapoly35,personal,3716,WowSolar TV Screen 22,SHS+TV,1
+ADAMA DIALLO - tambapoly35,personal,3716,WowSolar USB charger,pico,2
+ADAMA DIALLO - tambapoly35,personal,3716,WowSolar Wall mount,pico,2
 Adama KAMBIRE - kambire.adama,personal,2865,Fan component,,1
 Adama KAMBIRE - kambire.adama,personal,2865,Radio component,pico,1
 Adama Kamissoko - gadougou01,personal,1167,SKH Controller,pico,1
@@ -147,7 +160,7 @@ Adama Sanogo - gouandiaka03,personal,3614,WowSolar Controller,pico,1
 Adama Toure - koutialakoko01,personal,3682,WowSolar Controller,pico,1
 Adama Traoré - daban01,personal,3640,Fan component,,1
 Adama Traoré - daban01,personal,3640,WowSolar Controller,pico,6
-Adamou Hamadou - hamadou.adamou,personal,3029,Fan component,,2
+Adamou Hamadou - hamadou.adamou,personal,3029,Fan component,,1
 Adamou Maharazou - maharazou.adamou,personal,3164,WowSolar Controller,pico,15
 adamou (Youri) boubacar - adamou.boubacar,personal,2535,WowSolar Controller,pico,2
 adamou (Youri) boubacar - adamou.boubacar,personal,2535,WowSolar Extension cable,pico,1
@@ -159,30 +172,31 @@ Adegoke Rasheed - Ilorin8,personal,3239,Portable light component,,1
 Adeniyi Safiriyu Kamorudeen - Ijebu-Igbo06,personal,3302,WowSolar Controller,pico,1
 adewale ajala - ogbomosho03,personal,518,WowSolar Controller,pico,1
 Adewole Adegoke - adewole.adegoke,personal,316,Radio component,pico,5
-Adewole Adegoke - adewole.adegoke,personal,316,WowSolar Controller,pico,5
+Adewole Adegoke - adewole.adegoke,personal,316,WowSolar Controller,pico,6
 Adewole Adegoke - adewole.adegoke,personal,316,WowSolar Extension cable,pico,5
 Adewole Adegoke - adewole.adegoke,personal,316,WowSolar Lamp 140lm,pico,15
 Adewole Adegoke - adewole.adegoke,personal,316,WowSolar Lamp 400lm,pico,5
 Adewole Adegoke - adewole.adegoke,personal,316,WowSolar Panel 10W,pico,5
 Adewole Adegoke - adewole.adegoke,personal,316,WowSolar USB charger,pico,5
 Adewole Adegoke - adewole.adegoke,personal,316,WowSolar Wall mount,pico,5
+Adeyinka Solaja - solaja.adeyinka,personal,2240,Burn stove component,accessories,1
+Adeyinka Solaja - solaja.adeyinka,personal,2240,Fan component,,1
 Adeyinka Solaja - solaja.adeyinka,personal,2240,WowSolar Controller,pico,2
 Adjara Younga - younga.adjara,personal,1551,WowSolar Controller,pico,1
 Ajibulu Abiola - akure24,personal,2761,Fan component,,1
 Ajibulu Abiola - akure24,personal,2761,Portable light component,,1
 Ajibulu Abiola - akure24,personal,2761,WowSolar Controller,pico,5
-Akhuetie Ezekiel - ewatto01,personal,2436,Burn stove component,accessories,1
 Akhuetie Ezekiel - ewatto01,personal,2436,Fan component,,2
-Akhuetie Ezekiel - ewatto01,personal,2436,Oolu TV Screen 24,SHS+TV,1
 Akhuetie Ezekiel - ewatto01,personal,2436,Oolu TV Screen 32,SHS+TV,1
 Akhuetie victor - ubiaja04,personal,1322,WowSolar Controller,pico,4
-Akingbogun Enitan - enitan.akingbogun,personal,2911,Fan component,,7
+Akingbogun Enitan - enitan.akingbogun,personal,2911,Fan component,,6
 Akingbogun Enitan - enitan.akingbogun,personal,2911,Oolu TV Screen 24,SHS+TV,3
 Akingbogun Enitan - enitan.akingbogun,personal,2911,Oolu TV Screen 32,SHS+TV,2
 AKURE STOCK POINT,multi_manager,3322,Fan component,,8
 AKURE STOCK POINT,multi_manager,3322,Portable light component,,10
 AKURE STOCK POINT,multi_manager,3322,WowSolar Controller,pico,2
 Alain Moussiane - moussiane.alain,personal,1427,WowSolar Controller,pico,2
+Alassa Mongbet  - agent.ccial11,personal,3864,D100 Controller,pico,1
 Alassane Mamoudou - mamoudou.alassane,personal,2138,WowSolar Controller,pico,1
 Alassane Mamoudou - mamoudou.alassane,personal,2138,WowSolar Extension cable,pico,1
 Alassane Mamoudou - mamoudou.alassane,personal,2138,WowSolar Lamp 140lm,pico,4
@@ -198,7 +212,7 @@ Aldiouma Simguepiré - Kayes002,personal,3095,WowSolar USB charger,pico,1
 Aldiouma Simguepiré - Kayes002,personal,3095,WowSolar Wall mount,pico,1
 Alered DA - alered,personal,2868,Fan component,,2
 Alered DA - alered,personal,2868,Hairclipper component,accessories,2
-Alered DA - alered,personal,2868,WowSolar Controller,pico,14
+Alered DA - alered,personal,2868,WowSolar Controller,pico,13
 Alhassane Maikibi - alhassane.maikibi,personal,2641,WowSolar Controller,pico,1
 Alhassane Maikibi - alhassane.maikibi,personal,2641,WowSolar Extension cable,pico,1
 Alhassane Maikibi - alhassane.maikibi,personal,2641,WowSolar Lamp 140lm,pico,4
@@ -219,12 +233,13 @@ ALIOU  YADE - aliou.yade,personal,2111,SKH Controller,pico,17
 ALIOU  YADE - aliou.yade,personal,2111,SKH Lamp,pico,8
 ALIOU  YADE - aliou.yade,personal,2111,SKH PV Panel,pico,7
 ALIOU  YADE - aliou.yade,personal,2111,WowSolar Batterie GM 80W,SHS+TV,1
-ALIOU  YADE - aliou.yade,personal,2111,WowSolar Controller,pico,4
+ALIOU  YADE - aliou.yade,personal,2111,WowSolar Controller,pico,20
 ALIOU  YADE - aliou.yade,personal,2111,WowSolar Extension cable,pico,1
 ALIOU  YADE - aliou.yade,personal,2111,WowSolar Lamp 140lm,pico,9
 ALIOU  YADE - aliou.yade,personal,2111,WowSolar Lamp 400lm,pico,2
 ALIOU  YADE - aliou.yade,personal,2111,WowSolar Panel 40W,SHS+TV,3
 ALIOU  YADE - aliou.yade,personal,2111,WowSolar Remote control,,1
+ALIOU  YADE - aliou.yade,personal,2111,WowSolar TV Screen 32,,1
 ALIOU  YADE - aliou.yade,personal,2111,WowSolar USB charger,pico,1
 ALIOU  YADE - aliou.yade,personal,2111,WowSolar Wall mount,pico,1
 Ali Poudiougou - heremakono01,personal,3724,WowSolar Controller,pico,1
@@ -235,16 +250,19 @@ Allassane SAWADOGO - sawadogo.allassane,personal,2287,WowSolar Lamp 140lm,pico,5
 Allassane SAWADOGO - sawadogo.allassane,personal,2287,WowSolar Panel 6W,pico,13
 Allassane SAWADOGO - sawadogo.allassane,personal,2287,WowSolar USB charger,pico,13
 Allassane SAWADOGO - sawadogo.allassane,personal,2287,WowSolar Wall mount,pico,13
-ALMAMY SAMORY  SAGNA - fatick_sav01,personal,1271,WowSolar Controller,pico,2
+ALMAMY SAMORY  SAGNA - fatick_sav01,personal,1271,WowSolar Controller,pico,1
 ALPHA BABOU - fatick02,personal,45,Satellite Dish incl. support,SHS+TV,2
-ALPHA BABOU - fatick02,personal,45,SKH Controller,pico,27
-ALPHA BABOU - fatick02,personal,45,SKH Lamp,pico,31
-ALPHA BABOU - fatick02,personal,45,SKH PV Panel,pico,23
+ALPHA BABOU - fatick02,personal,45,SKH Controller,pico,28
+ALPHA BABOU - fatick02,personal,45,SKH Extension cable,pico,1
+ALPHA BABOU - fatick02,personal,45,SKH Lamp,pico,34
+ALPHA BABOU - fatick02,personal,45,SKH PV Panel,pico,24
+ALPHA BABOU - fatick02,personal,45,SKH USB cable,pico,1
+ALPHA BABOU - fatick02,personal,45,SKH Wall mount,pico,1
 ALPHA BABOU - fatick02,personal,45,WowSolar Batterie GM 80W,SHS+TV,7
-ALPHA BABOU - fatick02,personal,45,WowSolar Controller,pico,10
+ALPHA BABOU - fatick02,personal,45,WowSolar Controller,pico,12
 ALPHA BABOU - fatick02,personal,45,WowSolar Lamp 140lm,pico,28
 ALPHA BABOU - fatick02,personal,45,WowSolar Panel 40W,SHS+TV,4
-ALPHA BABOU - fatick02,personal,45,WowSolar Panel 6W,pico,1
+ALPHA BABOU - fatick02,personal,45,WowSolar Panel 6W,pico,3
 ALPHA BABOU - fatick02,personal,45,WowSolar TV Screen 22,SHS+TV,3
 ALPHA OUMAR  DIALLO - kedougoupoly16,personal,2962,SKH Controller,pico,5
 ALPHA OUMAR  DIALLO - kedougoupoly16,personal,2962,WowSolar Controller,pico,3
@@ -259,7 +277,6 @@ alti abdou - alti.abdou,personal,2536,WowSolar Panel 6W,pico,1
 alti abdou - alti.abdou,personal,2536,WowSolar USB charger,pico,1
 alti abdou - alti.abdou,personal,2536,WowSolar Wall mount,pico,1
 ALY BA - kedougoupoly14,personal,2778,SKH Controller,pico,2
-ALY BA - kedougoupoly14,personal,2778,WowSolar Controller,pico,1
 ALY KANTE - kedougoupoly18,personal,3112,SKH Controller,pico,1
 alzouma sadou - alzouma.sadou,personal,2528,WowSolar Controller,pico,2
 AMADOU ABOU  SALL - abou.sall@oolusolar.com,personal,2102,Fan component,,6
@@ -269,7 +286,7 @@ AMADOU ABOU  SALL - abou.sall@oolusolar.com,personal,2102,Satellite Dish incl. s
 AMADOU ABOU  SALL - abou.sall@oolusolar.com,personal,2102,SKH Controller,pico,4
 AMADOU ABOU  SALL - abou.sall@oolusolar.com,personal,2102,SKH Lamp,pico,7
 AMADOU ABOU  SALL - abou.sall@oolusolar.com,personal,2102,SKH PV Panel,pico,1
-AMADOU ABOU  SALL - abou.sall@oolusolar.com,personal,2102,WowSolar Controller,pico,8
+AMADOU ABOU  SALL - abou.sall@oolusolar.com,personal,2102,WowSolar Controller,pico,23
 AMADOU ABOU  SALL - abou.sall@oolusolar.com,personal,2102,WowSolar Lamp 140lm,pico,5
 AMADOU ABOU  SALL - abou.sall@oolusolar.com,personal,2102,WowSolar Panel 6W,pico,1
 AMADOU BAKOUAN - bakouan.amadou,personal,2982,WowSolar Controller,pico,6
@@ -281,7 +298,12 @@ AMADOU BOCAR SAGNA - fatick06,personal,53,WowSolar Panel 40W,SHS+TV,1
 AMADOU BOCAR SAGNA - fatick06,personal,53,WowSolar Wall mount,pico,3
 AMADOU DIOULDE BARRY - koldapoly07,personal,2002,Hairclipper component,accessories,2
 AMADOU DIOULDE BARRY - koldapoly07,personal,2002,SKH Controller,pico,2
-AMADOU DIOULDE BARRY - koldapoly07,personal,2002,WowSolar Controller,pico,1
+AMADOU DIOULDE BARRY - koldapoly07,personal,2002,WowSolar Controller,pico,3
+AMADOU DIOULDE BARRY - koldapoly07,personal,2002,WowSolar Extension cable,pico,2
+AMADOU DIOULDE BARRY - koldapoly07,personal,2002,WowSolar Lamp 140lm,pico,8
+AMADOU DIOULDE BARRY - koldapoly07,personal,2002,WowSolar Panel 6W,pico,2
+AMADOU DIOULDE BARRY - koldapoly07,personal,2002,WowSolar USB charger,pico,2
+AMADOU DIOULDE BARRY - koldapoly07,personal,2002,WowSolar Wall mount,pico,2
 AMADOU SOMBIE - sombie.amadou,personal,3245,Fan component,,3
 AMADOU SOMBIE - sombie.amadou,personal,3245,Panel Fan ,,1
 AMADOU SOMBIE - sombie.amadou,personal,3245,WowSolar Controller,pico,2
@@ -303,12 +325,12 @@ Angaza - retraits non repossedes,multi_manager,419,LNB Head incl. support,SHS+TV
 Angaza - retraits non repossedes,multi_manager,419,PG TEST,SHS+TV,1
 Angaza - retraits non repossedes,multi_manager,419,Satellite Cable 12m incl. connectors,SHS+TV,2
 Angaza - retraits non repossedes,multi_manager,419,Satellite Dish incl. support,SHS+TV,2
-Angaza - retraits non repossedes,multi_manager,419,SKH Controller,pico,1077
-Angaza - retraits non repossedes,multi_manager,419,SKH Extension cable,pico,969
-Angaza - retraits non repossedes,multi_manager,419,SKH Lamp,pico,2907
-Angaza - retraits non repossedes,multi_manager,419,SKH PV Panel,pico,969
-Angaza - retraits non repossedes,multi_manager,419,SKH USB cable,pico,969
-Angaza - retraits non repossedes,multi_manager,419,SKH Wall mount,pico,969
+Angaza - retraits non repossedes,multi_manager,419,SKH Controller,pico,1075
+Angaza - retraits non repossedes,multi_manager,419,SKH Extension cable,pico,967
+Angaza - retraits non repossedes,multi_manager,419,SKH Lamp,pico,2901
+Angaza - retraits non repossedes,multi_manager,419,SKH PV Panel,pico,967
+Angaza - retraits non repossedes,multi_manager,419,SKH USB cable,pico,967
+Angaza - retraits non repossedes,multi_manager,419,SKH Wall mount,pico,967
 Angaza - retraits non repossedes,multi_manager,419,WowSolar Batterie GM 80W,SHS+TV,2
 Angaza - retraits non repossedes,multi_manager,419,WowSolar Controller,pico,2
 Angaza - retraits non repossedes,multi_manager,419,WowSolar Extension cable,pico,3
@@ -321,20 +343,20 @@ Angaza - retraits non repossedes,multi_manager,419,WowSolar TV Screen 19 ,SHS+TV
 Angaza - retraits non repossedes,multi_manager,419,WowSolar USB charger,pico,3
 Angaza - retraits non repossedes,multi_manager,419,WowSolar Wall mount,pico,3
 Angeles OUATTARA - ouattara.angeles,personal,2194,WowSolar Controller,pico,1
-Annie Christelle MAKONG MEZA - christelle.makong,personal,3789,D100 Controller,pico,5
+Annie Christelle MAKONG MEZA - christelle.makong,personal,3789,D100 Controller,pico,4
 ANN LEBARI - ELEME04,personal,1886,WowSolar Controller,pico,1
 Anthonia Eloh - ubiaja08,personal,1568,WowSolar Controller,pico,4
-Appolinaire DAKYO - dakuo.appolinaire,personal,472,WowSolar Controller,pico,2
-Appolinaire DAKYO - dakuo.appolinaire,personal,472,WowSolar Extension cable,pico,1
-Appolinaire DAKYO - dakuo.appolinaire,personal,472,WowSolar Lamp 140lm,pico,4
-Appolinaire DAKYO - dakuo.appolinaire,personal,472,WowSolar Panel 6W,pico,1
-Appolinaire DAKYO - dakuo.appolinaire,personal,472,WowSolar USB charger,pico,1
-Appolinaire DAKYO - dakuo.appolinaire,personal,472,WowSolar Wall mount,pico,1
-Arouna BADO - bado.arouna,personal,2075,Fan component,,11
+Appolinaire DAKYO - dakuo.appolinaire,personal,472,WowSolar Controller,pico,3
+Appolinaire DAKYO - dakuo.appolinaire,personal,472,WowSolar Extension cable,pico,2
+Appolinaire DAKYO - dakuo.appolinaire,personal,472,WowSolar Lamp 140lm,pico,8
+Appolinaire DAKYO - dakuo.appolinaire,personal,472,WowSolar Panel 6W,pico,2
+Appolinaire DAKYO - dakuo.appolinaire,personal,472,WowSolar USB charger,pico,2
+Appolinaire DAKYO - dakuo.appolinaire,personal,472,WowSolar Wall mount,pico,2
+Arouna BADO - bado.arouna,personal,2075,Fan component,,10
 Arouna BADO - bado.arouna,personal,2075,Hairclipper component,accessories,1
 Arouna BADO - bado.arouna,personal,2075,Panel Fan ,,1
 Arouna BADO - bado.arouna,personal,2075,Radio component,pico,1
-Arouna BADO - bado.arouna,personal,2075,WowSolar Controller,pico,36
+Arouna BADO - bado.arouna,personal,2075,WowSolar Controller,pico,29
 Arouna BADO - bado.arouna,personal,2075,WowSolar Extension cable,pico,1
 Arouna BADO - bado.arouna,personal,2075,WowSolar Lamp 140lm,pico,4
 Arouna BADO - bado.arouna,personal,2075,WowSolar Panel 6W,pico,1
@@ -342,7 +364,7 @@ Arouna BADO - bado.arouna,personal,2075,WowSolar USB charger,pico,1
 Arouna BADO - bado.arouna,personal,2075,WowSolar Wall mount,pico,1
 Arsene koulade - garalo02,personal,1498,Fan component,,2
 Arsene koulade - garalo02,personal,1498,SKH Lamp,pico,3
-Arsene koulade - garalo02,personal,1498,WowSolar Controller,pico,16
+Arsene koulade - garalo02,personal,1498,WowSolar Controller,pico,21
 Arsène SOME - some.arsene,personal,2664,Hairclipper component,accessories,3
 Arsène SOME - some.arsene,personal,2664,Radio component,pico,2
 Arsène SOME - some.arsene,personal,2664,WowSolar Controller,pico,2
@@ -356,8 +378,6 @@ Austin Ndidi - Udu05,personal,3035,WowSolar Controller,pico,1
 Awa Soma - soma.awa,personal,1510,Fan component,,1
 Awa Soma - soma.awa,personal,1510,WowSolar Controller,pico,3
 Ayodeji Adesina Moyosola - akure14,personal,1760,WowSolar Controller,pico,1
-ayodele olusola - ayodele.olusola,personal,1382,Burn stove component,accessories,1
-ayodele olusola - ayodele.olusola,personal,1382,Fan component,,4
 ayodele olusola - ayodele.olusola,personal,1382,Radio component,pico,1
 ayodele olusola - ayodele.olusola,personal,1382,WowSolar Controller,pico,1
 ayodele olusola - ayodele.olusola,personal,1382,WowSolar Extension cable,pico,1
@@ -366,11 +386,11 @@ ayodele olusola - ayodele.olusola,personal,1382,WowSolar Lamp 400lm,pico,1
 ayodele olusola - ayodele.olusola,personal,1382,WowSolar Panel 10W,pico,1
 ayodele olusola - ayodele.olusola,personal,1382,WowSolar USB charger,pico,1
 ayodele olusola - ayodele.olusola,personal,1382,WowSolar Wall mount,pico,1
-Ayouba Nadaré - ayouba.nadare,personal,3700,Fan component,,10
+Ayouba Nadaré - ayouba.nadare,personal,3700,Fan component,,9
 Ayouba Nadaré - ayouba.nadare,personal,3700,WowSolar Controller,pico,16
 azeez adegoke - adegoke.azeez,personal,2211,WowSolar Controller,pico,9
 BABACAR DIAGNE - tambapoly34,personal,3611,WowSolar Controller,pico,2
-BABACAR  FAYE - fatickpoly06,personal,2323,SKH Controller,pico,10
+BABACAR  FAYE - fatickpoly06,personal,2323,SKH Controller,pico,6
 BABACAR  FAYE - fatickpoly06,personal,2323,SKH Extension cable,pico,9
 BABACAR  FAYE - fatickpoly06,personal,2323,SKH Lamp,pico,18
 BABACAR  FAYE - fatickpoly06,personal,2323,SKH PV Panel,pico,6
@@ -389,15 +409,15 @@ Bagadian Keita - kenieba04,personal,291,WowSolar Panel 6W,pico,1
 Bagadian Keita - kenieba04,personal,291,WowSolar USB charger,pico,1
 Bagadian Keita - kenieba04,personal,291,WowSolar Wall mount,pico,1
 BAH KEITA - kedougoupoly12,personal,2620,SKH Controller,pico,2
-BAH KEITA - kedougoupoly12,personal,2620,WowSolar Controller,pico,2
-Bakary Kamissoko - kita04,personal,3825,WowSolar Controller,pico,6
+BAH KEITA - kedougoupoly12,personal,2620,WowSolar Controller,pico,3
+Bakary Kamissoko - kita04,personal,3825,WowSolar Controller,pico,5
 Bakary Kamissoko - kita04,personal,3825,WowSolar Extension cable,pico,1
 Bakary Kamissoko - kita04,personal,3825,WowSolar Lamp 140lm,pico,4
 Bakary Kamissoko - kita04,personal,3825,WowSolar Panel 6W,pico,1
 Bakary Kamissoko - kita04,personal,3825,WowSolar USB charger,pico,1
 Bakary Kamissoko - kita04,personal,3825,WowSolar Wall mount,pico,1
 BALLA BA - fatickpoly25,personal,3804,SKH Controller,pico,4
-BAMAKO,multi_manager,2175,Fan component,,36
+BAMAKO,multi_manager,2175,Fan component,,30
 BAMAKO,multi_manager,2175,Hairclipper component,accessories,1
 BAMAKO,multi_manager,2175,LNB Head incl. support,SHS+TV,2
 BAMAKO,multi_manager,2175,Satellite Cable 12m incl. connectors,SHS+TV,25
@@ -414,16 +434,15 @@ BAMAKO,multi_manager,2175,WowSolar Extension cable,pico,328
 BAMAKO,multi_manager,2175,WowSolar Lamp 140lm,pico,1802
 BAMAKO,multi_manager,2175,WowSolar Lamp 400lm,pico,72
 BAMAKO,multi_manager,2175,WowSolar Panel 40W,SHS+TV,55
-BAMAKO,multi_manager,2175,WowSolar Panel 6W,pico,432
+BAMAKO,multi_manager,2175,WowSolar Panel 6W,pico,431
 BAMAKO,multi_manager,2175,WowSolar Remote control,,2
 BAMAKO,multi_manager,2175,WowSolar TV Screen 19 ,SHS+TV,41
 BAMAKO,multi_manager,2175,WowSolar TV Screen 22,SHS+TV,6
 BAMAKO,multi_manager,2175,WowSolar USB charger,pico,306
 BAMAKO,multi_manager,2175,WowSolar Wall mount,pico,479
 BAMBA NDJIBOU FAYE - diourbelpoly18,personal,3599,SKH Controller,pico,3
-BAMBA NDJIBOU FAYE - diourbelpoly18,personal,3599,WowSolar Controller,pico,2
+BAMBA NDJIBOU FAYE - diourbelpoly18,personal,3599,WowSolar Controller,pico,1
 BAMBA NDJIBOU FAYE - diourbelpoly18,personal,3599,WowSolar Lamp 140lm,pico,2
-BAMBA NDJIBOU FAYE - diourbelpoly18,personal,3599,WowSolar TV Screen 32,,1
 barakat badmus - okeogun01,personal,523,WowSolar Controller,pico,1
 BARIBEE BEST SAARO - BORI08,personal,3140,Fan component,,2
 BARIBEE BEST SAARO - BORI08,personal,3140,WowSolar Controller,pico,1
@@ -438,17 +457,17 @@ Barima Traoré - sefeto02,personal,1638,SKH PV Panel,pico,3
 Barima Traoré - sefeto02,personal,1638,SKH USB cable,pico,3
 Barima Traoré - sefeto02,personal,1638,SKH Wall mount,pico,3
 Barima Traoré - sefeto02,personal,1638,WowSolar Batterie GM 80W,SHS+TV,2
-Barima Traoré - sefeto02,personal,1638,WowSolar Controller,pico,31
-Barima Traoré - sefeto02,personal,1638,WowSolar Extension cable,pico,7
-Barima Traoré - sefeto02,personal,1638,WowSolar Lamp 140lm,pico,26
+Barima Traoré - sefeto02,personal,1638,WowSolar Controller,pico,30
+Barima Traoré - sefeto02,personal,1638,WowSolar Extension cable,pico,8
+Barima Traoré - sefeto02,personal,1638,WowSolar Lamp 140lm,pico,30
 Barima Traoré - sefeto02,personal,1638,WowSolar Lamp 400lm,pico,6
 Barima Traoré - sefeto02,personal,1638,WowSolar Panel 40W,SHS+TV,2
-Barima Traoré - sefeto02,personal,1638,WowSolar Panel 6W,pico,5
+Barima Traoré - sefeto02,personal,1638,WowSolar Panel 6W,pico,6
 Barima Traoré - sefeto02,personal,1638,WowSolar Remote control,,2
 Barima Traoré - sefeto02,personal,1638,WowSolar TV Screen 22,SHS+TV,1
 Barima Traoré - sefeto02,personal,1638,WowSolar TV Screen 32,,1
-Barima Traoré - sefeto02,personal,1638,WowSolar USB charger,pico,7
-Barima Traoré - sefeto02,personal,1638,WowSolar Wall mount,pico,7
+Barima Traoré - sefeto02,personal,1638,WowSolar USB charger,pico,8
+Barima Traoré - sefeto02,personal,1638,WowSolar Wall mount,pico,8
 BARITOESAE LEBARI - BORI07,personal,2869,Fan component,,2
 BARITOESAE LEBARI - BORI07,personal,2869,WowSolar Controller,pico,1
 Basiriki TRAORE - basiriki,personal,3703,WowSolar Controller,pico,1
@@ -470,10 +489,9 @@ Bépian GUEL - guel.bepian,personal,2558,WowSolar Controller,pico,5
 Bernard Tienou - bossofala01,personal,3639,Fan component,,1
 Bernard Tienou - bossofala01,personal,3639,WowSolar Controller,pico,7
 Bevelé  Noin - noin.bevele,personal,342,WowSolar Controller,pico,1
-blessing abah - sakieast03,personal,1683,WowSolar Controller,pico,1
 BOBO DIOULASSO,multi_manager,3062,Fan component,,6
 BOBO DIOULASSO,multi_manager,3062,Hairclipper component,accessories,1
-BOBO DIOULASSO,multi_manager,3062,WowSolar Controller,pico,358
+BOBO DIOULASSO,multi_manager,3062,WowSolar Controller,pico,354
 BOBO DIOULASSO,multi_manager,3062,WowSolar Extension cable,pico,68
 BOBO DIOULASSO,multi_manager,3062,WowSolar Lamp 140lm,pico,392
 BOBO DIOULASSO,multi_manager,3062,WowSolar Lamp 400lm,pico,47
@@ -499,15 +517,22 @@ Bourama Camara - meguetan02,personal,3647,WowSolar Controller,pico,6
 Bourama Coulibaly - bougouni002,personal,3713,WowSolar Controller,pico,6
 Bourama Magassa - n'golobougou01,personal,374,WowSolar Controller,pico,2
 BOURAMA  MANE - sedhioupoly02,personal,2318,SKH Controller,pico,4
-BOURAMA  MANE - sedhioupoly02,personal,2318,WowSolar Controller,pico,6
+BOURAMA  MANE - sedhioupoly02,personal,2318,WowSolar Controller,pico,3
 Boyavi Nkambi - boyavi.nkambi,personal,159,Hairclipper component,accessories,1
 Boyavi Nkambi - boyavi.nkambi,personal,159,Radio component,pico,1
 Boyavi Nkambi - boyavi.nkambi,personal,159,WowSolar Controller,pico,3
-Brahima TRAORE - brahima,personal,3828,WowSolar Controller,pico,6
+Brahima TRAORE - brahima,personal,3828,WowSolar Controller,pico,5
 Bright  Inivie - Ogbai1,personal,3425,Oolu TV Screen 32,SHS+TV,1
 Bright Pastor - bayelsa01,personal,2910,Fan component,,1
 Bright Pastor - bayelsa01,personal,2910,Portable light component,,8
-Bright Pastor - bayelsa01,personal,2910,WowSolar Controller,pico,1
+Bright Pastor - bayelsa01,personal,2910,Radio component,pico,1
+Bright Pastor - bayelsa01,personal,2910,WowSolar Controller,pico,2
+Bright Pastor - bayelsa01,personal,2910,WowSolar Extension cable,pico,1
+Bright Pastor - bayelsa01,personal,2910,WowSolar Lamp 140lm,pico,3
+Bright Pastor - bayelsa01,personal,2910,WowSolar Lamp 400lm,pico,1
+Bright Pastor - bayelsa01,personal,2910,WowSolar Panel 10W,pico,1
+Bright Pastor - bayelsa01,personal,2910,WowSolar USB charger,pico,1
+Bright Pastor - bayelsa01,personal,2910,WowSolar Wall mount,pico,1
 Bukola  Adeyinka - owo05,personal,2291,WowSolar Controller,pico,1
 Chaka Togola - chaka.togola,personal,199,Fan component,,3
 Chaka Togola - chaka.togola,personal,199,SKH Controller,pico,5
@@ -517,13 +542,12 @@ Chaka Togola - chaka.togola,personal,199,WowSolar Lamp 140lm,pico,16
 Chaka Togola - chaka.togola,personal,199,WowSolar Panel 6W,pico,4
 Chaka Togola - chaka.togola,personal,199,WowSolar USB charger,pico,4
 Chaka Togola - chaka.togola,personal,199,WowSolar Wall mount,pico,4
-Charity Fabian - Rivers03,personal,1691,Fan component,,1
 Charity Fabian - Rivers03,personal,1691,Oolu TV Screen 24,SHS+TV,2
 Charity Fabian - Rivers03,personal,1691,Portable light component,,4
 Charity Fabian - Rivers03,personal,1691,WowSolar Controller,pico,4
 Charles BAKALA - bakala.charles,personal,2879,WowSolar Controller,pico,3
 Cheick Tidiane  N'diaye  - segou09,personal,1212,SKH Controller,pico,1
-Cheick Tidiane  N'diaye  - segou09,personal,1212,WowSolar Controller,pico,21
+Cheick Tidiane  N'diaye  - segou09,personal,1212,WowSolar Controller,pico,23
 Cheick Tidiane  N'diaye  - segou09,personal,1212,WowSolar Extension cable,pico,2
 Cheick Tidiane  N'diaye  - segou09,personal,1212,WowSolar Lamp 140lm,pico,8
 Cheick Tidiane  N'diaye  - segou09,personal,1212,WowSolar Panel 6W,pico,2
@@ -535,10 +559,11 @@ CHEIKH  DIOP - kaffrinepoly10,personal,2218,SKH Lamp,pico,6
 CHEIKH  DIOP - kaffrinepoly10,personal,2218,SKH PV Panel,pico,2
 CHEIKH  DIOP - kaffrinepoly10,personal,2218,SKH USB cable,pico,2
 CHEIKH  DIOP - kaffrinepoly10,personal,2218,SKH Wall mount,pico,2
-CHEIKH  DIOP - kaffrinepoly10,personal,2218,WowSolar Controller,pico,7
+CHEIKH  DIOP - kaffrinepoly10,personal,2218,WowSolar Controller,pico,12
 Cheikh Moussa Ka - kaolack08,personal,48,SKH Controller,pico,2
+Cherif Nasser - agent.ccial12,personal,3865,D100 Controller,pico,1
 Chiaka Coumaré - souba01,personal,2582,Fan component,,2
-Chiaka Coumaré - souba01,personal,2582,WowSolar Controller,pico,13
+Chiaka Coumaré - souba01,personal,2582,WowSolar Controller,pico,14
 Chiaka Coumaré - souba01,personal,2582,WowSolar Extension cable,pico,6
 Chiaka Coumaré - souba01,personal,2582,WowSolar Lamp 140lm,pico,24
 Chiaka Coumaré - souba01,personal,2582,WowSolar Panel 6W,pico,6
@@ -562,13 +587,14 @@ Chinomso  Ejiogu - chinomso.ejiogu,personal,1893,WowSolar Panel 10W,pico,1
 Chinomso  Ejiogu - chinomso.ejiogu,personal,1893,WowSolar USB charger,pico,1
 Chinomso  Ejiogu - chinomso.ejiogu,personal,1893,WowSolar Wall mount,pico,1
 CHINYERE NWACHUKWU BRIDGET - WOJI01,personal,2169,WowSolar Controller,pico,2
+Chukwuemeka Afokwalam - chukwuemeka,personal,1917,Fan component,,1
 Chukwuemeka Afokwalam - chukwuemeka,personal,1917,Oolu TV Screen 24,SHS+TV,1
 Chukwuemeka Afokwalam - chukwuemeka,personal,1917,Portable light component,,1
 Chukwuemeka Afokwalam - chukwuemeka,personal,1917,WowSolar Controller,pico,5
 COMFORT LUCKY - OKIRIKA06,personal,2012,WowSolar Controller,pico,1
 CONCEPT NGOZI - IGUWUTA01,personal,2196,WowSolar Controller,pico,2
 D. Abdias TARNAGDA - tarnagda,personal,3731,Fan component,,6
-D. Abdias TARNAGDA - tarnagda,personal,3731,WowSolar Controller,pico,26
+D. Abdias TARNAGDA - tarnagda,personal,3731,WowSolar Controller,pico,25
 D. Abdias TARNAGDA - tarnagda,personal,3731,WowSolar Extension cable,pico,1
 D. Abdias TARNAGDA - tarnagda,personal,3731,WowSolar Lamp 140lm,pico,4
 D. Abdias TARNAGDA - tarnagda,personal,3731,WowSolar Panel 6W,pico,1
@@ -610,7 +636,7 @@ DEMBA GUEYE - demba.gueye,personal,2440,SKH PV Panel,pico,2
 DEMBA GUEYE - demba.gueye,personal,2440,SKH USB cable,pico,1
 DEMBA GUEYE - demba.gueye,personal,2440,SKH Wall mount,pico,1
 DEMBA GUEYE - demba.gueye,personal,2440,WowSolar Batterie GM 80W,SHS+TV,1
-DEMBA GUEYE - demba.gueye,personal,2440,WowSolar Controller,pico,6
+DEMBA GUEYE - demba.gueye,personal,2440,WowSolar Controller,pico,5
 DEMBA GUEYE - demba.gueye,personal,2440,WowSolar Extension cable,pico,2
 DEMBA GUEYE - demba.gueye,personal,2440,WowSolar Lamp 140lm,pico,18
 DEMBA GUEYE - demba.gueye,personal,2440,WowSolar Lamp 400lm,pico,4
@@ -623,7 +649,7 @@ DEMBA GUEYE - demba.gueye,personal,2440,WowSolar USB charger,pico,2
 DEMBA GUEYE - demba.gueye,personal,2440,WowSolar Wall mount,pico,2
 DÉSIRÉ BAKOUAN - bakouan.desire,personal,2936,Fan component,,2
 DÉSIRÉ BAKOUAN - bakouan.desire,personal,2936,Radio component,pico,3
-DÉSIRÉ BAKOUAN - bakouan.desire,personal,2936,WowSolar Controller,pico,14
+DÉSIRÉ BAKOUAN - bakouan.desire,personal,2936,WowSolar Controller,pico,11
 DÉSIRÉ BAKOUAN - bakouan.desire,personal,2936,WowSolar Extension cable,pico,1
 DÉSIRÉ BAKOUAN - bakouan.desire,personal,2936,WowSolar Lamp 140lm,pico,4
 DÉSIRÉ BAKOUAN - bakouan.desire,personal,2936,WowSolar Panel 6W,pico,1
@@ -644,25 +670,25 @@ Divine  Ikechukwu - OWERRINORTH10,personal,3845,Fan component,,1
 Djakaridja OUEDRAOGO - ouedraogo.djakaridja,personal,2170,Fan component,,2
 Djakaridja OUEDRAOGO - ouedraogo.djakaridja,personal,2170,WowSolar Controller,pico,10
 Djatourou Abdoulaye - djatourou.abdoulaye,personal,1368,SKH Controller,pico,1
-Djatourou Abdoulaye - djatourou.abdoulaye,personal,1368,WowSolar Controller,pico,15
+Djatourou Abdoulaye - djatourou.abdoulaye,personal,1368,WowSolar Controller,pico,14
  D. Jeremie Lougué - lougué.jeremie,personal,341,WowSolar Controller,pico,2
 Djibo Mounkaila - mounkaila.djibo,personal,3519,WowSolar Controller,pico,2
 DJIBRIL   FAYE - fatickpoly04,personal,2125,Satellite Dish incl. support,SHS+TV,1
 DJIBRIL   FAYE - fatickpoly04,personal,2125,SKH Controller,pico,1
-DJIBRIL   FAYE - fatickpoly04,personal,2125,SKH Extension cable,pico,5
-DJIBRIL   FAYE - fatickpoly04,personal,2125,SKH Lamp,pico,12
-DJIBRIL   FAYE - fatickpoly04,personal,2125,SKH PV Panel,pico,4
-DJIBRIL   FAYE - fatickpoly04,personal,2125,SKH USB cable,pico,5
-DJIBRIL   FAYE - fatickpoly04,personal,2125,SKH Wall mount,pico,5
+DJIBRIL   FAYE - fatickpoly04,personal,2125,SKH Extension cable,pico,8
+DJIBRIL   FAYE - fatickpoly04,personal,2125,SKH Lamp,pico,21
+DJIBRIL   FAYE - fatickpoly04,personal,2125,SKH PV Panel,pico,7
+DJIBRIL   FAYE - fatickpoly04,personal,2125,SKH USB cable,pico,8
+DJIBRIL   FAYE - fatickpoly04,personal,2125,SKH Wall mount,pico,8
 DJIBRIL   FAYE - fatickpoly04,personal,2125,WowSolar Controller,pico,2
 DJILENE SENE - agentcom67,personal,268,Radio component,pico,1
 DJILENE SENE - agentcom67,personal,268,SKH Controller,pico,5
 DJILENE SENE - agentcom67,personal,268,SKH Lamp,pico,6
 DJILENE SENE - agentcom67,personal,268,SKH PV Panel,pico,2
-DJILENE SENE - agentcom67,personal,268,WowSolar Controller,pico,1
+DJILENE SENE - agentcom67,personal,268,WowSolar Controller,pico,2
 DJILENE SENE - agentcom67,personal,268,WowSolar Extension cable,pico,1
 DJILENE SENE - agentcom67,personal,268,WowSolar Lamp 140lm,pico,8
-DJILENE SENE - agentcom67,personal,268,WowSolar Panel 6W,pico,1
+DJILENE SENE - agentcom67,personal,268,WowSolar Panel 6W,pico,2
 DJILENE SENE - agentcom67,personal,268,WowSolar USB charger,pico,1
 DJILENE SENE - agentcom67,personal,268,WowSolar Wall mount,pico,1
 Dolo Ambire - pogo01,personal,3589,WowSolar Controller,pico,3
@@ -673,20 +699,23 @@ Dominique Ilboudo - ilboudo.dominique,personal,399,WowSolar Controller,pico,10
 dorcas adeoti - adeoti.dorcas,personal,501,Portable light component,,8
 dorcas adeoti - adeoti.dorcas,personal,501,WowSolar Controller,pico,8
 dorcas dada - isolo02,personal,599,WowSolar Controller,pico,1
-DORIS IHEANACHO - owerri01,personal,1954,Fan component,,7
+DORIS IHEANACHO - owerri01,personal,1954,Fan component,,8
 DORIS IHEANACHO - owerri01,personal,1954,Portable light component,,1
-DOUALA,multi_manager,3405,D100 Controller,pico,166
+DOUALA,multi_manager,3405,D100 Controller,pico,157
 DOUALA,multi_manager,3405,D100 Extension cable,,17
 DOUALA,multi_manager,3405,D100 Lamp 120lm,pico,34
 DOUALA,multi_manager,3405,D100 Lamp 220lm,pico,17
 DOUALA,multi_manager,3405,D100 Multifunction charger,pico,17
 DOUALA,multi_manager,3405,D100 Panel,pico,17
-DOUALA,multi_manager,3405,Oolu TV Screen 24,SHS+TV,14
-DOUALA,multi_manager,3405,Oolu TV Screen 32,SHS+TV,4
+DOUALA,multi_manager,3405,Oolu TV Screen 24,SHS+TV,12
+DOUALA,multi_manager,3405,Oolu TV Screen 32,SHS+TV,19
 Dougoutigui Diarra - dougoutigui@oolusolar.com,personal,3488,Fan component,,5
-Dougoutigui Diarra - dougoutigui@oolusolar.com,personal,3488,Panel Fan ,,1
-Dougoutigui Diarra - dougoutigui@oolusolar.com,personal,3488,SKH Controller,pico,3
-Dougoutigui Diarra - dougoutigui@oolusolar.com,personal,3488,WowSolar Controller,pico,59
+Dougoutigui Diarra - dougoutigui@oolusolar.com,personal,3488,Panel Fan ,,2
+Dougoutigui Diarra - dougoutigui@oolusolar.com,personal,3488,SKH Controller,pico,4
+Dougoutigui Diarra - dougoutigui@oolusolar.com,personal,3488,SKH Extension cable,pico,1
+Dougoutigui Diarra - dougoutigui@oolusolar.com,personal,3488,SKH Lamp,pico,3
+Dougoutigui Diarra - dougoutigui@oolusolar.com,personal,3488,SKH Wall mount,pico,1
+Dougoutigui Diarra - dougoutigui@oolusolar.com,personal,3488,WowSolar Controller,pico,41
 Dougoutigui Diarra - dougoutigui@oolusolar.com,personal,3488,WowSolar Extension cable,pico,1
 Dougoutigui Diarra - dougoutigui@oolusolar.com,personal,3488,WowSolar Lamp 140lm,pico,12
 Dougoutigui Diarra - dougoutigui@oolusolar.com,personal,3488,WowSolar Panel 6W,pico,3
@@ -695,8 +724,8 @@ Dougoutigui Diarra - dougoutigui@oolusolar.com,personal,3488,WowSolar Wall mount
 Dougoutigui Konate - dkonate.operateur,personal,193,WowSolar Controller,pico,2
 Doulaye SANOGO - sanogo.doulaye,personal,2186,Fan component,,1
 Doulaye SANOGO - sanogo.doulaye,personal,2186,Radio component,pico,3
-Doulaye SANOGO - sanogo.doulaye,personal,2186,WowSolar Controller,pico,8
-Dramane Coulibaly - dramane.coulibaly,personal,2739,WowSolar Controller,pico,9
+Doulaye SANOGO - sanogo.doulaye,personal,2186,WowSolar Controller,pico,5
+Dramane Coulibaly - dramane.coulibaly,personal,2739,WowSolar Controller,pico,8
 Dramane Coulibaly - dramane.coulibaly,personal,2739,WowSolar Extension cable,pico,2
 Dramane Coulibaly - dramane.coulibaly,personal,2739,WowSolar Lamp 140lm,pico,8
 Dramane Coulibaly - dramane.coulibaly,personal,2739,WowSolar Panel 6W,pico,2
@@ -707,7 +736,7 @@ Dramane Traoré - dogofri01,personal,313,Satellite Cable 12m incl. connectors,SH
 Dramane Traoré - dogofri01,personal,313,Satellite Dish incl. support,SHS+TV,2
 Dramane Traoré - dogofri01,personal,313,SKH Controller,pico,3
 Dramane Traoré - dogofri01,personal,313,WowSolar Batterie GM 80W,SHS+TV,2
-Dramane Traoré - dogofri01,personal,313,WowSolar Controller,pico,10
+Dramane Traoré - dogofri01,personal,313,WowSolar Controller,pico,9
 Dramane Traoré - dogofri01,personal,313,WowSolar Extension cable,pico,4
 Dramane Traoré - dogofri01,personal,313,WowSolar Lamp 140lm,pico,14
 Dramane Traoré - dogofri01,personal,313,WowSolar Lamp 400lm,pico,6
@@ -723,11 +752,13 @@ Drissa TRAORE - traore.drissa,personal,2777,WowSolar Controller,pico,1
 Dubidjie Proper KAZAGABOU - kazagabou.prosper,personal,2613,WowSolar Controller,pico,1
 Elegbede Tanimola - reseller.ikd01,personal,2477,WowSolar Controller,pico,1
 EL HADJ AROUNA  SY - koldapoly05,personal,2000,SKH Controller,pico,1
-EL HADJ AROUNA  SY - koldapoly05,personal,2000,WowSolar Controller,pico,2
+EL HADJ AROUNA  SY - koldapoly05,personal,2000,WowSolar Batterie GM 80W,SHS+TV,1
+EL HADJ AROUNA  SY - koldapoly05,personal,2000,WowSolar Controller,pico,11
 EL HADJ AROUNA  SY - koldapoly05,personal,2000,WowSolar Extension cable,pico,7
 EL HADJ AROUNA  SY - koldapoly05,personal,2000,WowSolar Lamp 140lm,pico,4
 EL HADJ AROUNA  SY - koldapoly05,personal,2000,WowSolar Panel 6W,pico,1
 EL HADJ AROUNA  SY - koldapoly05,personal,2000,WowSolar Remote control,,1
+EL HADJ AROUNA  SY - koldapoly05,personal,2000,WowSolar TV Screen 22,SHS+TV,1
 EL HADJ AROUNA  SY - koldapoly05,personal,2000,WowSolar Wall mount,pico,1
 EL HADJ CHEIKHOU NDOYE - diourbelpoly02,personal,220,LNB Head incl. support,SHS+TV,1
 EL HADJ CHEIKHOU NDOYE - diourbelpoly02,personal,220,Satellite Cable 12m incl. connectors,SHS+TV,1
@@ -736,7 +767,7 @@ EL HADJ CHEIKHOU NDOYE - diourbelpoly02,personal,220,SKH Controller,pico,2
 EL HADJ CHEIKHOU NDOYE - diourbelpoly02,personal,220,SKH Lamp,pico,3
 EL HADJ CHEIKHOU NDOYE - diourbelpoly02,personal,220,SKH PV Panel,pico,4
 EL HADJ CHEIKHOU NDOYE - diourbelpoly02,personal,220,WowSolar Batterie GM 80W,SHS+TV,1
-EL HADJ CHEIKHOU NDOYE - diourbelpoly02,personal,220,WowSolar Controller,pico,4
+EL HADJ CHEIKHOU NDOYE - diourbelpoly02,personal,220,WowSolar Controller,pico,15
 EL HADJ CHEIKHOU NDOYE - diourbelpoly02,personal,220,WowSolar Extension cable,pico,1
 EL HADJ CHEIKHOU NDOYE - diourbelpoly02,personal,220,WowSolar Lamp 140lm,pico,8
 EL HADJ CHEIKHOU NDOYE - diourbelpoly02,personal,220,WowSolar Lamp 400lm,pico,4
@@ -745,12 +776,12 @@ EL HADJ CHEIKHOU NDOYE - diourbelpoly02,personal,220,WowSolar Remote control,,1
 EL HADJ CHEIKHOU NDOYE - diourbelpoly02,personal,220,WowSolar TV Screen 22,SHS+TV,1
 EL HADJ CHEIKHOU NDOYE - diourbelpoly02,personal,220,WowSolar USB charger,pico,1
 EL HADJ CHEIKHOU NDOYE - diourbelpoly02,personal,220,WowSolar Wall mount,pico,1
-EL HADJI ABDOULAYE DIOUF - kaolackpoly09,personal,2485,SKH Controller,pico,6
-EL HADJI ABDOULAYE DIOUF - kaolackpoly09,personal,2485,SKH Extension cable,pico,1
-EL HADJI ABDOULAYE DIOUF - kaolackpoly09,personal,2485,SKH Lamp,pico,3
-EL HADJI ABDOULAYE DIOUF - kaolackpoly09,personal,2485,SKH PV Panel,pico,1
-EL HADJI ABDOULAYE DIOUF - kaolackpoly09,personal,2485,SKH USB cable,pico,1
-EL HADJI ABDOULAYE DIOUF - kaolackpoly09,personal,2485,SKH Wall mount,pico,1
+EL HADJI ABDOULAYE DIOUF - kaolackpoly09,personal,2485,SKH Controller,pico,12
+EL HADJI ABDOULAYE DIOUF - kaolackpoly09,personal,2485,SKH Extension cable,pico,7
+EL HADJI ABDOULAYE DIOUF - kaolackpoly09,personal,2485,SKH Lamp,pico,21
+EL HADJI ABDOULAYE DIOUF - kaolackpoly09,personal,2485,SKH PV Panel,pico,7
+EL HADJI ABDOULAYE DIOUF - kaolackpoly09,personal,2485,SKH USB cable,pico,7
+EL HADJI ABDOULAYE DIOUF - kaolackpoly09,personal,2485,SKH Wall mount,pico,7
 EL HADJI ABDOULAYE DIOUF - kaolackpoly09,personal,2485,WowSolar Controller,pico,2
 EL HADJI ABDOULAYE DIOUF - kaolackpoly09,personal,2485,WowSolar Extension cable,pico,1
 EL HADJI ABDOULAYE DIOUF - kaolackpoly09,personal,2485,WowSolar Lamp 140lm,pico,4
@@ -760,7 +791,7 @@ EL HADJI ABDOULAYE DIOUF - kaolackpoly09,personal,2485,WowSolar Wall mount,pico,
 Elliot Tokunbo - accion.microfinance,personal,3081,Fan component,,1
 Elliot Tokunbo - accion.microfinance,personal,3081,Portable light component,,2
 Elliot Tokunbo - accion.microfinance,personal,3081,WowSolar Controller,pico,1
-Elvis Agent Ccial - agent.ccial6,personal,3837,D100 Controller,pico,1
+Elvis Agent Ccial - agent.ccial6,personal,3837,D100 Controller,pico,2
 Elvis Agent Ccial - agent.ccial6,personal,3837,Oolu TV Screen 24,SHS+TV,1
 Ema Thera - ema.thera,personal,2762,WowSolar Controller,pico,1
 Emeh Ugoh - ubulu02,personal,2032,WowSolar Controller,pico,1
@@ -778,14 +809,14 @@ Emmanuel Fedoje - emmanuel.fedoje,personal,2457,WowSolar Controller,pico,2
 Emmanuel KABRE - emmanuel.kabre,personal,153,Fan component,,3
 Emmanuel KABRE - emmanuel.kabre,personal,153,Hairclipper component,accessories,2
 Emmanuel KABRE - emmanuel.kabre,personal,153,Radio component,pico,5
-Emmanuel KABRE - emmanuel.kabre,personal,153,WowSolar Controller,pico,20
-Emmanuel  Okanya - Emmanuel.Okanya,personal,3821,Fan component,,2
-Emmanuel  Okanya - Emmanuel.Okanya,personal,3821,Oolu TV Screen 24,SHS+TV,4
+Emmanuel KABRE - emmanuel.kabre,personal,153,WowSolar Controller,pico,17
+Emmanuel  Okanya - Emmanuel.Okanya,personal,3821,Fan component,,1
+Emmanuel  Okanya - Emmanuel.Okanya,personal,3821,Oolu TV Screen 24,SHS+TV,3
 Emmanuel  Okanya - Emmanuel.Okanya,personal,3821,Oolu TV Screen 32,SHS+TV,4
 emmanuel osomo - akure01,personal,613,WowSolar Controller,pico,2
  Emmanuel Segun Oladele - owo14,personal,2067,Burn stove component,accessories,1
 Emperor Ogbonna - Oguta01,personal,2467,Fan component,,1
-Enock Diarra - fakolo01,personal,309,WowSolar Controller,pico,6
+Enock Diarra - fakolo01,personal,309,WowSolar Controller,pico,5
 Enock Diarra - fakolo01,personal,309,WowSolar Extension cable,pico,1
 Enock Diarra - fakolo01,personal,309,WowSolar Lamp 140lm,pico,4
 Enock Diarra - fakolo01,personal,309,WowSolar Panel 6W,pico,1
@@ -794,39 +825,52 @@ Enock Diarra - fakolo01,personal,309,WowSolar Wall mount,pico,1
 FALLOU FAYE - thiespoly21,personal,3542,Radio component,pico,1
 FALLOU FAYE - thiespoly21,personal,3542,SKH Controller,pico,2
 FALLOU FAYE - thiespoly21,personal,3542,SKH Lamp,pico,4
-FALLOU FAYE - thiespoly21,personal,3542,WowSolar Controller,pico,2
-FALLOU FAYE - thiespoly21,personal,3542,WowSolar Lamp 140lm,pico,2
-falowo oladapo - oladapo.falowo,personal,2210,Oolu TV Screen 24,SHS+TV,1
-falowo oladapo - oladapo.falowo,personal,2210,Portable light component,,12
+FALLOU FAYE - thiespoly21,personal,3542,WowSolar Controller,pico,8
+FALLOU FAYE - thiespoly21,personal,3542,WowSolar Extension cable,pico,1
+FALLOU FAYE - thiespoly21,personal,3542,WowSolar Lamp 140lm,pico,6
+FALLOU FAYE - thiespoly21,personal,3542,WowSolar Panel 6W,pico,1
+FALLOU FAYE - thiespoly21,personal,3542,WowSolar USB charger,pico,1
+FALLOU FAYE - thiespoly21,personal,3542,WowSolar Wall mount,pico,1
+falowo oladapo - oladapo.falowo,personal,2210,Portable light component,,11
 falowo oladapo - oladapo.falowo,personal,2210,WowSolar Controller,pico,7
 Fanto Traoré - fanto.traore,personal,2585,WowSolar Controller,pico,6
 Fasirima Sissoko  - kenieba01,personal,283,SKH Controller,pico,1
-Fatick,multi_manager,46,SKH Controller,pico,3032
-Fatick,multi_manager,46,WowSolar Controller,pico,313
+Fatick,multi_manager,1777,SKH Controller,pico,3036
+Fatick,multi_manager,1777,SKH Lamp,pico,2
+Fatick,multi_manager,1777,SKH PV Panel,pico,14
+Fatick,multi_manager,1777,WowSolar Batterie GM 80W,SHS+TV,32
+Fatick,multi_manager,1777,WowSolar Controller,pico,313
+Fatick,multi_manager,1777,WowSolar Lamp 140lm,pico,2
+Fatick,multi_manager,1777,WowSolar Lamp 400lm,pico,13
+Fatick,multi_manager,1777,WowSolar Panel 40W,SHS+TV,27
+Fatick,multi_manager,1777,WowSolar Panel 6W,pico,1
+Fatick,multi_manager,1777,WowSolar TV Screen 19 ,SHS+TV,93
+Fatick,multi_manager,1777,WowSolar TV Screen 22,SHS+TV,11
+Fatick,multi_manager,1777,WowSolar TV Screen 32,,1
 Fatogoma ZONOU - fatogoma,personal,3833,WowSolar Controller,pico,1
 Favour Nwanosike - isheagu01,personal,2226,WowSolar Controller,pico,1
 Favour Ogechi Anuma - afikposouth04,personal,3055,WowSolar Controller,pico,1
 Favour Okoh - ubulu03,personal,2037,WowSolar Controller,pico,1
 Félix SANOU 	 - sanou.felix,personal,2080,WowSolar Controller,pico,1
 FIDÈLE KIENOU - fidele.kienou,personal,3416,WowSolar Controller,pico,3
-Florantin KAMGANG FOKOU - florantin.kamgang,personal,3622,D100 Controller,pico,3
+Florantin KAMGANG FOKOU - florantin.kamgang,personal,3622,D100 Controller,pico,2
 Florantin KAMGANG FOKOU - florantin.kamgang,personal,3622,Oolu TV Screen 24,SHS+TV,2
 FODE DIALLO - kedougoupoly24,personal,3725,WowSolar Controller,pico,1
 Fola Emma Oluwadare - ewekoro02,personal,2293,WowSolar Controller,pico,1
 FREDERIC SAH - frederic.sah,personal,3479,D100 Controller,pico,3
 Frédéric SOME  - some.frederic,personal,2743,WowSolar Controller,pico,1
 Friday Ngozi - ubiaja28,personal,3254,WowSolar Controller,pico,1
+funmilayo kikelomo efuga - 1-ijebu-ode02,personal,2634,Portable light component,,1
 funmilayo kikelomo efuga - 1-ijebu-ode02,personal,2634,WowSolar Controller,pico,1
 GAEL DA - da.gael,personal,3212,Hairclipper component,accessories,1
 GAEL DA - da.gael,personal,3212,Radio component,pico,1
-Gaoussou Amadou MAHAMADOU - mahamadou.gaoussou,personal,1754,WowSolar Controller,pico,1
 Gaoussou Amadou MAHAMADOU - mahamadou.gaoussou,personal,1754,WowSolar Extension cable,pico,2
 GATIEN NAWALIBOU - gatien,personal,3178,Fan component,,1
 GATIEN NAWALIBOU - gatien,personal,3178,WowSolar Controller,pico,1
 gatti abdourahamani - gatti.abdourahamani,personal,2541,WowSolar Controller,pico,1
 Gerard Lamien - gerard.lamien,personal,1435,Fan component,,1
 Gerard Lamien - gerard.lamien,personal,1435,Radio component,pico,1
-Gerard Lamien - gerard.lamien,personal,1435,WowSolar Controller,pico,5
+Gerard Lamien - gerard.lamien,personal,1435,WowSolar Controller,pico,6
 Gerard Lamien - gerard.lamien,personal,1435,WowSolar Extension cable,pico,1
 Gerard Lamien - gerard.lamien,personal,1435,WowSolar Lamp 140lm,pico,4
 Gerard Lamien - gerard.lamien,personal,1435,WowSolar Panel 6W,pico,1
@@ -840,8 +884,9 @@ Godwin Boubai - sapele03,personal,2679,Hairclipper component,accessories,1
 Goodluck Otu - ebonyi03,personal,2365,WowSolar Controller,pico,1
 GRACE IYABO MOSES - ondo.grace,personal,3426,WowSolar Controller,pico,2
 Guediouma Sanogo - guediouma.sanogo,personal,449,WowSolar Controller,pico,1
+Guimba Cissé - simbi01,personal,3811,WowSolar Controller,pico,7
 Habibatou Dembele - habibatou.dembele,personal,2817,Fan component,,1
-Habibatou Dembele - habibatou.dembele,personal,2817,WowSolar Controller,pico,4
+Habibatou Dembele - habibatou.dembele,personal,2817,WowSolar Controller,pico,6
 Habibatou Dembele - habibatou.dembele,personal,2817,WowSolar Extension cable,pico,1
 Habibatou Dembele - habibatou.dembele,personal,2817,WowSolar Panel 6W,pico,1
 Habibatou Dembele - habibatou.dembele,personal,2817,WowSolar USB charger,pico,1
@@ -852,7 +897,7 @@ Hamadou TRAORE - traore.hamadou,personal,3720,LNB Head incl. support,SHS+TV,1
 Hamadou TRAORE - traore.hamadou,personal,3720,Satellite Cable 12m incl. connectors,SHS+TV,1
 Hamadou TRAORE - traore.hamadou,personal,3720,Satellite Dish incl. support,SHS+TV,1
 Hamadou TRAORE - traore.hamadou,personal,3720,WowSolar Batterie GM 80W,SHS+TV,2
-Hamadou TRAORE - traore.hamadou,personal,3720,WowSolar Controller,pico,12
+Hamadou TRAORE - traore.hamadou,personal,3720,WowSolar Controller,pico,9
 Hamadou TRAORE - traore.hamadou,personal,3720,WowSolar Extension cable,pico,2
 Hamadou TRAORE - traore.hamadou,personal,3720,WowSolar Lamp 140lm,pico,6
 Hamadou TRAORE - traore.hamadou,personal,3720,WowSolar Lamp 400lm,pico,4
@@ -868,14 +913,14 @@ HAMARO CISSE - tamba_sav20,personal,261,Hairclipper component,accessories,3
 HAMARO CISSE - tamba_sav20,personal,261,LNB Head incl. support,SHS+TV,1
 HAMARO CISSE - tamba_sav20,personal,261,Satellite Cable 12m incl. connectors,SHS+TV,1
 HAMARO CISSE - tamba_sav20,personal,261,Satellite Dish incl. support,SHS+TV,1
-HAMARO CISSE - tamba_sav20,personal,261,SKH Controller,pico,5
-HAMARO CISSE - tamba_sav20,personal,261,SKH Extension cable,pico,4
-HAMARO CISSE - tamba_sav20,personal,261,SKH Lamp,pico,12
-HAMARO CISSE - tamba_sav20,personal,261,SKH PV Panel,pico,4
-HAMARO CISSE - tamba_sav20,personal,261,SKH USB cable,pico,4
-HAMARO CISSE - tamba_sav20,personal,261,SKH Wall mount,pico,4
+HAMARO CISSE - tamba_sav20,personal,261,SKH Controller,pico,11
+HAMARO CISSE - tamba_sav20,personal,261,SKH Extension cable,pico,10
+HAMARO CISSE - tamba_sav20,personal,261,SKH Lamp,pico,30
+HAMARO CISSE - tamba_sav20,personal,261,SKH PV Panel,pico,10
+HAMARO CISSE - tamba_sav20,personal,261,SKH USB cable,pico,10
+HAMARO CISSE - tamba_sav20,personal,261,SKH Wall mount,pico,10
 HAMARO CISSE - tamba_sav20,personal,261,WowSolar Batterie GM 80W,SHS+TV,1
-HAMARO CISSE - tamba_sav20,personal,261,WowSolar Controller,pico,5
+HAMARO CISSE - tamba_sav20,personal,261,WowSolar Controller,pico,4
 HAMARO CISSE - tamba_sav20,personal,261,WowSolar Extension cable,pico,2
 HAMARO CISSE - tamba_sav20,personal,261,WowSolar Lamp 140lm,pico,8
 HAMARO CISSE - tamba_sav20,personal,261,WowSolar Lamp 400lm,pico,2
@@ -891,7 +936,7 @@ Hamaye Makanguile - hamaye.makanguile@oolusolar.com,personal,2848,SKH Lamp,pico,
 Hamaye Makanguile - hamaye.makanguile@oolusolar.com,personal,2848,SKH PV Panel,pico,1
 Hamaye Makanguile - hamaye.makanguile@oolusolar.com,personal,2848,SKH USB cable,pico,1
 Hamaye Makanguile - hamaye.makanguile@oolusolar.com,personal,2848,SKH Wall mount,pico,1
-Hamaye Makanguile - hamaye.makanguile@oolusolar.com,personal,2848,WowSolar Controller,pico,68
+Hamaye Makanguile - hamaye.makanguile@oolusolar.com,personal,2848,WowSolar Controller,pico,67
 Hamaye Makanguile - hamaye.makanguile@oolusolar.com,personal,2848,WowSolar Extension cable,pico,1
 Hamaye Makanguile - hamaye.makanguile@oolusolar.com,personal,2848,WowSolar Lamp 140lm,pico,4
 Hamaye Makanguile - hamaye.makanguile@oolusolar.com,personal,2848,WowSolar Panel 6W,pico,1
@@ -910,7 +955,7 @@ Hamza Chaibou - chaibou.hamza,personal,1945,LNB Head incl. support,SHS+TV,1
 Hamza Chaibou - chaibou.hamza,personal,1945,Satellite Cable 12m incl. connectors,SHS+TV,1
 Hamza Chaibou - chaibou.hamza,personal,1945,Satellite Dish incl. support,SHS+TV,1
 Hamza Chaibou - chaibou.hamza,personal,1945,WowSolar Batterie GM 80W,SHS+TV,1
-Hamza Chaibou - chaibou.hamza,personal,1945,WowSolar Controller,pico,2
+Hamza Chaibou - chaibou.hamza,personal,1945,WowSolar Controller,pico,1
 Hamza Chaibou - chaibou.hamza,personal,1945,WowSolar Extension cable,pico,2
 Hamza Chaibou - chaibou.hamza,personal,1945,WowSolar Lamp 140lm,pico,6
 Hamza Chaibou - chaibou.hamza,personal,1945,WowSolar Lamp 400lm,pico,4
@@ -927,26 +972,19 @@ Hamza Traoré - samine02,personal,3769,WowSolar Controller,pico,1
 Harouna Larabou - harouna.larabou,personal,3621,WowSolar Controller,pico,1
 Helen Onofuevure  - Sapele07,personal,3323,WowSolar Controller,pico,2
 Hinsa Idrissa - idrissa.hinsa,personal,2312,Fan component,,2
-Hinsa Idrissa - idrissa.hinsa,personal,2312,LNB Head incl. support,SHS+TV,1
-Hinsa Idrissa - idrissa.hinsa,personal,2312,Satellite Cable 12m incl. connectors,SHS+TV,1
-Hinsa Idrissa - idrissa.hinsa,personal,2312,Satellite Dish incl. support,SHS+TV,1
 Hinsa Idrissa - idrissa.hinsa,personal,2312,WowSolar Batterie GM 80W,SHS+TV,1
 Hinsa Idrissa - idrissa.hinsa,personal,2312,WowSolar Controller,pico,9
-Hinsa Idrissa - idrissa.hinsa,personal,2312,WowSolar Extension cable,pico,1
 Hinsa Idrissa - idrissa.hinsa,personal,2312,WowSolar Lamp 140lm,pico,2
 Hinsa Idrissa - idrissa.hinsa,personal,2312,WowSolar Lamp 400lm,pico,4
-Hinsa Idrissa - idrissa.hinsa,personal,2312,WowSolar Panel 40W,SHS+TV,1
-Hinsa Idrissa - idrissa.hinsa,personal,2312,WowSolar Remote control,,1
-Hinsa Idrissa - idrissa.hinsa,personal,2312,WowSolar TV Screen 19 ,SHS+TV,1
-Hinsa Idrissa - idrissa.hinsa,personal,2312,WowSolar USB charger,pico,2
-Hinsa Idrissa - idrissa.hinsa,personal,2312,WowSolar Wall mount,pico,1
+Hinsa Idrissa - idrissa.hinsa,personal,2312,WowSolar USB charger,pico,1
 Honore Ilboudo - honore.ilboudo,personal,1347,Radio component,pico,1
 Honore Ilboudo - honore.ilboudo,personal,1347,WowSolar Controller,pico,5
 IBOU CISSE - fatick19,personal,277,SKH Controller,pico,12
-IBRAHIMA BAILIBORE TENDENG - ibrahima.tendeng@oolusolar.com,personal,3591,SKH Controller,pico,24
+Ibraham DJOULDE - agent.ccial14,personal,3867,D100 Controller,pico,1
+IBRAHIMA BAILIBORE TENDENG - ibrahima.tendeng@oolusolar.com,personal,3591,SKH Controller,pico,20
 IBRAHIMA BAILIBORE TENDENG - ibrahima.tendeng@oolusolar.com,personal,3591,SKH Lamp,pico,3
 IBRAHIMA BAILIBORE TENDENG - ibrahima.tendeng@oolusolar.com,personal,3591,SKH PV Panel,pico,4
-IBRAHIMA BAILIBORE TENDENG - ibrahima.tendeng@oolusolar.com,personal,3591,WowSolar Controller,pico,6
+IBRAHIMA BAILIBORE TENDENG - ibrahima.tendeng@oolusolar.com,personal,3591,WowSolar Controller,pico,4
 IBRAHIMA BAILIBORE TENDENG - ibrahima.tendeng@oolusolar.com,personal,3591,WowSolar Extension cable,pico,4
 IBRAHIMA BAILIBORE TENDENG - ibrahima.tendeng@oolusolar.com,personal,3591,WowSolar Panel 6W,pico,1
 IBRAHIMA  DIEME - ziguinchorpoly06,personal,1930,Hairclipper component,accessories,1
@@ -956,7 +994,8 @@ IBRAHIMA  DIEME - ziguinchorpoly06,personal,1930,SKH Lamp,pico,3
 IBRAHIMA  DIEME - ziguinchorpoly06,personal,1930,SKH PV Panel,pico,1
 IBRAHIMA  DIEME - ziguinchorpoly06,personal,1930,SKH USB cable,pico,1
 IBRAHIMA  DIEME - ziguinchorpoly06,personal,1930,SKH Wall mount,pico,1
-IBRAHIMA  DIEME - ziguinchorpoly06,personal,1930,WowSolar Controller,pico,7
+IBRAHIMA  DIEME - ziguinchorpoly06,personal,1930,WowSolar Controller,pico,15
+IBRAHIMA  DIEME - ziguinchorpoly06,personal,1930,WowSolar Remote control,,1
 IBRAHIMA NDIAYE - kaffrinepoly07,personal,224,Fan component,,1
 IBRAHIMA NDIAYE - kaffrinepoly07,personal,224,Radio component,pico,1
 IBRAHIMA NDIAYE - kaffrinepoly07,personal,224,WowSolar Controller,pico,1
@@ -967,32 +1006,38 @@ IBRAHIMA NDIAYE - kaffrinepoly07,personal,224,WowSolar Panel 40W,SHS+TV,1
 IBRAHIMA NDIAYE - kaffrinepoly07,personal,224,WowSolar Remote control,,3
 IBRAHIMA NDIAYE - kaffrinepoly07,personal,224,WowSolar USB charger,pico,6
 IBRAHIMA NDIAYE - kaffrinepoly07,personal,224,WowSolar Wall mount,pico,3
-Ibrahima Samassekou - bamako10,personal,3370,WowSolar Controller,pico,6
+Ibrahima Samassekou - bamako10,personal,3370,WowSolar Controller,pico,5
+Ibrahima Samassekou - bamako10,personal,3370,WowSolar Panel 6W,pico,1
 IBRAHIMA  SENE - thiespoly08,personal,2250,WowSolar Controller,pico,1
-IBRAHIMA SORY BALDE - kedougoupoly19,personal,3494,Hairclipper component,accessories,2
 IBRAHIMA SORY BALDE - kedougoupoly19,personal,3494,WowSolar Controller,pico,1
 IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,Fan component,,2
-IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,LNB Head incl. support,SHS+TV,6
-IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,Satellite Cable 12m incl. connectors,SHS+TV,2
-IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,Satellite Dish incl. support,SHS+TV,7
+IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,LNB Head incl. support,SHS+TV,5
+IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,Satellite Cable 12m incl. connectors,SHS+TV,3
+IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,Satellite Dish incl. support,SHS+TV,6
 IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,SKH Controller,pico,1
 IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,SKH Extension cable,pico,1
 IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,SKH Lamp,pico,19
-IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,SKH PV Panel,pico,7
+IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,SKH PV Panel,pico,6
 IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,SKH USB cable,pico,5
 IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar Batterie GM 80W,SHS+TV,2
-IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar Controller,pico,3
-IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar Extension cable,pico,6
-IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar Lamp 140lm,pico,21
-IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar Lamp 400lm,pico,8
-IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar Panel 40W,SHS+TV,6
+IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar Controller,pico,13
+IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar Extension cable,pico,5
+IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar Lamp 140lm,pico,17
+IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar Lamp 400lm,pico,6
+IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar Panel 40W,SHS+TV,5
 IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar Panel 6W,pico,4
-IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar Remote control,,2
-IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar TV Screen 22,SHS+TV,1
-IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar USB charger,pico,6
-IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar Wall mount,pico,3
+IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar Remote control,,1
+IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar USB charger,pico,5
+IBRAHIMA THIONGANE - ibrahima.thiongane@oolusolar.com,personal,1843,WowSolar Wall mount,pico,2
 Ibrahim Camara - gouandiaka02,personal,430,WowSolar Controller,pico,2
 Ibrahim KONE - ibrahim.kone,personal,2624,WowSolar Controller,pico,1
+ibrahim magagi - ibrahim.magagi,personal,2142,WowSolar Controller,pico,1
+ibrahim magagi - ibrahim.magagi,personal,2142,WowSolar Extension cable,pico,1
+ibrahim magagi - ibrahim.magagi,personal,2142,WowSolar Lamp 140lm,pico,4
+ibrahim magagi - ibrahim.magagi,personal,2142,WowSolar Panel 6W,pico,1
+ibrahim magagi - ibrahim.magagi,personal,2142,WowSolar USB charger,pico,1
+ibrahim magagi - ibrahim.magagi,personal,2142,WowSolar Wall mount,pico,1
+Ibrahim MOUNCHIKPOU - agent.ccial13,personal,3866,D100 Controller,pico,1
 Ibrahim Zongo - zongo.ibrahim,personal,1513,WowSolar Controller,pico,2
 Ibrahim Zongo - zongo.ibrahim,personal,1513,WowSolar Extension cable,pico,1
 Ibrahim Zongo - zongo.ibrahim,personal,1513,WowSolar Lamp 140lm,pico,4
@@ -1005,7 +1050,7 @@ idrissa boubacar - idrissa.boubacar,personal,2534,WowSolar Lamp 140lm,pico,4
 idrissa boubacar - idrissa.boubacar,personal,2534,WowSolar Panel 6W,pico,1
 idrissa boubacar - idrissa.boubacar,personal,2534,WowSolar USB charger,pico,1
 idrissa boubacar - idrissa.boubacar,personal,2534,WowSolar Wall mount,pico,1
-Iduh Ezekiel - nsukwa02,personal,2024,Burn stove component,accessories,2
+Iduh Ezekiel - nsukwa02,personal,2024,Burn stove component,accessories,1
 Iduh Ezekiel - nsukwa02,personal,2024,WowSolar Batterie GM 80W,SHS+TV,1
 Iduh Ezekiel - nsukwa02,personal,2024,WowSolar Controller,pico,2
 Iduh Ezekiel - nsukwa02,personal,2024,WowSolar Extension cable,pico,1
@@ -1018,6 +1063,7 @@ Iduh Ezekiel - nsukwa02,personal,2024,WowSolar USB charger,pico,1
 Iduh Ezekiel - nsukwa02,personal,2024,WowSolar Wall mount,pico,1
 IFEOMA NWEKE - CHIOBA01,personal,2173,Portable light component,,2
 IFEOMA NWEKE - CHIOBA01,personal,2173,WowSolar Controller,pico,1
+Ihekuna Judith - isiuzo08,personal,2674,WowSolar Controller,pico,1
 IKEANGA JOY - EMOUHIA05,personal,2711,Fan component,,2
 Ilesanmi David Kupolusi - akoko05,personal,1885,Fan component,,1
 Ilesanmi David Kupolusi - akoko05,personal,1885,Oolu TV Screen 24,SHS+TV,2
@@ -1036,7 +1082,7 @@ Ismael SORY - sory.ismael,personal,2262,WowSolar Controller,pico,1
 ISMAILA  KA - kaffrine_sav02,personal,544,SKH Controller,pico,6
 ISMAILA  KA - kaffrine_sav02,personal,544,WowSolar Controller,pico,1
 ISMAILA SADIO - sedhioupoly13,personal,3572,Hairclipper component,accessories,1
-ISMAILA SAGNA - ziguinchorpoly17,personal,2957,WowSolar Controller,pico,4
+ISMAILA SAGNA - ziguinchorpoly17,personal,2957,WowSolar Controller,pico,5
 ISMAILA SAGNA - ziguinchorpoly17,personal,2957,WowSolar Extension cable,pico,2
 ISMAILA SAGNA - ziguinchorpoly17,personal,2957,WowSolar Lamp 140lm,pico,8
 ISMAILA SAGNA - ziguinchorpoly17,personal,2957,WowSolar Panel 6W,pico,2
@@ -1048,7 +1094,7 @@ Issa BORRO - borro.issa,personal,2384,LNB Head incl. support,SHS+TV,1
 Issa BORRO - borro.issa,personal,2384,Satellite Cable 12m incl. connectors,SHS+TV,1
 Issa BORRO - borro.issa,personal,2384,Satellite Dish incl. support,SHS+TV,1
 Issa BORRO - borro.issa,personal,2384,WowSolar Batterie GM 80W,SHS+TV,1
-Issa BORRO - borro.issa,personal,2384,WowSolar Controller,pico,17
+Issa BORRO - borro.issa,personal,2384,WowSolar Controller,pico,16
 Issa BORRO - borro.issa,personal,2384,WowSolar Extension cable,pico,3
 Issa BORRO - borro.issa,personal,2384,WowSolar Lamp 140lm,pico,12
 Issa BORRO - borro.issa,personal,2384,WowSolar Lamp 400lm,pico,2
@@ -1059,7 +1105,7 @@ Issa BORRO - borro.issa,personal,2384,WowSolar TV Screen 22,SHS+TV,1
 Issa BORRO - borro.issa,personal,2384,WowSolar USB charger,pico,3
 Issa BORRO - borro.issa,personal,2384,WowSolar Wall mount,pico,3
 ISSA DIAMANKA - koldapoly16,personal,2847,SKH Controller,pico,2
-ISSA  DIOP - agentcom144,personal,1668,WowSolar Controller,pico,5
+ISSA  DIOP - agentcom144,personal,1668,WowSolar Controller,pico,4
 ISSA  DIOP - agentcom144,personal,1668,WowSolar Lamp 140lm,pico,3
 Issaka Nikiema - komki01,personal,132,WowSolar Controller,pico,8
 Issaka Nikiema - komki01,personal,132,WowSolar Extension cable,pico,1
@@ -1072,7 +1118,7 @@ Issa Sanogo - issa.sanogo,personal,403,LNB Head incl. support,SHS+TV,1
 Issa Sanogo - issa.sanogo,personal,403,Satellite Cable 12m incl. connectors,SHS+TV,1
 Issa Sanogo - issa.sanogo,personal,403,Satellite Dish incl. support,SHS+TV,1
 Issa Sanogo - issa.sanogo,personal,403,WowSolar Batterie GM 80W,SHS+TV,1
-Issa Sanogo - issa.sanogo,personal,403,WowSolar Controller,pico,18
+Issa Sanogo - issa.sanogo,personal,403,WowSolar Controller,pico,17
 Issa Sanogo - issa.sanogo,personal,403,WowSolar Extension cable,pico,1
 Issa Sanogo - issa.sanogo,personal,403,WowSolar Lamp 140lm,pico,4
 Issa Sanogo - issa.sanogo,personal,403,WowSolar Lamp 400lm,pico,2
@@ -1100,13 +1146,13 @@ Issoumaila Sanogo - kignan01,personal,382,WowSolar TV Screen 19 ,SHS+TV,1
 Issoumaila Sanogo - kignan01,personal,382,WowSolar USB charger,pico,1
 Issoumaila Sanogo - kignan01,personal,382,WowSolar Wall mount,pico,1
 Itunu Iyabo Alli - akure26,personal,2274,Portable light component,,1
-JACQUES  SARR - fatickpoly05,personal,2321,SKH Controller,pico,12
-JACQUES  SARR - fatickpoly05,personal,2321,SKH Extension cable,pico,2
-JACQUES  SARR - fatickpoly05,personal,2321,SKH Lamp,pico,6
-JACQUES  SARR - fatickpoly05,personal,2321,SKH PV Panel,pico,2
-JACQUES  SARR - fatickpoly05,personal,2321,SKH USB cable,pico,2
-JACQUES  SARR - fatickpoly05,personal,2321,SKH Wall mount,pico,2
-JACQUES  SARR - fatickpoly05,personal,2321,WowSolar Controller,pico,8
+JACQUES  SARR - fatickpoly05,personal,2321,SKH Controller,pico,17
+JACQUES  SARR - fatickpoly05,personal,2321,SKH Extension cable,pico,4
+JACQUES  SARR - fatickpoly05,personal,2321,SKH Lamp,pico,12
+JACQUES  SARR - fatickpoly05,personal,2321,SKH PV Panel,pico,4
+JACQUES  SARR - fatickpoly05,personal,2321,SKH USB cable,pico,4
+JACQUES  SARR - fatickpoly05,personal,2321,SKH Wall mount,pico,4
+JACQUES  SARR - fatickpoly05,personal,2321,WowSolar Controller,pico,6
 JEAN BAPTISTE ATANOUBOU - atanoubou,personal,3186,WowSolar Controller,pico,1
 Jean Baptiste LOHARO - lohara.jean,personal,2497,WowSolar Controller,pico,3
 JEAN BATIENON - batienon.jean,personal,3026,Hairclipper component,accessories,1
@@ -1114,7 +1160,7 @@ JEAN BATIENON - batienon.jean,personal,3026,Radio component,pico,1
 JEAN BATIENON - batienon.jean,personal,3026,WowSolar Controller,pico,5
 Jean Diarra - ouolodo01,personal,301,SKH Controller,pico,1
 Jean Diarra - ouolodo01,personal,301,WowSolar Controller,pico,2
-Jean Kone - benena01,personal,395,Fan component,,2
+Jean Kone - benena01,personal,395,Fan component,,1
 Jean Kone - benena01,personal,395,WowSolar Batterie GM 80W,SHS+TV,1
 Jean Kone - benena01,personal,395,WowSolar Controller,pico,8
 Jean Paul Kanté - jeanpaul.kanté,personal,422,Fan component,,3
@@ -1124,16 +1170,16 @@ Jean Paul Kanté - jeanpaul.kanté,personal,422,SKH Lamp,pico,9
 Jean Paul Kanté - jeanpaul.kanté,personal,422,SKH PV Panel,pico,3
 Jean Paul Kanté - jeanpaul.kanté,personal,422,SKH USB cable,pico,3
 Jean Paul Kanté - jeanpaul.kanté,personal,422,SKH Wall mount,pico,3
-Jean Paul Kanté - jeanpaul.kanté,personal,422,WowSolar Controller,pico,27
+Jean Paul Kanté - jeanpaul.kanté,personal,422,WowSolar Controller,pico,25
 Jean Paul Kanté - jeanpaul.kanté,personal,422,WowSolar Extension cable,pico,1
 Jean Paul Kanté - jeanpaul.kanté,personal,422,WowSolar Lamp 140lm,pico,4
 Jean Paul Kanté - jeanpaul.kanté,personal,422,WowSolar Panel 6W,pico,1
 Jean Paul Kanté - jeanpaul.kanté,personal,422,WowSolar USB charger,pico,1
 Jean Paul Kanté - jeanpaul.kanté,personal,422,WowSolar Wall mount,pico,1
-JEAN RAOUL NDOUMIN - raoul.ndoumin,personal,3465,D100 Controller,pico,3
+JEAN RAOUL NDOUMIN - raoul.ndoumin,personal,3465,D100 Controller,pico,2
 Jean SAWADOGO - sawadogo.jean,personal,2066,Fan component,,2
 Jean SAWADOGO - sawadogo.jean,personal,2066,Radio component,pico,1
-Jean SAWADOGO - sawadogo.jean,personal,2066,WowSolar Controller,pico,12
+Jean SAWADOGO - sawadogo.jean,personal,2066,WowSolar Controller,pico,11
 Jean SAWADOGO - sawadogo.jean,personal,2066,WowSolar Extension cable,pico,1
 Jean SAWADOGO - sawadogo.jean,personal,2066,WowSolar Lamp 140lm,pico,4
 Jean SAWADOGO - sawadogo.jean,personal,2066,WowSolar Panel 6W,pico,1
@@ -1150,6 +1196,7 @@ Jean TUINA - tuina.jean,personal,3028,WowSolar USB charger,pico,1
 Jean TUINA - tuina.jean,personal,3028,WowSolar Wall mount,pico,1
 jecenta otokpa - area1,personal,1870,WowSolar Controller,pico,1
 jennifer okolie - alimosho02,personal,604,WowSolar Controller,pico,1
+JEROME AVERIPOABOU - averipoabou,personal,3177,WowSolar Controller,pico,1
 JIBRIL NASIR - BUGUMA01,personal,2643,Fan component,,1
 Johnbosco chinedu Okoro - ebonyi06,personal,3338,Fan component,,2
 Johnbosco chinedu Okoro - ebonyi06,personal,3338,Oolu TV Screen 24,SHS+TV,1
@@ -1177,6 +1224,7 @@ Josiah Onu Moses - Ankpa003,personal,2589,WowSolar Controller,pico,2
 Josué Sawadogo - josue.toeghin,personal,164,WowSolar Controller,pico,1
 Juliet Gbakaan - juliet.gbakaan,personal,3581,Burn stove component,accessories,1
 Juliet Gbakaan - juliet.gbakaan,personal,3581,Fan component,,1
+Juliet Gbakaan - juliet.gbakaan,personal,3581,Oolu TV Screen 32,SHS+TV,1
 Juliet Gbakaan - juliet.gbakaan,personal,3581,Portable light component,,10
 Juliet Gbakaan - juliet.gbakaan,personal,3581,WowSolar Controller,pico,7
 julius adesina - akure07,personal,1341,Fan component,,1
@@ -1184,12 +1232,20 @@ julius adesina - akure07,personal,1341,Hairclipper component,accessories,1
 Justice nwankwo - Oyigbo01,personal,3427,Fan component,,2
 Justice nwankwo - Oyigbo01,personal,3427,WowSolar Controller,pico,1
 Juwon Isreal Gungbemi  - igbokoda07,personal,1911,WowSolar Controller,pico,1
-KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,WowSolar Controller,pico,5
-KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,WowSolar Extension cable,pico,1
-KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,WowSolar Lamp 140lm,pico,4
+KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,LNB Head incl. support,SHS+TV,1
+KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,Satellite Cable 12m incl. connectors,SHS+TV,1
+KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,Satellite Dish incl. support,SHS+TV,1
+KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,WowSolar Batterie GM 80W,SHS+TV,1
+KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,WowSolar Controller,pico,6
+KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,WowSolar Extension cable,pico,2
+KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,WowSolar Lamp 140lm,pico,8
+KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,WowSolar Lamp 400lm,pico,2
+KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,WowSolar Panel 40W,SHS+TV,1
 KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,WowSolar Panel 6W,pico,1
-KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,WowSolar USB charger,pico,1
-KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,WowSolar Wall mount,pico,1
+KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,WowSolar Remote control,,1
+KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,WowSolar TV Screen 22,SHS+TV,1
+KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,WowSolar USB charger,pico,2
+KADIALY MORO DANGNOKHO - kedougoupoly15,personal,2862,WowSolar Wall mount,pico,2
 Kadidia Maiga - bamako11,personal,3499,WowSolar Controller,pico,1
 Kaly Diallo - kaly.diallo,personal,281,Fan component,,1
 Kaly Diallo - kaly.diallo,personal,281,LNB Head incl. support,SHS+TV,2
@@ -1197,7 +1253,7 @@ Kaly Diallo - kaly.diallo,personal,281,Satellite Cable 12m incl. connectors,SHS+
 Kaly Diallo - kaly.diallo,personal,281,Satellite Dish incl. support,SHS+TV,2
 Kaly Diallo - kaly.diallo,personal,281,SKH Controller,pico,7
 Kaly Diallo - kaly.diallo,personal,281,WowSolar Batterie GM 80W,SHS+TV,2
-Kaly Diallo - kaly.diallo,personal,281,WowSolar Controller,pico,37
+Kaly Diallo - kaly.diallo,personal,281,WowSolar Controller,pico,36
 Kaly Diallo - kaly.diallo,personal,281,WowSolar Extension cable,pico,2
 Kaly Diallo - kaly.diallo,personal,281,WowSolar Lamp 140lm,pico,4
 Kaly Diallo - kaly.diallo,personal,281,WowSolar Lamp 400lm,pico,8
@@ -1208,26 +1264,26 @@ Kaly Diallo - kaly.diallo,personal,281,WowSolar TV Screen 32,,1
 Kaly Diallo - kaly.diallo,personal,281,WowSolar USB charger,pico,2
 Kaly Diallo - kaly.diallo,personal,281,WowSolar Wall mount,pico,2
 Kaolack,multi_manager,65,Fan component,,1
-Kaolack,multi_manager,65,LNB Head incl. support,SHS+TV,10
+Kaolack,multi_manager,65,LNB Head incl. support,SHS+TV,3
 Kaolack,multi_manager,65,Radio component,pico,1
 Kaolack,multi_manager,65,Satellite Cable 12m incl. connectors,SHS+TV,2
 Kaolack,multi_manager,65,Satellite Dish incl. support,SHS+TV,14
-Kaolack,multi_manager,65,SKH Controller,pico,1015
+Kaolack,multi_manager,65,SKH Controller,pico,1022
 Kaolack,multi_manager,65,SKH Extension cable,pico,141
-Kaolack,multi_manager,65,SKH Lamp,pico,467
-Kaolack,multi_manager,65,SKH PV Panel,pico,616
+Kaolack,multi_manager,65,SKH Lamp,pico,482
+Kaolack,multi_manager,65,SKH PV Panel,pico,621
 Kaolack,multi_manager,65,SKH USB cable,pico,92
 Kaolack,multi_manager,65,SKH Wall mount,pico,189
-Kaolack,multi_manager,65,WowSolar Batterie GM 80W,SHS+TV,29
-Kaolack,multi_manager,65,WowSolar Controller,pico,348
+Kaolack,multi_manager,65,WowSolar Batterie GM 80W,SHS+TV,14
+Kaolack,multi_manager,65,WowSolar Controller,pico,338
 Kaolack,multi_manager,65,WowSolar Extension cable,pico,16
-Kaolack,multi_manager,65,WowSolar Lamp 140lm,pico,864
+Kaolack,multi_manager,65,WowSolar Lamp 140lm,pico,884
 Kaolack,multi_manager,65,WowSolar Lamp 400lm,pico,62
-Kaolack,multi_manager,65,WowSolar Panel 40W,SHS+TV,67
-Kaolack,multi_manager,65,WowSolar Panel 6W,pico,102
+Kaolack,multi_manager,65,WowSolar Panel 40W,SHS+TV,69
+Kaolack,multi_manager,65,WowSolar Panel 6W,pico,105
 Kaolack,multi_manager,65,WowSolar Remote control,,13
-Kaolack,multi_manager,65,WowSolar TV Screen 19 ,SHS+TV,10
-Kaolack,multi_manager,65,WowSolar TV Screen 22,SHS+TV,12
+Kaolack,multi_manager,65,WowSolar TV Screen 19 ,SHS+TV,14
+Kaolack,multi_manager,65,WowSolar TV Screen 22,SHS+TV,14
 Kaolack,multi_manager,65,WowSolar TV Screen 32,,4
 Kaolack,multi_manager,65,WowSolar USB charger,pico,182
 Kaolack,multi_manager,65,WowSolar Wall mount,pico,219
@@ -1236,19 +1292,18 @@ Karamoko Doumbia - bougoula03,personal,495,WowSolar Controller,pico,5
 Karim_Bareouli Diarra - segou07,personal,565,WowSolar Controller,pico,2
 Karim Fabé - karim.fabe,personal,2815,Fan component,,1
 Karim Fabé - karim.fabe,personal,2815,SKH Controller,pico,1
-Karim Fabé - karim.fabe,personal,2815,WowSolar Controller,pico,10
+Karim Fabé - karim.fabe,personal,2815,WowSolar Controller,pico,9
 Karimou Traoré - traore.karimou,personal,2757,Fan component,,14
 Karimou Traoré - traore.karimou,personal,2757,Radio component,pico,1
 Karimou Traoré - traore.karimou,personal,2757,WowSolar Batterie GM 80W,SHS+TV,1
-Karimou Traoré - traore.karimou,personal,2757,WowSolar Controller,pico,63
+Karimou Traoré - traore.karimou,personal,2757,WowSolar Controller,pico,61
 Karimou Traoré - traore.karimou,personal,2757,WowSolar Lamp 140lm,pico,12
 Karimou Traoré - traore.karimou,personal,2757,WowSolar Panel 6W,pico,2
-Karimou Traoré - traore.karimou,personal,2757,WowSolar TV Screen 19 ,SHS+TV,1
 Karimou Traoré - traore.karimou,personal,2757,WowSolar Wall mount,pico,3
 Kassim Konta - kalasiguida02,personal,558,WowSolar Controller,pico,1
 Kassim Tounkara - kassim.tounkara,personal,381,Fan component,,3
 Kassim Tounkara - kassim.tounkara,personal,381,SKH Controller,pico,1
-Kassim Tounkara - kassim.tounkara,personal,381,WowSolar Controller,pico,13
+Kassim Tounkara - kassim.tounkara,personal,381,WowSolar Controller,pico,9
 Kassim Tounkara - kassim.tounkara,personal,381,WowSolar Extension cable,pico,2
 Kassim Tounkara - kassim.tounkara,personal,381,WowSolar Lamp 140lm,pico,8
 Kassim Tounkara - kassim.tounkara,personal,381,WowSolar Panel 6W,pico,2
@@ -1256,7 +1311,7 @@ Kassim Tounkara - kassim.tounkara,personal,381,WowSolar TV Screen 19 ,SHS+TV,1
 Kassim Tounkara - kassim.tounkara,personal,381,WowSolar USB charger,pico,2
 Kassim Tounkara - kassim.tounkara,personal,381,WowSolar Wall mount,pico,2
 Kassoum ILBOUDO - kassoum.ilboudo,personal,3730,Fan component,,2
-Kassoum ILBOUDO - kassoum.ilboudo,personal,3730,WowSolar Controller,pico,16
+Kassoum ILBOUDO - kassoum.ilboudo,personal,3730,WowSolar Controller,pico,14
 Kassoum OUEDRAOGO - ouedraogo.kassoum,personal,3749,WowSolar Controller,pico,4
 Kassoum ZIDA - zida.kassoum,personal,2572,WowSolar Controller,pico,1
 Kebafing Keita - linguekoto01,personal,3743,WowSolar Controller,pico,4
@@ -1264,19 +1319,24 @@ Kehinde Ibiteye - akoko03,personal,1729,Burn stove component,accessories,1
 Kehinde Ibiteye - akoko03,personal,1729,Fan component,,1
 Kehinde Ibiteye - akoko03,personal,1729,WowSolar Controller,pico,2
 kenneth Onyedika - alimosho07,personal,1365,WowSolar Controller,pico,1
+KERNUM TERHEMEN - KER555,personal,3142,Portable light component,,6
+KHADIM NIANG - kaffrinepoly19,personal,3799,SKH Controller,pico,4
+KHADIM NIANG - kaffrinepoly19,personal,3799,WowSolar Controller,pico,2
+KHADIM SECK - khadim.seck,personal,3512,WowSolar Controller,pico,1
 KHADY DIATTA - khady.diatta@oolusolar.com,personal,3653,Fan component,,1
 KHADY DIATTA - khady.diatta@oolusolar.com,personal,3653,Radio component,pico,1
 KHADY DIATTA - khady.diatta@oolusolar.com,personal,3653,WowSolar Controller,pico,1
 KHASSIM  DIOP - khassim.diop@oolusolar.com,personal,60,SKH Controller,pico,2
 KHASSIM  DIOP - khassim.diop@oolusolar.com,personal,60,SKH Lamp,pico,4
-KHASSIM  DIOP - khassim.diop@oolusolar.com,personal,60,WowSolar Controller,pico,6
+KHASSIM  DIOP - khassim.diop@oolusolar.com,personal,60,WowSolar Controller,pico,18
 KHASSIM  DIOP - khassim.diop@oolusolar.com,personal,60,WowSolar Lamp 140lm,pico,2
 KHASSIM  DIOP - khassim.diop@oolusolar.com,personal,60,WowSolar Lamp 400lm,pico,1
 KHASSIM  DIOP - khassim.diop@oolusolar.com,personal,60,WowSolar Panel 6W,pico,2
-Kilamu Agent Ccial  - agent.ccial7,personal,3838,D100 Controller,pico,1
+Kilamu Agent Ccial  - agent.ccial7,personal,3838,D100 Controller,pico,2
+Koita Daouda - daouda.koita@oolusolar.com,personal,3490,Fan component,,4
 Koita Daouda - daouda.koita@oolusolar.com,personal,3490,SKH Controller,pico,2
 Koita Daouda - daouda.koita@oolusolar.com,personal,3490,WowSolar Batterie GM 80W,SHS+TV,1
-Koita Daouda - daouda.koita@oolusolar.com,personal,3490,WowSolar Controller,pico,28
+Koita Daouda - daouda.koita@oolusolar.com,personal,3490,WowSolar Controller,pico,31
 Koita Daouda - daouda.koita@oolusolar.com,personal,3490,WowSolar Lamp 140lm,pico,3
 Koita Daouda - daouda.koita@oolusolar.com,personal,3490,WowSolar Panel 6W,pico,1
 Koita Daouda - daouda.koita@oolusolar.com,personal,3490,WowSolar Wall mount,pico,1
@@ -1285,18 +1345,18 @@ Koulzé Roger SESSOUMA - sessouma.roger,personal,2447,WowSolar Controller,pico,2
 KOUMBOLO NOUFE - noufe.koumbolo,personal,3114,WowSolar Controller,pico,1
 K. Sylvain OUEDRAOGO - k.sylvain,personal,3596,WowSolar Controller,pico,1
 LABO BAMAKO,multi_manager,1472,Fan component,,1
-LABO BAMAKO,multi_manager,1472,SKH Controller,pico,39
+LABO BAMAKO,multi_manager,1472,SKH Controller,pico,40
 LABO BAMAKO,multi_manager,1472,SKH Extension cable,pico,1
 LABO BAMAKO,multi_manager,1472,SKH Lamp,pico,3
 LABO BAMAKO,multi_manager,1472,SKH PV Panel,pico,1
 LABO BAMAKO,multi_manager,1472,SKH USB cable,pico,1
 LABO BAMAKO,multi_manager,1472,SKH Wall mount,pico,1
-LABO BAMAKO,multi_manager,1472,WowSolar Controller,pico,269
+LABO BAMAKO,multi_manager,1472,WowSolar Controller,pico,270
 LABO BAMAKO,multi_manager,1472,WowSolar Extension cable,pico,8
-LABO BAMAKO,multi_manager,1472,WowSolar Lamp 140lm,pico,38
-LABO BAMAKO,multi_manager,1472,WowSolar Panel 6W,pico,10
-LABO BAMAKO,multi_manager,1472,WowSolar USB charger,pico,4
-LABO BAMAKO,multi_manager,1472,WowSolar Wall mount,pico,8
+LABO BAMAKO,multi_manager,1472,WowSolar Lamp 140lm,pico,42
+LABO BAMAKO,multi_manager,1472,WowSolar Panel 6W,pico,11
+LABO BAMAKO,multi_manager,1472,WowSolar USB charger,pico,5
+LABO BAMAKO,multi_manager,1472,WowSolar Wall mount,pico,9
 LABO DAKAR,multi_manager,2745,D100 Controller,pico,1
 LABO DAKAR,multi_manager,2745,Oolu TV Screen 24,SHS+TV,2
 LABO DAKAR,multi_manager,2745,PG TEST,SHS+TV,4
@@ -1307,12 +1367,12 @@ Labodoube Boromo  GNOUMOU - gnoumou.labodoube,personal,345,WowSolar Controller,p
 LABO KAOLACK,multi_manager,109,Fan component,,4
 LABO KAOLACK,multi_manager,109,Radio component,pico,1
 LABO KAOLACK,multi_manager,109,WowSolar Batterie GM 80W,SHS+TV,5
-LABO KAOLACK,multi_manager,109,WowSolar Controller,pico,41
-LABO KAOLACK,multi_manager,109,WowSolar TV Screen 19 ,SHS+TV,8
+LABO KAOLACK,multi_manager,109,WowSolar Controller,pico,48
+LABO KAOLACK,multi_manager,109,WowSolar TV Screen 19 ,SHS+TV,7
 LABO KAOLACK,multi_manager,109,WowSolar TV Screen 22,SHS+TV,2
 LABO KAOLACK,multi_manager,109,WowSolar TV Screen 32,,1
 Lacina Oura - lacina.oura,personal,431,Fan component,,3
-Lacina Oura - lacina.oura,personal,431,WowSolar Controller,pico,17
+Lacina Oura - lacina.oura,personal,431,WowSolar Controller,pico,14
 Lacine Diakite - lacine.diakite,personal,300,SKH Controller,pico,12
 Lacine Diakite - lacine.diakite,personal,300,SKH Extension cable,pico,3
 Lacine Diakite - lacine.diakite,personal,300,SKH Lamp,pico,9
@@ -1321,14 +1381,14 @@ Lacine Diakite - lacine.diakite,personal,300,SKH USB cable,pico,3
 Lacine Diakite - lacine.diakite,personal,300,SKH Wall mount,pico,3
 Lacine Diakite - lacine.diakite,personal,300,WowSolar Controller,pico,20
 Lagos,multi_manager,121,Adapter Fan,accessories,1
-Lagos,multi_manager,121,Fan component,,182
-Lagos,multi_manager,121,Oolu TV Screen 24,SHS+TV,125
-Lagos,multi_manager,121,Oolu TV Screen 32,SHS+TV,52
+Lagos,multi_manager,121,Fan component,,276
+Lagos,multi_manager,121,Oolu TV Screen 24,SHS+TV,124
+Lagos,multi_manager,121,Oolu TV Screen 32,SHS+TV,42
 Lagos,multi_manager,121,Panel Fan ,,1
 Lagos,multi_manager,121,Portable light component,,503
 Lagos,multi_manager,121,Powerhub 1280 component,big SHS,73
 Lagos,multi_manager,121,Radio component,pico,12
-Lagos,multi_manager,121,WowSolar Controller,pico,1127
+Lagos,multi_manager,121,WowSolar Controller,pico,1126
 Lagos,multi_manager,121,WowSolar Extension cable,pico,12
 Lagos,multi_manager,121,WowSolar Lamp 140lm,pico,36
 Lagos,multi_manager,121,WowSolar Lamp 400lm,pico,12
@@ -1353,11 +1413,11 @@ LAMA KONTE - tambapoly38,personal,3840,WowSolar Panel 6W,pico,2
 LAMA KONTE - tambapoly38,personal,3840,WowSolar USB charger,pico,2
 LAMA KONTE - tambapoly38,personal,3840,WowSolar Wall mount,pico,2
 Lambert Coulibaly - coulibaly.lambert,personal,3772,WowSolar Controller,pico,1
-LAMINE SADIO - sedhioupoly10,personal,3565,WowSolar Controller,pico,2
+LAMINE SADIO - sedhioupoly10,personal,3565,WowSolar Controller,pico,5
 LANDING NDIAYE - ziguinchorpoly19,personal,3559,WowSolar Controller,pico,1
 Lassine Kansaye - lassine.kansaye,personal,323,Fan component,,1
 Laurent BELO - belo.laurent,personal,2922,Fan component,,3
-Laurent BELO - belo.laurent,personal,2922,WowSolar Controller,pico,8
+Laurent BELO - belo.laurent,personal,2922,WowSolar Controller,pico,7
 Laurent BELO - belo.laurent,personal,2922,WowSolar Extension cable,pico,2
 Laurent BELO - belo.laurent,personal,2922,WowSolar Lamp 140lm,pico,8
 Laurent BELO - belo.laurent,personal,2922,WowSolar Panel 6W,pico,2
@@ -1366,7 +1426,9 @@ Laurent BELO - belo.laurent,personal,2922,WowSolar Wall mount,pico,2
 Laurent Ouedraogo - ouedraogo.laurent,personal,1392,WowSolar Controller,pico,1
 Lazare KOHOUN - kohoun,personal,2828,Hairclipper component,accessories,1
 Lazare KOHOUN - kohoun,personal,2828,WowSolar Controller,pico,3
-Leonel Igor NDITI - Leonel.nditi,personal,3463,D100 Controller,pico,4
+Leonel Igor NDITI - Leonel.nditi,personal,3463,D100 Controller,pico,1
+Leonel Igor NDITI - Leonel.nditi,personal,3463,Oolu TV Screen 24,SHS+TV,1
+Leonel Igor NDITI - Leonel.nditi,personal,3463,Oolu TV Screen 32,SHS+TV,1
 Light Emuka - Abia01,personal,1689,Fan component,,3
 Light Emuka - Abia01,personal,1689,Portable light component,,2
 Light Emuka - Abia01,personal,1689,Radio component,pico,1
@@ -1402,7 +1464,7 @@ Mahamadou Konaté - kita03,personal,3508,SKH Lamp,pico,9
 Mahamadou Konaté - kita03,personal,3508,SKH PV Panel,pico,3
 Mahamadou Konaté - kita03,personal,3508,SKH USB cable,pico,3
 Mahamadou Konaté - kita03,personal,3508,SKH Wall mount,pico,3
-Mahamadou Konaté - kita03,personal,3508,WowSolar Controller,pico,8
+Mahamadou Konaté - kita03,personal,3508,WowSolar Controller,pico,12
 Mahamadou Konaté - kita03,personal,3508,WowSolar Extension cable,pico,2
 Mahamadou Konaté - kita03,personal,3508,WowSolar Lamp 140lm,pico,8
 Mahamadou Konaté - kita03,personal,3508,WowSolar Panel 6W,pico,2
@@ -1429,9 +1491,6 @@ MAKHAN CISSOKHO - kedougoupoly25,personal,3805,WowSolar Controller,pico,2
 Mamadou CISSE - cisse.mamadou,personal,3675,WowSolar Controller,pico,2
 MAMADOU  DEME - agentcom96,personal,535,Fan component,,2
 MAMADOU  DEME - agentcom96,personal,535,WowSolar Controller,pico,2
-MAMADOU DIALLO agentcom122 - agentcom122,personal,240,Fan component,,1
-MAMADOU DIALLO agentcom122 - agentcom122,personal,240,SKH Controller,pico,2
-MAMADOU DIALLO agentcom122 - agentcom122,personal,240,WowSolar Controller,pico,4
 MAMADOU  DIALLO tambapoly24 - tambapoly24,personal,3107,SKH Controller,pico,1
 MAMADOU  DIALLO tambapoly24 - tambapoly24,personal,3107,WowSolar Controller,pico,1
 Mamadou Diarra - guihoyo01,personal,303,WowSolar Controller,pico,2
@@ -1446,19 +1505,20 @@ Mamadou Diarra - kolondieba04,personal,3213,WowSolar Wall mount,pico,3
 Mamadou Fomba - bougouni01,personal,469,Hairclipper component,accessories,1
 Mamadou Fomba - bougouni01,personal,469,SKH Controller,pico,1
 Mamadou Fomba - bougouni01,personal,469,WowSolar Controller,pico,1
-Mamadou Keita - mamadou.keita,personal,200,Fan component,,3
+Mamadou Keita - mamadou.keita,personal,200,Fan component,,5
 Mamadou Keita - mamadou.keita,personal,200,SKH Controller,pico,6
 Mamadou Keita - mamadou.keita,personal,200,SKH Extension cable,pico,4
 Mamadou Keita - mamadou.keita,personal,200,SKH Lamp,pico,12
 Mamadou Keita - mamadou.keita,personal,200,SKH PV Panel,pico,4
 Mamadou Keita - mamadou.keita,personal,200,SKH USB cable,pico,4
 Mamadou Keita - mamadou.keita,personal,200,SKH Wall mount,pico,4
-Mamadou Keita - mamadou.keita,personal,200,WowSolar Controller,pico,8
+Mamadou Keita - mamadou.keita,personal,200,WowSolar Controller,pico,12
 Mamadou Keita - mamadou.keita,personal,200,WowSolar Extension cable,pico,1
 Mamadou Keita - mamadou.keita,personal,200,WowSolar Lamp 140lm,pico,4
 Mamadou Keita - mamadou.keita,personal,200,WowSolar Panel 6W,pico,1
 Mamadou Keita - mamadou.keita,personal,200,WowSolar USB charger,pico,2
 Mamadou Keita - mamadou.keita,personal,200,WowSolar Wall mount,pico,1
+Mamadou SANOU - sanou.mamadou,personal,3854,WowSolar Controller,pico,2
 MAMADOU SIDY SEYDI - sedhioupoly14,personal,3707,SKH Controller,pico,2
 MAMADOU SIDY SEYDI - sedhioupoly14,personal,3707,WowSolar Controller,pico,1
 MAMADOU SIDY SEYDI - sedhioupoly14,personal,3707,WowSolar Extension cable,pico,2
@@ -1471,6 +1531,9 @@ Mamadou Togola - domba01,personal,493,Fan component,,2
 Mamadou Togola - domba01,personal,493,WowSolar Controller,pico,3
 Mama Sow - dianguirde02,personal,1438,WowSolar Controller,pico,7
 Mambourou Sako - sako.mambourou,personal,461,WowSolar Controller,pico,1
+MAMOUDOU DIALLO - agentcom122,personal,240,Fan component,,1
+MAMOUDOU DIALLO - agentcom122,personal,240,SKH Controller,pico,2
+MAMOUDOU DIALLO - agentcom122,personal,240,WowSolar Controller,pico,3
 Mamoudou Soro - soro.mamoudou,personal,3735,WowSolar Controller,pico,1
 Mamoutou Diamoutene - gongasso001,personal,1501,WowSolar Controller,pico,4
 MANDIAYE  DIENG - diourbel24,personal,286,SKH Controller,pico,4
@@ -1479,7 +1542,8 @@ MANDIAYE  DIENG - diourbel24,personal,286,SKH PV Panel,pico,3
 MANDIAYE  DIENG - diourbel24,personal,286,WowSolar Controller,pico,1
 MANDIAYE  DIENG - diourbel24,personal,286,WowSolar Lamp 140lm,pico,3
 MANDIAYE  DIENG - diourbel24,personal,286,WowSolar Panel 6W,pico,1
-Marabata Siby - diewoura01,personal,2031,WowSolar Controller,pico,5
+Marabata Siby - diewoura01,personal,2031,Fan component,,1
+Marabata Siby - diewoura01,personal,2031,WowSolar Controller,pico,7
 Marabata Siby - diewoura01,personal,2031,WowSolar Extension cable,pico,1
 Marabata Siby - diewoura01,personal,2031,WowSolar Lamp 140lm,pico,4
 Marabata Siby - diewoura01,personal,2031,WowSolar Panel 6W,pico,1
@@ -1494,20 +1558,25 @@ Marck Kologo - Kologo.marck,personal,567,WowSolar Wall mount,pico,1
 MARITEW CHIMER GUEYE - ziguinchorpoly15,personal,2885,Fan component,,3
 MARITEW CHIMER GUEYE - ziguinchorpoly15,personal,2885,WowSolar Controller,pico,10
 MASSAER  WADE - agentcom108,personal,247,SKH Controller,pico,2
-MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,SKH Controller,pico,5
-MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,SKH Extension cable,pico,5
-MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,SKH Lamp,pico,15
-MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,SKH PV Panel,pico,5
-MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,SKH USB cable,pico,5
-MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,SKH Wall mount,pico,5
+MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,SKH Controller,pico,3
+MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,SKH Extension cable,pico,3
+MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,SKH Lamp,pico,9
+MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,SKH PV Panel,pico,4
+MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,SKH USB cable,pico,3
+MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,SKH Wall mount,pico,3
 MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,WowSolar Batterie GM 80W,SHS+TV,1
 MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,WowSolar Controller,pico,2
+MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,WowSolar Extension cable,pico,1
+MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,WowSolar Lamp 140lm,pico,4
+MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,WowSolar Panel 6W,pico,1
+MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,WowSolar USB charger,pico,1
+MATHIEU PREIRA  RODRIGUEZ - koldapoly02,personal,229,WowSolar Wall mount,pico,1
 MATTHEW EYO - PHCWAREHOUSE,personal,3388,Fan component,,1
 Matthew Steven - Uromi07,personal,1351,WowSolar Controller,pico,2
 Matthieu Diarra - komi-komo01,personal,3645,Fan component,,1
 Matthieu Diarra - komi-komo01,personal,3645,WowSolar Controller,pico,4
 MEISSA  SARR - thiespoly07,personal,2115,SKH Lamp,pico,2
-MEISSA  SARR - thiespoly07,personal,2115,WowSolar Controller,pico,2
+MEISSA  SARR - thiespoly07,personal,2115,WowSolar Controller,pico,6
 MEISSA  SARR - thiespoly07,personal,2115,WowSolar Lamp 140lm,pico,3
 Michael Omoike - edo03,personal,578,WowSolar Controller,pico,3
 Michael Sonubi - michael.sonubi,personal,299,WowSolar Controller,pico,2
@@ -1526,7 +1595,7 @@ Modibo Dembele - modibo.dembele,personal,361,SKH Lamp,pico,3
 Modibo Dembele - modibo.dembele,personal,361,SKH PV Panel,pico,1
 Modibo Dembele - modibo.dembele,personal,361,SKH USB cable,pico,1
 Modibo Dembele - modibo.dembele,personal,361,SKH Wall mount,pico,1
-Modibo Dembele - modibo.dembele,personal,361,WowSolar Controller,pico,19
+Modibo Dembele - modibo.dembele,personal,361,WowSolar Controller,pico,18
 Modibo Dembele - modibo.dembele,personal,361,WowSolar Extension cable,pico,1
 Modibo Dembele - modibo.dembele,personal,361,WowSolar Lamp 140lm,pico,4
 Modibo Dembele - modibo.dembele,personal,361,WowSolar Panel 6W,pico,1
@@ -1536,14 +1605,14 @@ MODOU  LAM - diourbelpoly04,personal,2157,SKH Controller,pico,2
 Mohamed Diabaté - minidian03,personal,3612,Fan component,,1
 Mohamed Diabaté - minidian03,personal,3612,WowSolar Controller,pico,6
 Mohamed Lamine Kondo - bancoumana01,personal,420,WowSolar Controller,pico,2
+Mohamed Mohamed - agent.ccial9,personal,3860,D100 Controller,pico,1
 Moïse Lassine Sidibé - san03,personal,1881,WowSolar Controller,pico,1
 momoh joshua - joshua.momoh,personal,2456,Fan component,,1
 momoh joshua - joshua.momoh,personal,2456,Oolu TV Screen 24,SHS+TV,1
-momoh joshua - joshua.momoh,personal,2456,Oolu TV Screen 32,SHS+TV,1
 momoh joshua - joshua.momoh,personal,2456,Portable light component,,3
 MONDAY ILIYA - GARAKU01,personal,3629,WowSolar Controller,pico,1
+Monday Oliseyenum - monday.oliseyenum,personal,562,Burn stove component,accessories,1
 Monday Oliseyenum - monday.oliseyenum,personal,562,Fan component,,2
-Monday Oliseyenum - monday.oliseyenum,personal,562,Oolu TV Screen 24,SHS+TV,1
 Monday Oliseyenum - monday.oliseyenum,personal,562,Portable light component,,1
 Monday Oliseyenum - monday.oliseyenum,personal,562,WowSolar Controller,pico,2
 Motunrayo Ruth  Owoeye - akure23,personal,2063,Fan component,,1
@@ -1570,7 +1639,7 @@ MOUSSA DIALLO - tambapoly37,personal,3788,WowSolar Controller,pico,2
 MOUSSA DIAME - fatickpoly20,personal,3513,SKH Controller,pico,9
 Moussa Issoufou - issoufou.moussa,personal,1941,Fan component,,5
 Moussa Issoufou - issoufou.moussa,personal,1941,WowSolar Controller,pico,13
-MOUSSA KEITA - moussa.keita@oolusolar.com,personal,3389,SKH Controller,pico,16
+MOUSSA KEITA - moussa.keita@oolusolar.com,personal,3389,SKH Controller,pico,15
 MOUSSA KEITA - moussa.keita@oolusolar.com,personal,3389,WowSolar Controller,pico,4
 Moussa Souleymane  Keita - keita.operateur,personal,175,SKH Controller,pico,3
 Moussa Souleymane  Keita - keita.operateur,personal,175,SKH Extension cable,pico,1
@@ -1591,24 +1660,32 @@ moussa soumana - moussa.soumana,personal,2525,WowSolar Lamp 140lm,pico,4
 moussa soumana - moussa.soumana,personal,2525,WowSolar Panel 6W,pico,1
 moussa soumana - moussa.soumana,personal,2525,WowSolar USB charger,pico,1
 moussa soumana - moussa.soumana,personal,2525,WowSolar Wall mount,pico,1
+MOUSSA SOUMARE - kedougoupoly20,personal,3535,LNB Head incl. support,SHS+TV,1
+MOUSSA SOUMARE - kedougoupoly20,personal,3535,Satellite Cable 12m incl. connectors,SHS+TV,1
+MOUSSA SOUMARE - kedougoupoly20,personal,3535,Satellite Dish incl. support,SHS+TV,1
+MOUSSA SOUMARE - kedougoupoly20,personal,3535,WowSolar Batterie GM 80W,SHS+TV,1
+MOUSSA SOUMARE - kedougoupoly20,personal,3535,WowSolar Controller,pico,1
+MOUSSA SOUMARE - kedougoupoly20,personal,3535,WowSolar Extension cable,pico,1
+MOUSSA SOUMARE - kedougoupoly20,personal,3535,WowSolar Lamp 140lm,pico,4
+MOUSSA SOUMARE - kedougoupoly20,personal,3535,WowSolar Lamp 400lm,pico,2
+MOUSSA SOUMARE - kedougoupoly20,personal,3535,WowSolar Panel 40W,SHS+TV,1
+MOUSSA SOUMARE - kedougoupoly20,personal,3535,WowSolar Remote control,,1
+MOUSSA SOUMARE - kedougoupoly20,personal,3535,WowSolar TV Screen 32,,1
+MOUSSA SOUMARE - kedougoupoly20,personal,3535,WowSolar USB charger,pico,1
+MOUSSA SOUMARE - kedougoupoly20,personal,3535,WowSolar Wall mount,pico,1
 MOUSSA TOUNKARA - tambapoly27,personal,3193,Hairclipper component,accessories,1
-MOUSSA TOUNKARA - tambapoly27,personal,3193,LNB Head incl. support,SHS+TV,1
-MOUSSA TOUNKARA - tambapoly27,personal,3193,Satellite Cable 12m incl. connectors,SHS+TV,1
-MOUSSA TOUNKARA - tambapoly27,personal,3193,Satellite Dish incl. support,SHS+TV,1
 MOUSSA TOUNKARA - tambapoly27,personal,3193,SKH Controller,pico,4
-MOUSSA TOUNKARA - tambapoly27,personal,3193,WowSolar Batterie GM 80W,SHS+TV,1
-MOUSSA TOUNKARA - tambapoly27,personal,3193,WowSolar Controller,pico,11
-MOUSSA TOUNKARA - tambapoly27,personal,3193,WowSolar Extension cable,pico,4
-MOUSSA TOUNKARA - tambapoly27,personal,3193,WowSolar Lamp 140lm,pico,16
-MOUSSA TOUNKARA - tambapoly27,personal,3193,WowSolar Lamp 400lm,pico,2
-MOUSSA TOUNKARA - tambapoly27,personal,3193,WowSolar Panel 40W,SHS+TV,1
-MOUSSA TOUNKARA - tambapoly27,personal,3193,WowSolar Panel 6W,pico,3
-MOUSSA TOUNKARA - tambapoly27,personal,3193,WowSolar Remote control,,1
-MOUSSA TOUNKARA - tambapoly27,personal,3193,WowSolar TV Screen 19 ,SHS+TV,1
-MOUSSA TOUNKARA - tambapoly27,personal,3193,WowSolar USB charger,pico,4
-MOUSSA TOUNKARA - tambapoly27,personal,3193,WowSolar Wall mount,pico,4
+MOUSSA TOUNKARA - tambapoly27,personal,3193,WowSolar Controller,pico,5
 Moussa Traore - traore.moussa,personal,1599,WowSolar Controller,pico,1
 Moustapha Saba - saba.moustapha,personal,596,WowSolar Controller,pico,2
+MUTU_A SOLADOYA - AHOADA03,personal,2849,Radio component,pico,1
+MUTU_A SOLADOYA - AHOADA03,personal,2849,WowSolar Controller,pico,1
+MUTU_A SOLADOYA - AHOADA03,personal,2849,WowSolar Extension cable,pico,1
+MUTU_A SOLADOYA - AHOADA03,personal,2849,WowSolar Lamp 140lm,pico,3
+MUTU_A SOLADOYA - AHOADA03,personal,2849,WowSolar Lamp 400lm,pico,1
+MUTU_A SOLADOYA - AHOADA03,personal,2849,WowSolar Panel 10W,pico,1
+MUTU_A SOLADOYA - AHOADA03,personal,2849,WowSolar USB charger,pico,1
+MUTU_A SOLADOYA - AHOADA03,personal,2849,WowSolar Wall mount,pico,1
 NASARAWA STOCK POINT,multi_manager,2580,Fan component,,10
 NASARAWA STOCK POINT,multi_manager,2580,Oolu TV Screen 24,SHS+TV,3
 NASARAWA STOCK POINT,multi_manager,2580,Oolu TV Screen 32,SHS+TV,2
@@ -1624,7 +1701,7 @@ NASARAWA STOCK POINT,multi_manager,2580,WowSolar USB charger,pico,3
 NASARAWA STOCK POINT,multi_manager,2580,WowSolar Wall mount,pico,3
 Nasert Magnan TIAHO - tiaho.nasert,personal,2474,Hairclipper component,accessories,1
 Nasert Magnan TIAHO - tiaho.nasert,personal,2474,Radio component,pico,1
-Nasert Magnan TIAHO - tiaho.nasert,personal,2474,WowSolar Controller,pico,9
+Nasert Magnan TIAHO - tiaho.nasert,personal,2474,WowSolar Controller,pico,8
 NDEB MARONE - fatickpoly10,personal,3451,SKH Controller,pico,3
 NDEB MARONE - fatickpoly10,personal,3451,WowSolar Controller,pico,2
 N'deye Adama Gueye - adama.gueye,personal,2010,SKH Controller,pico,2
@@ -1634,29 +1711,31 @@ N'deye Adama Gueye - adama.gueye,personal,2010,SKH PV Panel,pico,1
 N'deye Adama Gueye - adama.gueye,personal,2010,SKH USB cable,pico,1
 N'deye Adama Gueye - adama.gueye,personal,2010,SKH Wall mount,pico,1
 N'deye Adama Gueye - adama.gueye,personal,2010,WowSolar Controller,pico,1
-NGONECOR DIOP - fatickpoly26,personal,3812,SKH Controller,pico,4
-NGONECOR DIOP - fatickpoly26,personal,3812,SKH Extension cable,pico,1
-NGONECOR DIOP - fatickpoly26,personal,3812,SKH Lamp,pico,5
-NGONECOR DIOP - fatickpoly26,personal,3812,SKH PV Panel,pico,1
-NGONECOR DIOP - fatickpoly26,personal,3812,SKH USB cable,pico,1
-NGONECOR DIOP - fatickpoly26,personal,3812,SKH Wall mount,pico,1
-NGONECOR DIOP - fatickpoly26,personal,3812,WowSolar Controller,pico,5
+NGONECOR DIOP - fatickpoly26,personal,3812,SKH Controller,pico,5
+NGONECOR DIOP - fatickpoly26,personal,3812,SKH Extension cable,pico,2
+NGONECOR DIOP - fatickpoly26,personal,3812,SKH Lamp,pico,8
+NGONECOR DIOP - fatickpoly26,personal,3812,SKH PV Panel,pico,2
+NGONECOR DIOP - fatickpoly26,personal,3812,SKH USB cable,pico,2
+NGONECOR DIOP - fatickpoly26,personal,3812,SKH Wall mount,pico,2
+NGONECOR DIOP - fatickpoly26,personal,3812,WowSolar Controller,pico,3
 NGONYA JOY - ELEME07,personal,2181,WowSolar Controller,pico,1
+NIAMEY,multi_manager,1324,Adapter Fan,accessories,1
 NIAMEY,multi_manager,1324,Fan component,,122
-NIAMEY,multi_manager,1324,LNB Head incl. support,SHS+TV,2
-NIAMEY,multi_manager,1324,Satellite Cable 12m incl. connectors,SHS+TV,2
-NIAMEY,multi_manager,1324,Satellite Dish incl. support,SHS+TV,2
+NIAMEY,multi_manager,1324,LNB Head incl. support,SHS+TV,3
+NIAMEY,multi_manager,1324,Panel Fan ,,1
+NIAMEY,multi_manager,1324,Satellite Cable 12m incl. connectors,SHS+TV,3
+NIAMEY,multi_manager,1324,Satellite Dish incl. support,SHS+TV,3
 NIAMEY,multi_manager,1324,WowSolar Batterie GM 80W,SHS+TV,2
-NIAMEY,multi_manager,1324,WowSolar Controller,pico,661
-NIAMEY,multi_manager,1324,WowSolar Extension cable,pico,34
+NIAMEY,multi_manager,1324,WowSolar Controller,pico,660
+NIAMEY,multi_manager,1324,WowSolar Extension cable,pico,35
 NIAMEY,multi_manager,1324,WowSolar Lamp 140lm,pico,150
 NIAMEY,multi_manager,1324,WowSolar Lamp 400lm,pico,4
-NIAMEY,multi_manager,1324,WowSolar Panel 40W,SHS+TV,2
+NIAMEY,multi_manager,1324,WowSolar Panel 40W,SHS+TV,3
 NIAMEY,multi_manager,1324,WowSolar Panel 6W,pico,36
-NIAMEY,multi_manager,1324,WowSolar Remote control,,2
-NIAMEY,multi_manager,1324,WowSolar TV Screen 19 ,SHS+TV,2
-NIAMEY,multi_manager,1324,WowSolar USB charger,pico,35
-NIAMEY,multi_manager,1324,WowSolar Wall mount,pico,38
+NIAMEY,multi_manager,1324,WowSolar Remote control,,3
+NIAMEY,multi_manager,1324,WowSolar TV Screen 19 ,SHS+TV,3
+NIAMEY,multi_manager,1324,WowSolar USB charger,pico,36
+NIAMEY,multi_manager,1324,WowSolar Wall mount,pico,39
 Nikihan BONDE - boni02,personal,156,WowSolar Controller,pico,2
 Nikihan BONDE - boni02,personal,156,WowSolar Extension cable,pico,2
 Nikihan BONDE - boni02,personal,156,WowSolar Lamp 140lm,pico,8
@@ -1668,19 +1747,18 @@ NIOKHOR TINE - thiespoly02,personal,114,Satellite Cable 12m incl. connectors,SHS
 NIOKHOR TINE - thiespoly02,personal,114,Satellite Dish incl. support,SHS+TV,1
 NIOKHOR TINE - thiespoly02,personal,114,SKH Controller,pico,1
 NIOKHOR TINE - thiespoly02,personal,114,SKH Lamp,pico,3
-NIOKHOR TINE - thiespoly02,personal,114,WowSolar Batterie GM 80W,SHS+TV,4
-NIOKHOR TINE - thiespoly02,personal,114,WowSolar Controller,pico,4
+NIOKHOR TINE - thiespoly02,personal,114,WowSolar Batterie GM 80W,SHS+TV,1
+NIOKHOR TINE - thiespoly02,personal,114,WowSolar Controller,pico,6
 NIOKHOR TINE - thiespoly02,personal,114,WowSolar Extension cable,pico,1
 NIOKHOR TINE - thiespoly02,personal,114,WowSolar Lamp 140lm,pico,8
 NIOKHOR TINE - thiespoly02,personal,114,WowSolar Lamp 400lm,pico,4
 NIOKHOR TINE - thiespoly02,personal,114,WowSolar Panel 40W,SHS+TV,1
 NIOKHOR TINE - thiespoly02,personal,114,WowSolar Remote control,,1
-NIOKHOR TINE - thiespoly02,personal,114,WowSolar TV Screen 19 ,SHS+TV,2
 NIOKHOR TINE - thiespoly02,personal,114,WowSolar TV Screen 22,SHS+TV,2
 NIOKHOR TINE - thiespoly02,personal,114,WowSolar USB charger,pico,1
 NIOKHOR TINE - thiespoly02,personal,114,WowSolar Wall mount,pico,1
 N. Jean Paul BAYALA - bayala.jp,personal,3732,Fan component,,3
-N. Jean Paul BAYALA - bayala.jp,personal,3732,WowSolar Controller,pico,28
+N. Jean Paul BAYALA - bayala.jp,personal,3732,WowSolar Controller,pico,23
 Noel SANOU - sanou.noel,personal,3704,WowSolar Controller,pico,1
 Nongawaogré Martin OUEDRAOGO - nongawaogré,personal,2870,WowSolar Controller,pico,2
 nonso ikwuegbu - dutse,personal,1858,WowSolar Controller,pico,2
@@ -1706,11 +1784,10 @@ Ojo Victor - ekiti20,personal,2857,WowSolar Controller,pico,1
 Oladeji Farinde - akure25,personal,2217,WowSolar Controller,pico,1
 olaitan hamzat - ogbomosho17,personal,3256,Portable light component,,1
 olaitan hamzat - ogbomosho17,personal,3256,WowSolar Controller,pico,1
-Olajide Seriki Nurudeen - ikd18,personal,3327,Portable light component,,1
 olajumoke bello - akinyele10,personal,2338,Portable light component,,2
 Olalekan Aluko - olalekan.aluko,personal,314,Portable light component,,28
 Olalekan Aluko - olalekan.aluko,personal,314,Powerhub 1280 component,big SHS,2
-Olalekan Aluko - olalekan.aluko,personal,314,WowSolar Controller,pico,9
+Olalekan Aluko - olalekan.aluko,personal,314,WowSolar Controller,pico,23
 olanike ogunjinmi - sakieast01,personal,1570,WowSolar Controller,pico,3
 olanrewaju abiola - iwo06,personal,3275,Fan component,,1
 olatunde raji - olatunde.raji,personal,571,WowSolar Controller,pico,1
@@ -1720,16 +1797,21 @@ olayinka amadin - abeokuta02,personal,585,Fan component,,1
 Olayinka Oluwatoba - owo04,personal,1358,WowSolar Controller,pico,1
 OLISA CHIKODILI - UMUAHIA04,personal,2227,Portable light component,,2
 Oliver Obiora Ike - udi10,personal,3665,Portable light component,,1
-Olivia Ifeh - olivia.ifeh,personal,3588,Fan component,,3
+Olivia Ifeh - olivia.ifeh,personal,3588,Fan component,,1
 Olivia Ifeh - olivia.ifeh,personal,3588,Oolu TV Screen 24,SHS+TV,2
-Olivia Ifeh - olivia.ifeh,personal,3588,Portable light component,,1
-Olivia Ifeh - olivia.ifeh,personal,3588,WowSolar Controller,pico,1
-Oludare Babatunde Olumide - oludare.olumide,personal,3040,Burn stove component,accessories,3
-Oludare Babatunde Olumide - oludare.olumide,personal,3040,Oolu TV Screen 32,SHS+TV,4
+Olivier GNOUMOU - gnoumou.olivier,personal,3857,WowSolar Controller,pico,1
+OLLO KAMBOU - ollo,personal,3455,WowSolar Controller,pico,1
+OLLO KAMBOU - ollo,personal,3455,WowSolar Extension cable,pico,1
+OLLO KAMBOU - ollo,personal,3455,WowSolar Lamp 140lm,pico,4
+OLLO KAMBOU - ollo,personal,3455,WowSolar Panel 6W,pico,1
+OLLO KAMBOU - ollo,personal,3455,WowSolar USB charger,pico,1
+OLLO KAMBOU - ollo,personal,3455,WowSolar Wall mount,pico,1
+Oludare Babatunde Olumide - oludare.olumide,personal,3040,Burn stove component,accessories,2
+Oludare Babatunde Olumide - oludare.olumide,personal,3040,Fan component,,1
+Oludare Babatunde Olumide - oludare.olumide,personal,3040,Oolu TV Screen 32,SHS+TV,3
 Oludare Babatunde Olumide - oludare.olumide,personal,3040,Portable light component,,1
 Oludare Babatunde Olumide - oludare.olumide,personal,3040,WowSolar Controller,pico,1
 olumide omoseyin - okitipupa03,personal,1604,WowSolar Controller,pico,1
-Olusegun Stephen Adetoro - adetoro.olusegun,personal,2479,Portable light component,,1
 Olusola Babalola - akure04,personal,1336,Radio component,pico,1
 Olusola Babalola - akure04,personal,1336,WowSolar Controller,pico,2
 Olusola Babalola - akure04,personal,1336,WowSolar Extension cable,pico,1
@@ -1767,9 +1849,8 @@ Onyekachi Dike - Rivers04,personal,1692,WowSolar Controller,pico,5
 Oolu Marketing - agent-marketing,personal,1787,Hairclipper component,accessories,16
 Oolu Marketing - agent-marketing,personal,1787,Radio component,pico,1
 Oolu Marketing - agent-marketing,personal,1787,SKH Controller,pico,1
-Oolu Marketing - agent-marketing,personal,1787,WowSolar Controller,pico,1
+Oolu Marketing - agent-marketing,personal,1787,WowSolar Controller,pico,2
 OPARA BENJAMIN - PHALGA15,personal,3385,WowSolar Controller,pico,1
-opeyemi otegbola - opeyemi.otegbola,personal,2636,Fan component,,2
 opeyemi otegbola - opeyemi.otegbola,personal,2636,Radio component,pico,1
 opeyemi otegbola - opeyemi.otegbola,personal,2636,WowSolar USB charger,pico,1
 opeyemi yusuf - lagelu04,personal,533,Portable light component,,1
@@ -1781,7 +1862,7 @@ OUAGADOUGOU,multi_manager,1446,Radio component,pico,4
 OUAGADOUGOU,multi_manager,1446,Satellite Cable 12m incl. connectors,SHS+TV,11
 OUAGADOUGOU,multi_manager,1446,Satellite Dish incl. support,SHS+TV,11
 OUAGADOUGOU,multi_manager,1446,WowSolar Batterie GM 80W,SHS+TV,77
-OUAGADOUGOU,multi_manager,1446,WowSolar Controller,pico,2493
+OUAGADOUGOU,multi_manager,1446,WowSolar Controller,pico,2487
 OUAGADOUGOU,multi_manager,1446,WowSolar Extension cable,pico,656
 OUAGADOUGOU,multi_manager,1446,WowSolar Lamp 140lm,pico,4381
 OUAGADOUGOU,multi_manager,1446,WowSolar Lamp 400lm,pico,99
@@ -1798,29 +1879,26 @@ OUETJOUGA ZOLO - zolo,personal,3174,WowSolar Controller,pico,2
 OUMAR  BADJI - kaolackpoly02,personal,221,Fan component,,2
 OUMAR  BADJI - kaolackpoly02,personal,221,Hairclipper component,accessories,1
 OUMAR  BADJI - kaolackpoly02,personal,221,SKH Controller,pico,4
-OUMAR  BADJI - kaolackpoly02,personal,221,SKH Extension cable,pico,1
 OUMAR  BADJI - kaolackpoly02,personal,221,SKH Lamp,pico,3
 OUMAR  BADJI - kaolackpoly02,personal,221,SKH PV Panel,pico,1
-OUMAR  BADJI - kaolackpoly02,personal,221,SKH USB cable,pico,1
-OUMAR  BADJI - kaolackpoly02,personal,221,WowSolar Controller,pico,6
+OUMAR  BADJI - kaolackpoly02,personal,221,WowSolar Controller,pico,12
 OUMAR  DIENG - matampoly06,personal,2167,Fan component,,2
 OUMAR  DIENG - matampoly06,personal,2167,WowSolar Controller,pico,4
 Oumar Doumbia - oumar.doumbia,personal,377,Fan component,,1
 Oumar Doumbia - oumar.doumbia,personal,377,SKH Controller,pico,2
-Oumar Doumbia - oumar.doumbia,personal,377,WowSolar Controller,pico,10
+Oumar Doumbia - oumar.doumbia,personal,377,WowSolar Controller,pico,8
 Oumar M Sangare - bougouni001,personal,3687,SKH Controller,pico,1
 Oumar M Sangare - bougouni001,personal,3687,WowSolar Controller,pico,10
 OUMAR OGO SOW - diourbelpoly16,personal,3170,SKH Controller,pico,2
 OUMAR OGO SOW - diourbelpoly16,personal,3170,SKH Lamp,pico,3
 OUMAR OGO SOW - diourbelpoly16,personal,3170,SKH PV Panel,pico,1
-oumarou mamane - oumarou.mamane,personal,2144,WowSolar Controller,pico,4
-oumarou mamane - oumarou.mamane,personal,2144,WowSolar Extension cable,pico,3
-oumarou mamane - oumarou.mamane,personal,2144,WowSolar Lamp 140lm,pico,12
-oumarou mamane - oumarou.mamane,personal,2144,WowSolar Panel 6W,pico,3
-oumarou mamane - oumarou.mamane,personal,2144,WowSolar USB charger,pico,3
-oumarou mamane - oumarou.mamane,personal,2144,WowSolar Wall mount,pico,3
+oumarou mamane - oumarou.mamane,personal,2144,WowSolar Controller,pico,5
+oumarou mamane - oumarou.mamane,personal,2144,WowSolar Extension cable,pico,4
+oumarou mamane - oumarou.mamane,personal,2144,WowSolar Lamp 140lm,pico,16
+oumarou mamane - oumarou.mamane,personal,2144,WowSolar Panel 6W,pico,4
+oumarou mamane - oumarou.mamane,personal,2144,WowSolar USB charger,pico,4
+oumarou mamane - oumarou.mamane,personal,2144,WowSolar Wall mount,pico,4
 Ouri Traore - traore.ouri,personal,629,WowSolar Controller,pico,2
-OUSMANE  BARRY - kedougoupoly23,personal,3538,WowSolar Controller,pico,1
 Ousmane KONKOBO - konkobo.ousmane,personal,3699,WowSolar Controller,pico,1
 Ousmane Traoré - ousmane.traore,personal,2742,WowSolar Controller,pico,2
 OWERI STOCK POINT,multi_manager,334,Fan component,,11
@@ -1836,7 +1914,7 @@ Palanhiné Dénis PALE - pale.denis,personal,2607,WowSolar Controller,pico,1
 PAPE  FALL - agentcom137,personal,1628,Radio component,pico,2
 PAPE IBRAHIMA  FAYE - kaffrinepoly06,personal,215,Hairclipper component,accessories,1
 PAPE IBRAHIMA  FAYE - kaffrinepoly06,personal,215,SKH Controller,pico,7
-PAPE IBRAHIMA  FAYE - kaffrinepoly06,personal,215,WowSolar Controller,pico,3
+PAPE IBRAHIMA  FAYE - kaffrinepoly06,personal,215,WowSolar Controller,pico,6
 PAPE IBRAHIMA  FAYE - kaffrinepoly06,personal,215,WowSolar Extension cable,pico,2
 PAPE IBRAHIMA  FAYE - kaffrinepoly06,personal,215,WowSolar Lamp 140lm,pico,4
 PAPE IBRAHIMA  FAYE - kaffrinepoly06,personal,215,WowSolar Remote control,,2
@@ -1853,6 +1931,7 @@ PATHE  WATHIE - kaolack04,personal,214,SKH Lamp,pico,12
 PATHE  WATHIE - kaolack04,personal,214,SKH PV Panel,pico,4
 PATHE  WATHIE - kaolack04,personal,214,SKH USB cable,pico,4
 PATHE  WATHIE - kaolack04,personal,214,SKH Wall mount,pico,4
+PATHE  WATHIE - kaolack04,personal,214,WowSolar Controller,pico,2
 PATHE  WATHIE - kaolack04,personal,214,WowSolar Lamp 140lm,pico,3
 Patience Ihiator - ubiaja10,personal,1972,WowSolar Controller,pico,3
 Paul Miki Gn Gnoumou - boni01,personal,155,WowSolar Controller,pico,1
@@ -1863,10 +1942,13 @@ PETER AJOMA - CALABAR03,personal,1705,Fan component,,4
 PETER AJOMA - CALABAR03,personal,1705,WowSolar Controller,pico,6
 Pierre KI - ki.pierre,personal,2759,WowSolar Controller,pico,1
 Prosper Chinaemerem John - john.chinaemerem,personal,3482,Portable light component,,1
-Prospere Traore - traore.prospere,personal,1596,WowSolar Controller,pico,8
+Prospere Traore - traore.prospere,personal,1596,WowSolar Controller,pico,7
 Qasim Ajagbe - abeokuta17,personal,1337,WowSolar Controller,pico,1
+Rachel Babatunde - ikd21,personal,3409,Burn stove component,accessories,1
+Rachel Babatunde - ikd21,personal,3409,Fan component,,2
+Rachel Babatunde - ikd21,personal,3409,Oolu TV Screen 32,SHS+TV,1
 Rachel Babatunde - ikd21,personal,3409,WowSolar Controller,pico,1
-rafiu azeez - azeez.rafiu,personal,1562,Oolu TV Screen 24,SHS+TV,2
+rafiu azeez - azeez.rafiu,personal,1562,Oolu TV Screen 24,SHS+TV,1
 rafiu azeez - azeez.rafiu,personal,1562,Portable light component,,3
  Rasheed  Olorunsola - akoko07,personal,2851,Fan component,,1
 RASMANE SANKARA - sankara.rasmane,personal,3362,WowSolar Controller,pico,5
@@ -1878,36 +1960,29 @@ Ruth Temidayo Alaba - kabba017,personal,2793,WowSolar Controller,pico,1
 SADIA TAMBA - sadia.tamba,personal,2917,LNB Head incl. support,SHS+TV,2
 SADIA TAMBA - sadia.tamba,personal,2917,Satellite Cable 12m incl. connectors,SHS+TV,2
 SADIA TAMBA - sadia.tamba,personal,2917,Satellite Dish incl. support,SHS+TV,2
-SADIA TAMBA - sadia.tamba,personal,2917,SKH Controller,pico,10
+SADIA TAMBA - sadia.tamba,personal,2917,SKH Controller,pico,4
 SADIA TAMBA - sadia.tamba,personal,2917,SKH Lamp,pico,6
 SADIA TAMBA - sadia.tamba,personal,2917,SKH PV Panel,pico,2
-SADIA TAMBA - sadia.tamba,personal,2917,WowSolar Batterie GM 80W,SHS+TV,4
-SADIA TAMBA - sadia.tamba,personal,2917,WowSolar Controller,pico,11
-SADIA TAMBA - sadia.tamba,personal,2917,WowSolar Extension cable,pico,2
-SADIA TAMBA - sadia.tamba,personal,2917,WowSolar Lamp 140lm,pico,15
-SADIA TAMBA - sadia.tamba,personal,2917,WowSolar Lamp 400lm,pico,4
-SADIA TAMBA - sadia.tamba,personal,2917,WowSolar Panel 40W,SHS+TV,2
+SADIA TAMBA - sadia.tamba,personal,2917,WowSolar Batterie GM 80W,SHS+TV,2
+SADIA TAMBA - sadia.tamba,personal,2917,WowSolar Controller,pico,26
+SADIA TAMBA - sadia.tamba,personal,2917,WowSolar Lamp 140lm,pico,7
 SADIA TAMBA - sadia.tamba,personal,2917,WowSolar Panel 6W,pico,4
 SADIA TAMBA - sadia.tamba,personal,2917,WowSolar Remote control,,3
-SADIA TAMBA - sadia.tamba,personal,2917,WowSolar TV Screen 22,SHS+TV,2
-SADIA TAMBA - sadia.tamba,personal,2917,WowSolar USB charger,pico,6
-SADIA TAMBA - sadia.tamba,personal,2917,WowSolar Wall mount,pico,2
+SADIA TAMBA - sadia.tamba,personal,2917,WowSolar USB charger,pico,4
+SADIA TAMBA - sadia.tamba,personal,2917,WowSolar Wall mount,pico,1
 SADIO  CISSOKHO - sadio.cissokho,personal,2340,Hairclipper component,accessories,2
-SADIO  CISSOKHO - sadio.cissokho,personal,2340,SKH Controller,pico,30
-SADIO  CISSOKHO - sadio.cissokho,personal,2340,SKH Extension cable,pico,4
-SADIO  CISSOKHO - sadio.cissokho,personal,2340,SKH Lamp,pico,23
-SADIO  CISSOKHO - sadio.cissokho,personal,2340,SKH PV Panel,pico,11
-SADIO  CISSOKHO - sadio.cissokho,personal,2340,SKH USB cable,pico,4
-SADIO  CISSOKHO - sadio.cissokho,personal,2340,SKH Wall mount,pico,4
+SADIO  CISSOKHO - sadio.cissokho,personal,2340,SKH Controller,pico,25
+SADIO  CISSOKHO - sadio.cissokho,personal,2340,SKH Lamp,pico,8
+SADIO  CISSOKHO - sadio.cissokho,personal,2340,SKH PV Panel,pico,6
 SADIO  CISSOKHO - sadio.cissokho,personal,2340,WowSolar Batterie GM 80W,SHS+TV,3
-SADIO  CISSOKHO - sadio.cissokho,personal,2340,WowSolar Controller,pico,13
+SADIO  CISSOKHO - sadio.cissokho,personal,2340,WowSolar Controller,pico,12
 SADIO  CISSOKHO - sadio.cissokho,personal,2340,WowSolar Lamp 140lm,pico,2
 SADIO  CISSOKHO - sadio.cissokho,personal,2340,WowSolar Panel 40W,SHS+TV,1
 SADIO  CISSOKHO - sadio.cissokho,personal,2340,WowSolar Panel 6W,pico,1
 safiyanu musa - domao1,personal,1731,Fan component,,1
 Sahiba DIAO - diao.sahiba,personal,2114,Hairclipper component,accessories,1
 Sahiba DIAO - diao.sahiba,personal,2114,Radio component,pico,2
-Sahiba DIAO - diao.sahiba,personal,2114,WowSolar Controller,pico,25
+Sahiba DIAO - diao.sahiba,personal,2114,WowSolar Controller,pico,23
 Sahiba DIAO - diao.sahiba,personal,2114,WowSolar Extension cable,pico,1
 Sahiba DIAO - diao.sahiba,personal,2114,WowSolar Lamp 140lm,pico,4
 Sahiba DIAO - diao.sahiba,personal,2114,WowSolar Panel 6W,pico,1
@@ -1928,11 +2003,17 @@ SALIF SANE - sedhioupoly05,personal,3013,Fan component,,1
 SALIF SANE - sedhioupoly05,personal,3013,WowSolar Controller,pico,2
 Salif Soulama - soulama.salif,personal,1529,WowSolar Controller,pico,2
 Samba Coulibaly - coulibaly.samba,personal,144,WowSolar Controller,pico,8
-samson mercy - Egbeda01,personal,3069,WowSolar Controller,pico,14
 Samuel Coulibaly - samuel.coulibaly,personal,188,WowSolar Controller,pico,1
 Samuel Dembele - mafoune01,personal,3523,Fan component,,1
-Samuel Dembele - mafoune01,personal,3523,WowSolar Controller,pico,8
-SAMUEL JAJA ABEL - EMOUHIA08,personal,3236,WowSolar Controller,pico,2
+Samuel Dembele - mafoune01,personal,3523,WowSolar Controller,pico,7
+SAMUEL JAJA ABEL - EMOUHIA08,personal,3236,Radio component,pico,1
+SAMUEL JAJA ABEL - EMOUHIA08,personal,3236,WowSolar Controller,pico,3
+SAMUEL JAJA ABEL - EMOUHIA08,personal,3236,WowSolar Extension cable,pico,1
+SAMUEL JAJA ABEL - EMOUHIA08,personal,3236,WowSolar Lamp 140lm,pico,3
+SAMUEL JAJA ABEL - EMOUHIA08,personal,3236,WowSolar Lamp 400lm,pico,1
+SAMUEL JAJA ABEL - EMOUHIA08,personal,3236,WowSolar Panel 10W,pico,1
+SAMUEL JAJA ABEL - EMOUHIA08,personal,3236,WowSolar USB charger,pico,1
+SAMUEL JAJA ABEL - EMOUHIA08,personal,3236,WowSolar Wall mount,pico,1
 Sandra Izoseh - benin1,personal,614,Radio component,pico,1
 Sandra Izoseh - benin1,personal,614,WowSolar Controller,pico,1
 Sandra Izoseh - benin1,personal,614,WowSolar Extension cable,pico,1
@@ -1943,7 +2024,7 @@ Sandra Izoseh - benin1,personal,614,WowSolar USB charger,pico,1
 Sandra Izoseh - benin1,personal,614,WowSolar Wall mount,pico,1
 Sansan SIB - sib.sansan,personal,2744,Fan component,,1
 Sansan SIB - sib.sansan,personal,2744,Panel Fan ,,1
-Sansan SIB - sib.sansan,personal,2744,WowSolar Controller,pico,20
+Sansan SIB - sib.sansan,personal,2744,WowSolar Controller,pico,19
 Sansan SIB - sib.sansan,personal,2744,WowSolar USB charger,pico,3
 Saramani Traoré - kaniogo01,personal,3649,WowSolar Controller,pico,2
 Saydou Ibrahim - ibrahim.saydou,personal,1942,WowSolar Controller,pico,2
@@ -1952,7 +2033,7 @@ Sebeta Koura - koura.sebeta,personal,1521,WowSolar Controller,pico,2
 SECOU SANE - ziguinchorpoly18,personal,3130,WowSolar Controller,pico,1
 SECOU SANE - ziguinchorpoly18,personal,3130,WowSolar Lamp 140lm,pico,2
 SECOU SANE - ziguinchorpoly18,personal,3130,WowSolar Panel 40W,SHS+TV,1
-SEDOGO PAKOUDNABA - sedogo,personal,3803,WowSolar Controller,pico,2
+SEDOGO PAKOUDNABA - sedogo,personal,3803,WowSolar Controller,pico,1
 Segun Akinluyi - akure17,personal,1845,Hairclipper component,accessories,1
 seidou issoufou - seidou.issoufou,personal,2532,WowSolar Controller,pico,4
 seidou issoufou - seidou.issoufou,personal,2532,WowSolar Extension cable,pico,1
@@ -1960,6 +2041,7 @@ seidou issoufou - seidou.issoufou,personal,2532,WowSolar Lamp 140lm,pico,4
 seidou issoufou - seidou.issoufou,personal,2532,WowSolar Panel 6W,pico,1
 seidou issoufou - seidou.issoufou,personal,2532,WowSolar USB charger,pico,1
 seidou issoufou - seidou.issoufou,personal,2532,WowSolar Wall mount,pico,1
+Sekamu Agent Ccial - agent.ccia8,personal,3839,D100 Controller,pico,1
 Sekou Traore - straore.operateur,personal,3097,WowSolar Controller,pico,1
 Senou Fofana - djelibougou01,personal,1158,WowSolar Controller,pico,11
 Senou Fofana - djelibougou01,personal,1158,WowSolar Extension cable,pico,1
@@ -1971,7 +2053,7 @@ SERIGNE BASSIROU NGOM - diourbelpoly20,personal,3658,WowSolar Controller,pico,1
 SERIGNE BASSIROU NGOM - diourbelpoly20,personal,3658,WowSolar Extension cable,pico,1
 SERIGNE BASSIROU NGOM - diourbelpoly20,personal,3658,WowSolar USB charger,pico,1
 SERIGNE BASSIROU NGOM - diourbelpoly20,personal,3658,WowSolar Wall mount,pico,1
-seun lamuye - seun.lamuye,personal,2611,Oolu TV Screen 24,SHS+TV,2
+seun lamuye - seun.lamuye,personal,2611,Oolu TV Screen 24,SHS+TV,1
 seun lamuye - seun.lamuye,personal,2611,Portable light component,,4
 Seydou BADOUM - badoum.seydou,personal,2928,WowSolar Controller,pico,1
 Seydou BADOUM - badoum.seydou,personal,2928,WowSolar Extension cable,pico,1
@@ -1988,14 +2070,14 @@ Seydou Coulibaly - seydou.coulibaly,personal,198,WowSolar Panel 6W,pico,12
 Seydou Coulibaly - seydou.coulibaly,personal,198,WowSolar USB charger,pico,12
 Seydou Coulibaly - seydou.coulibaly,personal,198,WowSolar Wall mount,pico,12
 Seydou DAO - dao.seydou,personal,2297,WowSolar Controller,pico,3
-Seydou D Koné - zantiebougou01,personal,569,Fan component,,2
+Seydou D Koné - zantiebougou01,personal,569,Fan component,,7
 Seydou D Koné - zantiebougou01,personal,569,SKH Controller,pico,3
-Seydou D Koné - zantiebougou01,personal,569,WowSolar Controller,pico,10
-Seydou D Koné - zantiebougou01,personal,569,WowSolar Extension cable,pico,1
-Seydou D Koné - zantiebougou01,personal,569,WowSolar Lamp 140lm,pico,4
-Seydou D Koné - zantiebougou01,personal,569,WowSolar Panel 6W,pico,1
-Seydou D Koné - zantiebougou01,personal,569,WowSolar USB charger,pico,1
-Seydou D Koné - zantiebougou01,personal,569,WowSolar Wall mount,pico,1
+Seydou D Koné - zantiebougou01,personal,569,WowSolar Controller,pico,14
+Seydou D Koné - zantiebougou01,personal,569,WowSolar Extension cable,pico,2
+Seydou D Koné - zantiebougou01,personal,569,WowSolar Lamp 140lm,pico,8
+Seydou D Koné - zantiebougou01,personal,569,WowSolar Panel 6W,pico,2
+Seydou D Koné - zantiebougou01,personal,569,WowSolar USB charger,pico,2
+Seydou D Koné - zantiebougou01,personal,569,WowSolar Wall mount,pico,2
 Seydou MILO - milo,personal,3771,WowSolar Controller,pico,1
 Seydou Sanou - menamba01,personal,3692,WowSolar Controller,pico,1
 Seydou Traoré - didieni02,personal,3443,Fan component,,1
@@ -2008,11 +2090,12 @@ Seyifunmi Akinbiola - esedo02,personal,3206,WowSolar Lamp 400lm,pico,1
 Seyifunmi Akinbiola - esedo02,personal,3206,WowSolar Panel 10W,pico,1
 Seyifunmi Akinbiola - esedo02,personal,3206,WowSolar USB charger,pico,1
 Seyifunmi Akinbiola - esedo02,personal,3206,WowSolar Wall mount,pico,1
-seyni boureima - seyni.boureima,personal,2146,WowSolar Controller,pico,2
+seyni boureima - seyni.boureima,personal,2146,WowSolar Controller,pico,4
 SHAGAMU STOCK POINT,multi_manager,2692,Burn stove component,accessories,5
-SHAGAMU STOCK POINT,multi_manager,2692,Portable light component,,3
+SHAGAMU STOCK POINT,multi_manager,2692,Oolu TV Screen 32,SHS+TV,6
+SHAGAMU STOCK POINT,multi_manager,2692,Portable light component,,2
 SHAGAMU STOCK POINT,multi_manager,2692,Powerhub 1280 component,big SHS,1
-SHIYNYUY FON ASANHUSIEN - ashanhusien.fon,personal,3727,D100 Controller,pico,2
+SHIYNYUY FON ASANHUSIEN - ashanhusien.fon,personal,3727,D100 Controller,pico,1
 SIAKA DEMBELE - siaka,personal,3309,WowSolar Controller,pico,1
 Siaka Elvis GNOUMOU - siaka.gnoumou,personal,1900,WowSolar Controller,pico,4
 Siaka Elvis GNOUMOU - siaka.gnoumou,personal,1900,WowSolar Extension cable,pico,1
@@ -2033,7 +2116,6 @@ Siaka SOURABIE - sourabie.siaka,personal,2117,WowSolar Wall mount,pico,1
 Siaka Traore - traore.siaka,personal,1598,WowSolar Controller,pico,7
 Sibiri Matourkou OUATTARA - sibiri.ouattara,personal,2449,WowSolar Controller,pico,2
 Sidiki Coulibaly - niasso01,personal,3620,WowSolar Controller,pico,1
-Sidiki Konaté - sidiki.konate@oolusolar.com,personal,2887,Fan component,,5
 Sidiki Konaté - sidiki.konate@oolusolar.com,personal,2887,Hairclipper component,accessories,1
 Sidiki Konaté - sidiki.konate@oolusolar.com,personal,2887,Radio component,pico,1
 Sidiki Konaté - sidiki.konate@oolusolar.com,personal,2887,SKH Controller,pico,2
@@ -2047,12 +2129,9 @@ Sié SAKO - sako.sie,personal,2171,WowSolar Controller,pico,1
 Sié Tanguy Kader KAM - kam.kader,personal,2508,Fan component,,4
 Sié Tanguy Kader KAM - kam.kader,personal,2508,Hairclipper component,accessories,6
 Sié Tanguy Kader KAM - kam.kader,personal,2508,Radio component,pico,3
-Sié Tanguy Kader KAM - kam.kader,personal,2508,WowSolar Controller,pico,27
+Sié Tanguy Kader KAM - kam.kader,personal,2508,WowSolar Controller,pico,17
 SIKASSO,multi_manager,212,WowSolar Controller,pico,2
 SILIMA DEMBELE - tambapoly16,personal,2958,SKH Controller,pico,4
-SILIMA DEMBELE - tambapoly16,personal,2958,SKH Extension cable,pico,2
-SILIMA DEMBELE - tambapoly16,personal,2958,SKH USB cable,pico,2
-SILIMA DEMBELE - tambapoly16,personal,2958,SKH Wall mount,pico,2
 SILIMA DEMBELE - tambapoly16,personal,2958,WowSolar Controller,pico,3
 Siliman Bathily - samediongouma02,personal,484,SKH Controller,pico,1
 Siliman Bathily - samediongouma02,personal,484,WowSolar Controller,pico,16
@@ -2061,7 +2140,7 @@ SOCIETE TABBAT - societe.tabbat,personal,3817,LNB Head incl. support,SHS+TV,1
 SOCIETE TABBAT - societe.tabbat,personal,3817,Satellite Cable 12m incl. connectors,SHS+TV,1
 SOCIETE TABBAT - societe.tabbat,personal,3817,Satellite Dish incl. support,SHS+TV,1
 SOCIETE TABBAT - societe.tabbat,personal,3817,WowSolar Batterie GM 80W,SHS+TV,1
-SOCIETE TABBAT - societe.tabbat,personal,3817,WowSolar Controller,pico,9
+SOCIETE TABBAT - societe.tabbat,personal,3817,WowSolar Controller,pico,8
 SOCIETE TABBAT - societe.tabbat,personal,3817,WowSolar Extension cable,pico,1
 SOCIETE TABBAT - societe.tabbat,personal,3817,WowSolar Lamp 140lm,pico,4
 SOCIETE TABBAT - societe.tabbat,personal,3817,WowSolar Lamp 400lm,pico,2
@@ -2075,9 +2154,8 @@ Solomon Aremu - kupolosi02,personal,2801,WowSolar Controller,pico,4
 SOLOMON EKE - OnitshaNorth01,personal,2355,Fan component,,1
 solomon hembaor - gwako,personal,2018,Burn stove component,accessories,1
 solomon hembaor - gwako,personal,2018,Fan component,,1
-solomon hembaor - gwako,personal,2018,Oolu TV Screen 24,SHS+TV,1
 solomon hembaor - gwako,personal,2018,Oolu TV Screen 32,SHS+TV,2
-solomon hembaor - gwako,personal,2018,Portable light component,,10
+solomon hembaor - gwako,personal,2018,Portable light component,,4
 solomon hembaor - gwako,personal,2018,Powerhub 1280 component,big SHS,1
 solomon hembaor - gwako,personal,2018,WowSolar Controller,pico,1
 Solomon Yusuf - Owo08,personal,1366,WowSolar Controller,pico,4
@@ -2087,8 +2165,8 @@ SOULEYMANE DIOUF - kaolackpoly19,personal,3564,SKH Controller,pico,1
 Souleymane Sangaré - n'gologoubougou01,personal,3150,WowSolar Controller,pico,1
 Souleymane SANKARA - sankara.souleymane,personal,2189,WowSolar Controller,pico,1
 Souleymane Tangara - souleymane.tangara,personal,187,WowSolar Controller,pico,3
-Souleymane WARMA - warma.souleymane,personal,2081,WowSolar Controller,pico,2
-Souleymane Yattara - segou010,personal,2490,WowSolar Controller,pico,10
+Souleymane WARMA - warma.souleymane,personal,2081,WowSolar Controller,pico,1
+Souleymane Yattara - segou010,personal,2490,WowSolar Controller,pico,22
 Souleymane Yattara - segou010,personal,2490,WowSolar USB charger,pico,1
 Soumaila Dao - dao.soumaila,personal,1399,Radio component,pico,1
 Soumaila Dao - dao.soumaila,personal,1399,WowSolar Controller,pico,7
@@ -2098,6 +2176,7 @@ Soumaila Dao - dao.soumaila,personal,1399,WowSolar Panel 6W,pico,1
 Soumaila Dao - dao.soumaila,personal,1399,WowSolar USB charger,pico,1
 Soumaila Dao - dao.soumaila,personal,1399,WowSolar Wall mount,pico,1
 Soumaila Débé - debe.soumaila,personal,1410,WowSolar Controller,pico,2
+Soumana Djibo MAHAMADOU - mahamadou.soumana,personal,1752,Fan component,,1
 Soumana Djibo MAHAMADOU - mahamadou.soumana,personal,1752,WowSolar Controller,pico,1
 Soumana Djibo MAHAMADOU - mahamadou.soumana,personal,1752,WowSolar Extension cable,pico,1
 Soumana Djibo MAHAMADOU - mahamadou.soumana,personal,1752,WowSolar Lamp 140lm,pico,4
@@ -2110,10 +2189,11 @@ Sunday Ebenyi - izzi02,personal,3471,Portable light component,,1
 Sunday Ibinola - sunday.ibinola,personal,2455,Fan component,,2
 Sunday Ibinola - sunday.ibinola,personal,2455,Portable light component,,7
 sunday ogunleye - ogunleye.sunday,personal,2413,Fan component,,1
-sunday ogunleye - ogunleye.sunday,personal,2413,Oolu TV Screen 24,SHS+TV,1
 sunday ogunleye - ogunleye.sunday,personal,2413,Powerhub 1280 component,big SHS,9
 sunday ogunleye - ogunleye.sunday,personal,2413,WowSolar Controller,pico,1
 Sunday Osajiokwu - sunday.osajiokwu,personal,560,Burn stove component,accessories,2
+Sunday Osajiokwu - sunday.osajiokwu,personal,560,Fan component,,1
+Sunday Osajiokwu - sunday.osajiokwu,personal,560,Oolu TV Screen 32,SHS+TV,2
 Sunday Osajiokwu - sunday.osajiokwu,personal,560,WowSolar Controller,pico,1
 Sylvestre SOME - some.sylvestre,personal,2052,WowSolar Controller,pico,2
 Sylvestre SOME - some.sylvestre,personal,2052,WowSolar Extension cable,pico,1
@@ -2121,12 +2201,8 @@ Sylvestre SOME - some.sylvestre,personal,2052,WowSolar Lamp 140lm,pico,4
 Sylvestre SOME - some.sylvestre,personal,2052,WowSolar Panel 6W,pico,1
 Sylvestre SOME - some.sylvestre,personal,2052,WowSolar USB charger,pico,1
 Sylvestre SOME - some.sylvestre,personal,2052,WowSolar Wall mount,pico,1
-Tahirou Diarra - cinzana03,personal,3568,SKH Controller,pico,1
-Tahirou Diarra - cinzana03,personal,3568,SKH Extension cable,pico,1
-Tahirou Diarra - cinzana03,personal,3568,SKH Lamp,pico,3
 Tahirou Diarra - cinzana03,personal,3568,SKH PV Panel,pico,1
 Tahirou Diarra - cinzana03,personal,3568,SKH USB cable,pico,1
-Tahirou Diarra - cinzana03,personal,3568,SKH Wall mount,pico,1
 Tahirou Diarra - cinzana03,personal,3568,WowSolar Controller,pico,2
 Taiwo Olufemi - taiwo.olufemi,personal,1390,Oolu TV Screen 24,SHS+TV,1
 Taiwo Olufemi - taiwo.olufemi,personal,1390,Oolu TV Screen 32,SHS+TV,2
@@ -2138,7 +2214,7 @@ talawiyo handsome - talahandsome,personal,2301,WowSolar Controller,pico,2
 TALLA  FAYE - agentcom34,personal,256,Hairclipper component,accessories,1
 TALLA  FAYE - agentcom34,personal,256,Radio component,pico,1
 TALLA  FAYE - agentcom34,personal,256,SKH Controller,pico,4
-TALLA  FAYE - agentcom34,personal,256,WowSolar Controller,pico,5
+TALLA  FAYE - agentcom34,personal,256,WowSolar Controller,pico,7
 Talouta Cisse - talouta.cisse,personal,1363,Fan component,,1
 Talouta Cisse - talouta.cisse,personal,1363,Hairclipper component,accessories,1
 Talouta Cisse - talouta.cisse,personal,1363,Radio component,pico,1
@@ -2155,31 +2231,51 @@ THIERNO  DIA - diourbelpoly08,personal,2184,SKH Controller,pico,6
 THIERNO  DIA - diourbelpoly08,personal,2184,WowSolar Controller,pico,2
 THIERNO  DIA - diourbelpoly08,personal,2184,WowSolar Lamp 140lm,pico,1
 THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,Fan component,,3
-THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,Hairclipper component,accessories,3
+THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,Hairclipper component,accessories,1
 THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,LNB Head incl. support,SHS+TV,1
 THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,Radio component,pico,1
 THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,Satellite Cable 12m incl. connectors,SHS+TV,1
 THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,Satellite Dish incl. support,SHS+TV,1
 THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,SKH Controller,pico,11
-THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,SKH Extension cable,pico,7
 THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,SKH Lamp,pico,24
-THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,SKH PV Panel,pico,7
-THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,SKH USB cable,pico,7
-THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,SKH Wall mount,pico,7
-THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,WowSolar Controller,pico,9
+THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,SKH PV Panel,pico,8
+THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,WowSolar Batterie GM 80W,SHS+TV,1
+THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,WowSolar Controller,pico,27
 THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,WowSolar Extension cable,pico,1
 THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,WowSolar Lamp 140lm,pico,9
 THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,WowSolar Panel 40W,SHS+TV,1
 THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,WowSolar Panel 6W,pico,1
 THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,WowSolar USB charger,pico,1
 THIERNO  FAYE - thierno.faye@oolusolar.com,personal,1561,WowSolar Wall mount,pico,1
-THIERNO GUEYE - lougapoly11,personal,3820,WowSolar Controller,pico,3
+THIERNO GUEYE - lougapoly11,personal,3820,SKH Controller,pico,1
+THIERNO GUEYE - lougapoly11,personal,3820,SKH Extension cable,pico,1
+THIERNO GUEYE - lougapoly11,personal,3820,SKH Lamp,pico,3
+THIERNO GUEYE - lougapoly11,personal,3820,SKH PV Panel,pico,1
+THIERNO GUEYE - lougapoly11,personal,3820,SKH USB cable,pico,1
+THIERNO GUEYE - lougapoly11,personal,3820,SKH Wall mount,pico,1
+THIERNO GUEYE - lougapoly11,personal,3820,WowSolar Controller,pico,2
 THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,Hairclipper component,accessories,1
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,LNB Head incl. support,SHS+TV,1
 THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,Radio component,pico,1
-THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,SKH Controller,pico,1
-THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,WowSolar Batterie GM 80W,SHS+TV,2
-THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,WowSolar Controller,pico,9
-THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,WowSolar Extension cable,pico,5
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,Satellite Cable 12m incl. connectors,SHS+TV,1
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,Satellite Dish incl. support,SHS+TV,1
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,SKH Controller,pico,9
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,SKH Extension cable,pico,9
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,SKH Lamp,pico,27
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,SKH PV Panel,pico,9
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,SKH USB cable,pico,9
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,SKH Wall mount,pico,9
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,WowSolar Batterie GM 80W,SHS+TV,4
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,WowSolar Controller,pico,6
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,WowSolar Extension cable,pico,6
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,WowSolar Lamp 140lm,pico,4
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,WowSolar Lamp 400lm,pico,2
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,WowSolar Panel 40W,SHS+TV,1
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,WowSolar Remote control,,1
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,WowSolar TV Screen 19 ,SHS+TV,1
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,WowSolar TV Screen 22,SHS+TV,1
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,WowSolar USB charger,pico,1
+THIERNO SALIOU  DOUMBOUYA - tamba_sav31,personal,1450,WowSolar Wall mount,pico,1
 Thies,multi_manager,104,Fan component,,5
 Thies,multi_manager,104,LNB Head incl. support,SHS+TV,33
 Thies,multi_manager,104,Panel Fan ,,2
@@ -2187,22 +2283,25 @@ Thies,multi_manager,104,Satellite Cable 12m incl. connectors,SHS+TV,11
 Thies,multi_manager,104,Satellite Dish incl. support,SHS+TV,43
 Thies,multi_manager,104,SKH Controller,pico,1121
 Thies,multi_manager,104,SKH Extension cable,pico,167
-Thies,multi_manager,104,SKH Lamp,pico,3700
+Thies,multi_manager,104,SKH Lamp,pico,3701
 Thies,multi_manager,104,SKH PV Panel,pico,1315
 Thies,multi_manager,104,SKH USB cable,pico,220
 Thies,multi_manager,104,SKH Wall mount,pico,325
-Thies,multi_manager,104,WowSolar Batterie GM 80W,SHS+TV,20
-Thies,multi_manager,104,WowSolar Controller,pico,9
+Thies,multi_manager,104,WowSolar Batterie GM 80W,SHS+TV,32
+Thies,multi_manager,104,WowSolar Controller,pico,41
 Thies,multi_manager,104,WowSolar Extension cable,pico,204
-Thies,multi_manager,104,WowSolar Lamp 140lm,pico,1306
+Thies,multi_manager,104,WowSolar Lamp 140lm,pico,1310
 Thies,multi_manager,104,WowSolar Lamp 400lm,pico,111
-Thies,multi_manager,104,WowSolar Panel 40W,SHS+TV,76
-Thies,multi_manager,104,WowSolar Panel 6W,pico,220
-Thies,multi_manager,104,WowSolar Remote control,,13
+Thies,multi_manager,104,WowSolar Panel 40W,SHS+TV,75
+Thies,multi_manager,104,WowSolar Panel 6W,pico,222
+Thies,multi_manager,104,WowSolar Remote control,,12
+Thies,multi_manager,104,WowSolar TV Screen 19 ,SHS+TV,2
 Thies,multi_manager,104,WowSolar USB charger,pico,224
 Thies,multi_manager,104,WowSolar Wall mount,pico,269
 Thomas Sinou - sinou.thomas,personal,344,WowSolar Controller,pico,1
 Thomas ZERBO - Thomas.zerbo,personal,2623,WowSolar Controller,pico,9
+Tiekoura Coulibaly - sandare01,personal,3810,Fan component,,1
+Tiekoura Coulibaly - sandare01,personal,3810,WowSolar Controller,pico,8
 Tiemoko Keita - kati05,personal,1865,WowSolar Controller,pico,1
 Titus Gesa - Abuja01,personal,1677,Fan component,,6
 Titus Gesa - Abuja01,personal,1677,Portable light component,,7
@@ -2225,7 +2324,7 @@ toheeb odeboye - ibadan15,personal,2442,Portable light component,,1
 Tope Adekunle - akure16,personal,1807,Portable light component,,1
 Tope Adekunle - akure16,personal,1807,WowSolar Controller,pico,3
 Totao GOUBA - gouba.totao,personal,2118,Fan component,,4
-Totao GOUBA - gouba.totao,personal,2118,WowSolar Controller,pico,11
+Totao GOUBA - gouba.totao,personal,2118,WowSolar Controller,pico,10
 Totao GOUBA - gouba.totao,personal,2118,WowSolar Extension cable,pico,2
 Toutou Diabaté - toutou.diabate,personal,2446,WowSolar Controller,pico,16
 Toutou Diabaté - toutou.diabate,personal,2446,WowSolar Extension cable,pico,3
@@ -2234,8 +2333,7 @@ Toutou Diabaté - toutou.diabate,personal,2446,WowSolar Panel 6W,pico,3
 Toutou Diabaté - toutou.diabate,personal,2446,WowSolar USB charger,pico,3
 Toutou Diabaté - toutou.diabate,personal,2446,WowSolar Wall mount,pico,3
 Toyin Aredunmola - ore01,personal,1591,WowSolar Controller,pico,2
-Trust Igor - trust.igor,personal,2789,Burn stove component,accessories,2
-Trust Igor - trust.igor,personal,2789,Fan component,,5
+Trust Igor - trust.igor,personal,2789,Fan component,,4
 Trust Igor - trust.igor,personal,2789,Oolu TV Screen 32,SHS+TV,1
 Trust Igor - trust.igor,personal,2789,Portable light component,,32
 Trust Igor - trust.igor,personal,2789,Powerhub 1280 component,big SHS,2
@@ -2278,7 +2376,6 @@ usman musa ogba - doma06,personal,1786,WowSolar Controller,pico,12
 VANELLE NGOUZON - vanelle.ngouzon,personal,3466,D100 Controller,pico,2
 Vente Bureau - vente.bureau,personal,3824,WowSolar Controller,pico,1
 VICTOR EJIMADU - victor.ejimadu,personal,2996,WowSolar Controller,pico,1
-Victoria Abraham - okene008,personal,2719,Portable light component,,1
 victoria adedeji - atisbo04,personal,1707,WowSolar Controller,pico,1
 Victor Paul - uromi10,personal,1664,WowSolar Controller,pico,1
 vincenzo capogna - agent.test,personal,6,SKH Controller,pico,4
@@ -2288,11 +2385,11 @@ vincenzo capogna - agent.test,personal,6,SKH PV Panel,pico,4
 vincenzo capogna - agent.test,personal,6,SKH USB cable,pico,5
 vincenzo capogna - agent.test,personal,6,SKH Wall mount,pico,3
 VITAL ONDOA - vital.ondoa,personal,3464,D100 Controller,pico,6
-VITAL  SAGNA - ziguinchorpoly02,personal,225,Hairclipper component,accessories,1
 VITAL  SAGNA - ziguinchorpoly02,personal,225,SKH Controller,pico,7
 VITAL  SAGNA - ziguinchorpoly02,personal,225,WowSolar Controller,pico,4
-Wagnatou Diallo - diema01,personal,1367,Fan component,,8
-Wagnatou Diallo - diema01,personal,1367,WowSolar Controller,pico,38
+VITAL  SAGNA - ziguinchorpoly02,personal,225,WowSolar Remote control,,1
+Wagnatou Diallo - diema01,personal,1367,Fan component,,4
+Wagnatou Diallo - diema01,personal,1367,WowSolar Controller,pico,20
 Wagnatou Diallo - diema01,personal,1367,WowSolar Extension cable,pico,1
 Wagnatou Diallo - diema01,personal,1367,WowSolar Lamp 140lm,pico,4
 Wagnatou Diallo - diema01,personal,1367,WowSolar Panel 6W,pico,1
@@ -2314,7 +2411,7 @@ WOBEH OBUNEZI - IGUWUTA03,personal,2431,WowSolar Panel 10W,pico,1
 WOBEH OBUNEZI - IGUWUTA03,personal,2431,WowSolar USB charger,pico,1
 WOBEH OBUNEZI - IGUWUTA03,personal,2431,WowSolar Wall mount,pico,1
 WOUROKOLE COULIBALY - wourokole,personal,3415,Fan component,,1
-XXX,multi_manager,4,WowSolar Controller,pico,2
+XXX,multi_manager,4,WowSolar Controller,pico,3
 Yacouba Dao - dao.yacouba,personal,1301,Fan component,,1
 Yacouba Dao - dao.yacouba,personal,1301,WowSolar Controller,pico,3
 Yacouba Dao - dao.yacouba,personal,1301,WowSolar Extension cable,pico,1
@@ -2332,7 +2429,7 @@ Yacouba Kienou - kienou.yaouba,personal,1670,LNB Head incl. support,SHS+TV,1
 Yacouba Kienou - kienou.yaouba,personal,1670,Satellite Cable 12m incl. connectors,SHS+TV,1
 Yacouba Kienou - kienou.yaouba,personal,1670,Satellite Dish incl. support,SHS+TV,1
 Yacouba Kienou - kienou.yaouba,personal,1670,WowSolar Batterie GM 80W,SHS+TV,1
-Yacouba Kienou - kienou.yaouba,personal,1670,WowSolar Controller,pico,5
+Yacouba Kienou - kienou.yaouba,personal,1670,WowSolar Controller,pico,6
 Yacouba Kienou - kienou.yaouba,personal,1670,WowSolar Extension cable,pico,1
 Yacouba Kienou - kienou.yaouba,personal,1670,WowSolar Lamp 140lm,pico,4
 Yacouba Kienou - kienou.yaouba,personal,1670,WowSolar Lamp 400lm,pico,2
@@ -2345,11 +2442,16 @@ Yaqub Mayowa Babarinde - kabba024,personal,3210,Fan component,,1
 Yaqub Mayowa Babarinde - kabba024,personal,3210,Oolu TV Screen 24,SHS+TV,1
 Yaqub Mayowa Babarinde - kabba024,personal,3210,Oolu TV Screen 32,SHS+TV,1
 Yaqub Mayowa Babarinde - kabba024,personal,3210,WowSolar Controller,pico,1
-Yaya Doumbia - gouana01,personal,432,WowSolar Controller,pico,2
+Yaya Doumbia - gouana01,personal,432,WowSolar Controller,pico,1
 Yaya Konaré - kalifabougou02,personal,3642,Fan component,,1
 Yaya Konaré - kalifabougou02,personal,3642,WowSolar Controller,pico,5
 Y. Clément YONLI - yonli,personal,3729,Fan component,,1
-Y. Clément YONLI - yonli,personal,3729,WowSolar Controller,pico,14
+Y. Clément YONLI - yonli,personal,3729,WowSolar Controller,pico,11
+Y. Clément YONLI - yonli,personal,3729,WowSolar Extension cable,pico,1
+Y. Clément YONLI - yonli,personal,3729,WowSolar Lamp 140lm,pico,4
+Y. Clément YONLI - yonli,personal,3729,WowSolar Panel 6W,pico,1
+Y. Clément YONLI - yonli,personal,3729,WowSolar USB charger,pico,1
+Y. Clément YONLI - yonli,personal,3729,WowSolar Wall mount,pico,1
 YERO BARRY - kaolackpoly12,personal,2765,SKH Controller,pico,1
 YERO BARRY - kaolackpoly12,personal,2765,SKH Extension cable,pico,1
 YERO BARRY - kaolackpoly12,personal,2765,SKH Lamp,pico,4
@@ -2357,7 +2459,7 @@ YERO BARRY - kaolackpoly12,personal,2765,SKH PV Panel,pico,2
 YERO BARRY - kaolackpoly12,personal,2765,SKH USB cable,pico,1
 YERO BARRY - kaolackpoly12,personal,2765,SKH Wall mount,pico,1
 YERO BARRY - kaolackpoly12,personal,2765,WowSolar Lamp 400lm,pico,1
-YERO KEBE - koldapoly18,personal,3189,WowSolar Controller,pico,2
+YERO KEBE - koldapoly18,personal,3189,WowSolar Controller,pico,1
 YERO KEBE - koldapoly18,personal,3189,WowSolar Extension cable,pico,4
 YERO KEBE - koldapoly18,personal,3189,WowSolar Lamp 140lm,pico,1
 yusuf ari ibrahim - wamba,personal,1857,WowSolar Controller,pico,2
@@ -2366,7 +2468,7 @@ Yusuf Brown - ondo02,personal,581,Portable light component,,1
 Yusuf Brown - ondo02,personal,581,WowSolar Controller,pico,6
 yusuf isiaka - okpata,personal,2276,WowSolar Controller,pico,2
 YVES PATRICE DJILAMBA  BASSENE - ziguinchorpoly07,personal,1931,WowSolar Controller,pico,2
-YYY - Kits en cours de remboursement,multi_manager,3219,Fan component,,2
+YYY - Kits en cours de remboursement,multi_manager,3219,Fan component,,1
 YYY - Kits en cours de remboursement,multi_manager,3219,Hairclipper component,accessories,2
 YYY - Kits en cours de remboursement,multi_manager,3219,SKH Controller,pico,10
 YYY - Kits en cours de remboursement,multi_manager,3219,WowSolar Controller,pico,6
@@ -2381,29 +2483,28 @@ ZAK NEERE FINANCE - zak,personal,3413,Hairclipper component,accessories,4
 ZAK NEERE FINANCE - zak,personal,3413,WowSolar Controller,pico,5
 ZAMA TIEN - tien.zama,personal,3089,WowSolar Controller,pico,1
 Ziguinchor,multi_manager,2131,Fan component,,2
-Ziguinchor,multi_manager,2131,LNB Head incl. support,SHS+TV,24
+Ziguinchor,multi_manager,2131,LNB Head incl. support,SHS+TV,29
 Ziguinchor,multi_manager,2131,Radio component,pico,1
-Ziguinchor,multi_manager,2131,Satellite Cable 12m incl. connectors,SHS+TV,1
-Ziguinchor,multi_manager,2131,Satellite Dish incl. support,SHS+TV,16
-Ziguinchor,multi_manager,2131,SKH Controller,pico,385
+Ziguinchor,multi_manager,2131,Satellite Dish incl. support,SHS+TV,18
+Ziguinchor,multi_manager,2131,SKH Controller,pico,395
 Ziguinchor,multi_manager,2131,SKH Extension cable,pico,63
-Ziguinchor,multi_manager,2131,SKH Lamp,pico,1006
-Ziguinchor,multi_manager,2131,SKH PV Panel,pico,351
+Ziguinchor,multi_manager,2131,SKH Lamp,pico,1018
+Ziguinchor,multi_manager,2131,SKH PV Panel,pico,353
 Ziguinchor,multi_manager,2131,SKH USB cable,pico,12
 Ziguinchor,multi_manager,2131,SKH Wall mount,pico,115
-Ziguinchor,multi_manager,2131,WowSolar Batterie GM 80W,SHS+TV,12
-Ziguinchor,multi_manager,2131,WowSolar Controller,pico,11
-Ziguinchor,multi_manager,2131,WowSolar Extension cable,pico,70
-Ziguinchor,multi_manager,2131,WowSolar Lamp 140lm,pico,312
-Ziguinchor,multi_manager,2131,WowSolar Lamp 400lm,pico,36
-Ziguinchor,multi_manager,2131,WowSolar Panel 40W,SHS+TV,26
-Ziguinchor,multi_manager,2131,WowSolar Panel 6W,pico,53
-Ziguinchor,multi_manager,2131,WowSolar Remote control,,5
-Ziguinchor,multi_manager,2131,WowSolar TV Screen 19 ,SHS+TV,1
-Ziguinchor,multi_manager,2131,WowSolar TV Screen 22,SHS+TV,2
+Ziguinchor,multi_manager,2131,WowSolar Batterie GM 80W,SHS+TV,19
+Ziguinchor,multi_manager,2131,WowSolar Controller,pico,23
+Ziguinchor,multi_manager,2131,WowSolar Extension cable,pico,76
+Ziguinchor,multi_manager,2131,WowSolar Lamp 140lm,pico,357
+Ziguinchor,multi_manager,2131,WowSolar Lamp 400lm,pico,28
+Ziguinchor,multi_manager,2131,WowSolar Panel 40W,SHS+TV,32
+Ziguinchor,multi_manager,2131,WowSolar Panel 6W,pico,62
+Ziguinchor,multi_manager,2131,WowSolar Remote control,,8
+Ziguinchor,multi_manager,2131,WowSolar TV Screen 19 ,SHS+TV,2
+Ziguinchor,multi_manager,2131,WowSolar TV Screen 22,SHS+TV,5
 Ziguinchor,multi_manager,2131,WowSolar TV Screen 32,,1
-Ziguinchor,multi_manager,2131,WowSolar USB charger,pico,62
-Ziguinchor,multi_manager,2131,WowSolar Wall mount,pico,81
+Ziguinchor,multi_manager,2131,WowSolar USB charger,pico,68
+Ziguinchor,multi_manager,2131,WowSolar Wall mount,pico,92
 Zinta Boris TIRA - tira,personal,3698,WowSolar Controller,pico,1
 Zinta Boris TIRA - tira,personal,3698,WowSolar Extension cable,pico,1
 Zinta Boris TIRA - tira,personal,3698,WowSolar Lamp 140lm,pico,4
@@ -2420,14 +2521,14 @@ ZZZ,multi_manager,1493,WowSolar Panel 6W,pico,8
 ZZZ,multi_manager,1493,WowSolar USB charger,pico,8
 ZZZ,multi_manager,1493,WowSolar Wall mount,pico,8
 ZZZ,multi_manager,1622,WowSolar Controller,pico,13
-ZZZ,multi_manager,2411,SKH Controller,pico,67
+ZZZ,multi_manager,2411,SKH Controller,pico,66
 ZZZ,multi_manager,2411,SKH Extension cable,pico,6
 ZZZ,multi_manager,2411,SKH Lamp,pico,15
 ZZZ,multi_manager,2411,SKH PV Panel,pico,5
 ZZZ,multi_manager,2411,SKH USB cable,pico,6
 ZZZ,multi_manager,2411,SKH Wall mount,pico,6
 ZZZ,multi_manager,2411,WowSolar Controller,pico,91
-ZZZ,multi_manager,2411,WowSolar Extension cable,pico,14
+ZZZ,multi_manager,2411,WowSolar Extension cable,pico,15
 ZZZ,multi_manager,2411,WowSolar Lamp 140lm,pico,30
 ZZZ,multi_manager,2411,WowSolar Panel 6W,pico,7
 ZZZ,multi_manager,2411,WowSolar USB charger,pico,16
@@ -2436,26 +2537,27 @@ ZZZ - Batteries fin de contrat,multi_manager,833,SKH Controller,pico,4
 ZZZ - Batteries fin de contrat,multi_manager,833,WowSolar Controller,pico,9
 ZZZ - Batteries fin de contrat,multi_manager,2177,SKH Controller,pico,30
 ZZZ - Batteries fin de contrat,multi_manager,2177,WowSolar Controller,pico,3
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,LNB Head incl. support,SHS+TV,52
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,Satellite Cable 12m incl. connectors,SHS+TV,39
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,Satellite Dish incl. support,SHS+TV,50
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,LNB Head incl. support,SHS+TV,64
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,Satellite Cable 12m incl. connectors,SHS+TV,45
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,Satellite Dish incl. support,SHS+TV,55
 ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,SKH Controller,pico,3
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,SKH Extension cable,pico,79
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,SKH Extension cable,pico,96
 ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,SKH Lamp,pico,19
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,SKH PV Panel,pico,8
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,SKH USB cable,pico,84
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,SKH Wall mount,pico,78
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar Batterie GM 80W,SHS+TV,4
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar Extension cable,pico,37
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar Lamp 140lm,pico,26
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar Lamp 400lm,pico,15
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar Panel 40W,SHS+TV,4
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar Panel 6W,pico,3
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar Remote control,,5
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar TV Screen 19 ,SHS+TV,3
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar TV Screen 22,SHS+TV,3
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar USB charger,pico,20
-ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar Wall mount,pico,14
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,SKH PV Panel,pico,9
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,SKH USB cable,pico,101
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,SKH Wall mount,pico,94
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar Batterie GM 80W,SHS+TV,14
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar Extension cable,pico,47
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar Lamp 140lm,pico,47
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar Lamp 400lm,pico,43
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar Panel 40W,SHS+TV,10
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar Panel 6W,pico,6
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar Remote control,,11
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar TV Screen 19 ,SHS+TV,4
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar TV Screen 22,SHS+TV,5
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar TV Screen 32,,1
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar USB charger,pico,30
+ZZZ - Erreurs Déploiement hub composants,multi_manager,2493,WowSolar Wall mount,pico,24
 ZZZ - LGS,multi_manager,2693,Adapter Fan,accessories,3
 ZZZ - LGS,multi_manager,2693,Fan component,,26
 ZZZ - LGS,multi_manager,2693,Hairclipper component,accessories,2

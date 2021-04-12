@@ -382,6 +382,7 @@ def update_table(pathname):
 
 
 def update_connection(n):
+
     global sale_col
     if n > 0:
         collect.get_data()
